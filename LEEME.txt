@@ -1,0 +1,6 @@
+日本語のリト — versión 4.1
+
+Para GitHub Pages: sube TODOS los archivos de esta carpeta a la raíz del repositorio (index.html debe quedar en la raíz). Activa Settings > Pages > Deploy from a branch > main > /(root).
+En iPhone: abre la URL HTTPS en Safari, Compartir > Añadir a pantalla de inicio. Abre una vez con conexión y prueba modo avión.
+
+Esta versión cambia el nombre, iconos y caché de la aplicación; conserva los modos y contenido de v4. El progreso guardado en el mismo origen se mantiene porque la clave local no cambió. Si cambias la URL o repositorio, exporta el progreso desde la app anterior e impórtalo en la nueva.
