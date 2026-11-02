@@ -1,0 +1,110 @@
+[
+  {
+    "id": "territorio",
+    "title": "Las 47 prefecturas",
+    "category": "Geografía",
+    "body": "Japón se divide en 47 prefecturas: 1 metrópolis (Tokio), 1 circuito (Hokkaidō), 2 prefecturas urbanas (Osaka y Kioto) y 43 prefecturas restantes.",
+    "japanese": "日本には47の都道府県があります。",
+    "kana": "にほんには よんじゅうななの とどうふけんが あります。",
+    "spanish": "Japón tiene 47 prefecturas."
+  },
+  {
+    "id": "regiones",
+    "title": "Las regiones de Japón",
+    "category": "Geografía",
+    "body": "Una agrupación habitual distingue ocho regiones: Hokkaidō, Tōhoku, Kantō, Chūbu, Kansai/Kinki, Chūgoku, Shikoku y Kyūshū (a veces Okinawa se presenta por separado).",
+    "japanese": "関西には京都があります。",
+    "kana": "かんさいには きょうとが あります。",
+    "spanish": "En Kansai se encuentra Kioto."
+  },
+  {
+    "id": "municipios",
+    "title": "Ciudades, pueblos y aldeas",
+    "category": "Geografía",
+    "body": "Por debajo de las prefecturas hay municipios: ciudades (shi), pueblos (machi/chō) y aldeas (mura/son). Los 23 distritos especiales de Tokio tienen un régimen particular.",
+    "japanese": "東京には特別区があります。",
+    "kana": "とうきょうには とくべつくが あります。",
+    "spanish": "Tokio tiene distritos especiales."
+  },
+  {
+    "id": "islas",
+    "title": "Islas y territorio",
+    "category": "Geografía",
+    "body": "Las cuatro islas principales son Honshū, Hokkaidō, Kyūshū y Shikoku. El país también cuenta con numerosas islas menores, volcanes y zonas montañosas.",
+    "japanese": "富士山は日本にあります。",
+    "kana": "ふじさんは にほんに あります。",
+    "spanish": "El monte Fuji está en Japón."
+  },
+  {
+    "id": "tren",
+    "title": "Cómo tomar un tren",
+    "category": "Transporte",
+    "body": "Comprueba la línea, el destino y el andén. En estaciones grandes, un mismo lugar puede servir varias compañías. Sigue la señalización y verifica si el servicio es local, rápido o expreso.",
+    "japanese": "この電車は東京に行きますか。",
+    "kana": "このでんしゃは とうきょうに いきますか。",
+    "spanish": "¿Este tren va a Tokio?"
+  },
+  {
+    "id": "ic",
+    "title": "Tarjetas IC",
+    "category": "Transporte",
+    "body": "Las tarjetas de transporte recargables como Suica o PASMO suelen facilitar los viajes en redes compatibles. La cobertura, métodos de pago y disponibilidad varían según zona y operador.",
+    "japanese": "切符はどこで買えますか。",
+    "kana": "きっぷは どこで かえますか。",
+    "spanish": "¿Dónde puedo comprar un boleto?"
+  },
+  {
+    "id": "shinkansen",
+    "title": "Shinkansen",
+    "category": "Transporte",
+    "body": "Los trenes de alta velocidad conectan muchas ciudades. Algunos servicios requieren reserva o tienen reglas particulares para equipaje grande; conviene revisar el operador antes de viajar.",
+    "japanese": "新幹線に乗ります。",
+    "kana": "しんかんせんに のります。",
+    "spanish": "Voy a tomar el Shinkansen."
+  },
+  {
+    "id": "etiqueta",
+    "title": "Cortesía cotidiana",
+    "category": "Sociedad",
+    "body": "Las fórmulas de saludo y agradecimiento cambian según el contexto. Evita asumir que todas las personas actúan igual: las costumbres varían por región, edad y situación.",
+    "japanese": "ありがとうございます。",
+    "kana": "ありがとうございます。",
+    "spanish": "Muchas gracias."
+  },
+  {
+    "id": "comida",
+    "title": "Comida regional",
+    "category": "Gastronomía",
+    "body": "Japón tiene una enorme variedad culinaria regional: ramen, soba, udon, okonomiyaki, platos de pescado y especialidades locales. No existe una sola cocina japonesa uniforme.",
+    "japanese": "おすすめは何ですか。",
+    "kana": "おすすめは なんですか。",
+    "spanish": "¿Qué recomienda?"
+  },
+  {
+    "id": "templos",
+    "title": "Santuarios y templos",
+    "category": "Tradiciones",
+    "body": "Los santuarios sintoístas y los templos budistas son instituciones diferentes. Las normas de visita dependen del lugar; observa los avisos y respeta los espacios de oración.",
+    "japanese": "ここはお寺です。",
+    "kana": "ここは おてらです。",
+    "spanish": "Esto es un templo budista."
+  },
+  {
+    "id": "festivales",
+    "title": "Matsuri",
+    "category": "Tradiciones",
+    "body": "Los matsuri son festividades locales muy diversas; pueden incluir procesiones, música, puestos de comida y ceremonias. Su significado cambia según la comunidad.",
+    "japanese": "今日はお祭りです。",
+    "kana": "きょうは おまつりです。",
+    "spanish": "Hoy hay un festival."
+  },
+  {
+    "id": "estaciones",
+    "title": "Las cuatro estaciones",
+    "category": "Naturaleza",
+    "body": "Primavera, verano, otoño e invierno se viven de forma distinta entre el norte y el sur. El clima cambia considerablemente entre Hokkaidō, Honshū y Okinawa.",
+    "japanese": "春は桜がきれいです。",
+    "kana": "はるは さくらが きれいです。",
+    "spanish": "En primavera los cerezos son hermosos."
+  }
+]

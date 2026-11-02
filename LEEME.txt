@@ -1,9 +1,9 @@
-日本語のリト v6.0 — Ruta de gramática inicial
+日本語のリト v7.0 — Primera entrega del rediseño de viaje
 
-Contenido nuevo: 25 lecciones con 5 oraciones originales por lección (125 en total). Cada práctica contiene 20 preguntas y repite las 5 oraciones de la lección. Esto es una versión inicial; NO contiene todavía 20 oraciones únicas por lección.
+Incluye: inicio con tres etapas libres, pasaporte personal, sellos básicos, centro de respaldos, 12 fichas culturales originales y navegación a Descubriendo Japón. Mantiene la base de datos y prácticas de v6.
 
-Talleres separados: partículas, verbos (incluida forma て), adjetivos い y な. Se conserva el vocabulario, abecedarios, perfil e historial local de v5.
+IMPORTANTE: inicio de sesión con Google y sincronización NO implementados. El progreso se guarda en localStorage del navegador. Exporta JSON antes de actualizar o cambiar de dispositivo.
 
-Para publicar: subir todos los archivos de este ZIP a la raíz del mismo repositorio de GitHub Pages, reemplazando los anteriores. Conservar respaldo de datos y comprobar conexión inicial antes de probar sin conexión.
+Subir TODOS los archivos descomprimidos a la raíz del repositorio GitHub Pages, incluido culture.json. Reemplazar archivos homónimos. No subir el ZIP.
 
-Las oraciones son ejemplos originales y no reproducen los ejercicios del libro Minna no Nihongo. El orden está inspirado en la progresión introductoria de gramática japonesa, sin pretender ser un índice oficial exacto.
+La lectura kana bajo todas las oraciones antiguas está pendiente de revisión editorial; se añade donde hay transcripción verificada, sin inventar pronunciaciones automáticas.
