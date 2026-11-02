@@ -1,0 +1,336 @@
+[
+  {
+    "id": "P01",
+    "japanese": "私は学生です。",
+    "kana": "わたしはがくせいです。",
+    "spanish": "Soy estudiante.",
+    "answers": [
+      "は"
+    ],
+    "explanation": [
+      "は presenta a «yo» como tema de la conversación."
+    ],
+    "template": "私＿学生です。"
+  },
+  {
+    "id": "P02",
+    "japanese": "誰が来ましたか。",
+    "kana": "だれがきましたか。",
+    "spanish": "¿Quién vino?",
+    "answers": [
+      "が"
+    ],
+    "explanation": [
+      "が identifica quién realizó la acción; en preguntas con 誰 suele usarse が."
+    ],
+    "template": "誰＿来ましたか。"
+  },
+  {
+    "id": "P03",
+    "japanese": "水を飲みます。",
+    "kana": "みずをのみます。",
+    "spanish": "Bebo agua.",
+    "answers": [
+      "を"
+    ],
+    "explanation": [
+      "を marca aquello que se bebe, el objeto directo."
+    ],
+    "template": "水＿飲みます。"
+  },
+  {
+    "id": "P04",
+    "japanese": "学校に行きます。",
+    "kana": "がっこうにいきます。",
+    "spanish": "Voy a la escuela.",
+    "answers": [
+      "に"
+    ],
+    "explanation": [
+      "に señala el destino al que se dirige el movimiento."
+    ],
+    "template": "学校＿行きます。"
+  },
+  {
+    "id": "P05",
+    "japanese": "図書館で勉強します。",
+    "kana": "としょかんでべんきょうします。",
+    "spanish": "Estudio en la biblioteca.",
+    "answers": [
+      "で"
+    ],
+    "explanation": [
+      "で indica el lugar donde ocurre una actividad."
+    ],
+    "template": "図書館＿勉強します。"
+  },
+  {
+    "id": "P06",
+    "japanese": "七時に起きます。",
+    "kana": "しちじにおきます。",
+    "spanish": "Me levanto a las siete.",
+    "answers": [
+      "に"
+    ],
+    "explanation": [
+      "に señala una hora específica."
+    ],
+    "template": "七時＿起きます。"
+  },
+  {
+    "id": "P07",
+    "japanese": "机の上に本があります。",
+    "kana": "つくえのうえにほんがあります。",
+    "spanish": "Hay un libro encima del escritorio.",
+    "answers": [
+      "の",
+      "に",
+      "が"
+    ],
+    "explanation": [
+      "の conecta escritorio y arriba; に marca la ubicación; が identifica lo que existe."
+    ],
+    "template": "机＿上＿本＿あります。"
+  },
+  {
+    "id": "P08",
+    "japanese": "友達と映画を見ます。",
+    "kana": "ともだちとえいがをみます。",
+    "spanish": "Veo una película con un amigo.",
+    "answers": [
+      "と",
+      "を"
+    ],
+    "explanation": [
+      "と señala compañía; を marca la película como objeto."
+    ],
+    "template": "友達＿映画＿見ます。"
+  },
+  {
+    "id": "P09",
+    "japanese": "東京から京都まで行きます。",
+    "kana": "とうきょうからきょうとまでいきます。",
+    "spanish": "Voy de Tokio a Kioto.",
+    "answers": [
+      "から",
+      "まで"
+    ],
+    "explanation": [
+      "から indica origen; まで indica límite o destino final."
+    ],
+    "template": "東京＿京都＿行きます。"
+  },
+  {
+    "id": "P10",
+    "japanese": "電車で会社へ行きます。",
+    "kana": "でんしゃでかいしゃへいきます。",
+    "spanish": "Voy al trabajo en tren.",
+    "answers": [
+      "で",
+      "へ"
+    ],
+    "explanation": [
+      "で expresa medio de transporte; へ indica dirección (se pronuncia e)."
+    ],
+    "template": "電車＿会社＿行きます。"
+  },
+  {
+    "id": "P11",
+    "japanese": "猫が部屋にいます。",
+    "kana": "ねこがへやにいます。",
+    "spanish": "Hay un gato en la habitación.",
+    "answers": [
+      "が",
+      "に"
+    ],
+    "explanation": [
+      "が identifica el ser que existe; に marca dónde está."
+    ],
+    "template": "猫＿部屋＿います。"
+  },
+  {
+    "id": "P12",
+    "japanese": "私は公園で走ります。",
+    "kana": "わたしはこうえんではしります。",
+    "spanish": "Corro en el parque.",
+    "answers": [
+      "は",
+      "で"
+    ],
+    "explanation": [
+      "は presenta el tema; で indica dónde ocurre correr."
+    ],
+    "template": "私＿公園＿走ります。"
+  },
+  {
+    "id": "P13",
+    "japanese": "この本は私のです。",
+    "kana": "このほんはわたしのです。",
+    "spanish": "Este libro es mío.",
+    "answers": [
+      "は",
+      "の"
+    ],
+    "explanation": [
+      "は presenta el libro como tema; の indica pertenencia."
+    ],
+    "template": "この本＿私＿です。"
+  },
+  {
+    "id": "P14",
+    "japanese": "日本語が好きです。",
+    "kana": "にほんごがすきです。",
+    "spanish": "Me gusta el japonés.",
+    "answers": [
+      "が"
+    ],
+    "explanation": [
+      "が señala aquello que gusta en la construcción ～が好きです."
+    ],
+    "template": "日本語＿好きです。"
+  },
+  {
+    "id": "P15",
+    "japanese": "昨日は雨が降りました。",
+    "kana": "きのうはあめがふりました。",
+    "spanish": "Ayer llovió.",
+    "answers": [
+      "は",
+      "が"
+    ],
+    "explanation": [
+      "は establece ayer como marco temático; が marca la lluvia como sujeto."
+    ],
+    "template": "昨日＿雨＿降りました。"
+  },
+  {
+    "id": "P16",
+    "japanese": "駅で切符を買います。",
+    "kana": "えきできっぷをかいます。",
+    "spanish": "Compro un boleto en la estación.",
+    "answers": [
+      "で",
+      "を"
+    ],
+    "explanation": [
+      "で marca lugar de acción; を marca el objeto comprado."
+    ],
+    "template": "駅＿切符＿買います。"
+  },
+  {
+    "id": "P17",
+    "japanese": "日本へ旅行します。",
+    "kana": "にほんへりょこうします。",
+    "spanish": "Viajo a Japón.",
+    "answers": [
+      "へ"
+    ],
+    "explanation": [
+      "へ expresa dirección; se escribe へ y se pronuncia e."
+    ],
+    "template": "日本＿旅行します。"
+  },
+  {
+    "id": "P18",
+    "japanese": "朝ご飯を食べてから学校に行きます。",
+    "kana": "あさごはんをたべてからがっこうにいきます。",
+    "spanish": "Después de desayunar voy a la escuela.",
+    "answers": [
+      "を",
+      "から",
+      "に"
+    ],
+    "explanation": [
+      "を marca el desayuno; てから indica después de hacer algo; に indica destino."
+    ],
+    "template": "朝ご飯＿食べて＿学校＿行きます。"
+  },
+  {
+    "id": "P19",
+    "japanese": "日曜日に家族と公園へ行きます。",
+    "kana": "にちようびにかぞくとこうえんへいきます。",
+    "spanish": "El domingo voy al parque con mi familia.",
+    "answers": [
+      "に",
+      "と",
+      "へ"
+    ],
+    "explanation": [
+      "に marca tiempo; と compañía; へ dirección."
+    ],
+    "template": "日曜日＿家族＿公園＿行きます。"
+  },
+  {
+    "id": "P20",
+    "japanese": "ここに名前を書いてください。",
+    "kana": "ここになまえをかいてください。",
+    "spanish": "Escribe tu nombre aquí, por favor.",
+    "answers": [
+      "に",
+      "を"
+    ],
+    "explanation": [
+      "に indica el lugar de destino de lo escrito; を el objeto de escribir."
+    ],
+    "template": "ここ＿名前＿書いてください。"
+  },
+  {
+    "id": "P21",
+    "japanese": "兄は私より背が高いです。",
+    "kana": "あにはわたしよりせがたかいです。",
+    "spanish": "Mi hermano es más alto que yo.",
+    "answers": [
+      "は",
+      "より",
+      "が"
+    ],
+    "explanation": [
+      "は tema; より punto de comparación; が sujeto de la cualidad."
+    ],
+    "template": "兄＿私＿背＿高いです。"
+  },
+  {
+    "id": "P22",
+    "japanese": "駅の前で友達を待ちます。",
+    "kana": "えきのまえでともだちをまちます。",
+    "spanish": "Espero a un amigo frente a la estación.",
+    "answers": [
+      "の",
+      "で",
+      "を"
+    ],
+    "explanation": [
+      "の conecta estación y frente; で lugar de la acción; を objeto de esperar."
+    ],
+    "template": "駅＿前＿友達＿待ちます。"
+  },
+  {
+    "id": "P23",
+    "japanese": "先生に質問をします。",
+    "kana": "せんせいにしつもんをします。",
+    "spanish": "Le hago una pregunta al profesor.",
+    "answers": [
+      "に",
+      "を"
+    ],
+    "explanation": [
+      "に marca destinatario; を marca el objeto."
+    ],
+    "template": "先生＿質問＿します。"
+  },
+  {
+    "id": "P24",
+    "japanese": "教室には学生が三人います。",
+    "kana": "きょうしつにはがくせいがさんにんいます。",
+    "spanish": "Hay tres estudiantes en el salón.",
+    "answers": [
+      "には",
+      "が"
+    ],
+    "explanation": [
+      "には combina lugar y tema, con sentido de «en cuanto al salón».",
+      "が marca los estudiantes como sujeto."
+    ],
+    "template": "教室＿学生＿三人います。"
+  }
+]

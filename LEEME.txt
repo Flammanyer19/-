@@ -1,9 +1,5 @@
-日本語のリト v7.0 — Primera entrega del rediseño de viaje
-
-Incluye: inicio con tres etapas libres, pasaporte personal, sellos básicos, centro de respaldos, 12 fichas culturales originales y navegación a Descubriendo Japón. Mantiene la base de datos y prácticas de v6.
-
-IMPORTANTE: inicio de sesión con Google y sincronización NO implementados. El progreso se guarda en localStorage del navegador. Exporta JSON antes de actualizar o cambiar de dispositivo.
-
-Subir TODOS los archivos descomprimidos a la raíz del repositorio GitHub Pages, incluido culture.json. Reemplazar archivos homónimos. No subir el ZIP.
-
-La lectura kana bajo todas las oraciones antiguas está pendiente de revisión editorial; se añade donde hay transcripción verificada, sin inventar pronunciaciones automáticas.
+日本語のリト v7.2 — actualización completa para GitHub Pages.
+Sube TODOS los archivos descomprimidos a la raíz del repositorio, incluyendo particles.json.
+No borres los datos de Safari. Antes de actualizar, exporta un respaldo desde la app.
+Novedades: taller de partículas con 24 oraciones (20 por sesión), 1–3 espacios; explicaciones; traducciones orientativas en tabla de verbos; avatares emoji chibi provisionales; 8 sellos; avance automático configurable; avión ilustrado de progreso.
+El inicio de sesión Google NO está disponible aún.
