@@ -1,19 +1,20 @@
-# Cambios
+## 8.1.3 — Prácticas breves de partículas
+- Taller de partículas: 5 preguntas por sesión (antes 20).
+- Banco de 300 preguntas: 20 por cada una de las 15 partículas.
+- Selección de 5 partículas distintas por sesión para diversificar la práctica.
+- Lecturas con la partícula oculta hasta comprobar la respuesta.
+- Se mantienen las fichas, los ejemplos por uso y las dudas frecuentes de 8.1.2.
+- Sin cambios en los cuestionarios de las 25 lecciones generales.
 
-## 8.1.1 · Biblioteca de partículas
-- 15 fichas individuales, una por cada partícula de la presentación proporcionada (páginas 2–16).
-- Biblioteca de tarjetas en dos columnas en móvil, estilo sakura inspirado en las diapositivas.
-- Usos revisados, dos ejemplos por partícula, lectura y traducción.
-- Comparaciones movidas a «Dudas frecuentes» (は/が, に/へ/で, と/や, から/まで).
-- Se mantiene el taller de 20 preguntas y su banco anterior, sin alterar sus resultados.
-- Nuevo archivo particle_lessons.json; ajustes en grammar, events, bootstrap, estilos, index y caché offline.
-- Sin cambios intencionales a datos de usuario ni clave localStorage rito_v5.
+# Registro de cambios
 
-### Observaciones sobre el PDF
-- La página 14 mezcla la alternativa nominal con una pregunta final; se presentan como funciones distintas.
-- に y へ pueden usarse ambos con verbos de desplazamiento; no es una oposición absoluta.
-- を se pronuncia normalmente «o» en japonés actual.
-- Ejemplos ampliados y algunas lecturas ajustadas; no se reproducen las diapositivas como imágenes.
+## 8.1.3 — Ejercicios y ejemplos por uso
+- La lectura en kana oculta las mismas partículas que el texto con kanji, hasta comprobar la respuesta.
+- La lectura aumenta de tamaño y se revela al comprobar.
+- Cada ficha incluye un botón «Ejemplos por uso» que abre una pantalla separada.
+- 33 grupos de usos y 165 oraciones originales con kanji, kana y traducción; cinco por grupo.
+- Se explica la diferencia entre la partícula や y el kanji 屋 de 寿司屋.
+- Se conservan las demás secciones de 8.1.1.
 
-### Pendiente
-- Validación manual en Safari iOS y prueba de actualización real desde 8.0.0.
+## 8.1.1
+- Biblioteca de 15 partículas y dudas frecuentes separadas.

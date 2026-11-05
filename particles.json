@@ -1,6 +1,7 @@
 [
   {
-    "id": "P01",
+    "id": "は-01",
+    "particle": "は",
     "japanese": "私は学生です。",
     "kana": "わたしはがくせいです。",
     "spanish": "Soy estudiante.",
@@ -8,38 +9,299 @@
       "は"
     ],
     "explanation": [
-      "は presenta a «yo» como tema de la conversación."
+      "は — Tema de conversación."
     ],
-    "template": "私＿学生です。"
+    "template": "私＿学生です。",
+    "kanaMasked": "わたし＿がくせいです。"
   },
   {
-    "id": "P02",
-    "japanese": "誰が来ましたか。",
-    "kana": "だれがきましたか。",
-    "spanish": "¿Quién vino?",
+    "id": "は-02",
+    "particle": "は",
+    "japanese": "今日は暑いです。",
+    "kana": "きょうはあついです。",
+    "spanish": "Hoy hace calor.",
     "answers": [
-      "が"
+      "は"
     ],
     "explanation": [
-      "が identifica quién realizó la acción; en preguntas con 誰 suele usarse が."
+      "は — Tema de conversación."
     ],
-    "template": "誰＿来ましたか。"
+    "template": "今日＿暑いです。",
+    "kanaMasked": "きょう＿あついです。"
   },
   {
-    "id": "P03",
-    "japanese": "水を飲みます。",
-    "kana": "みずをのみます。",
-    "spanish": "Bebo agua.",
+    "id": "は-03",
+    "particle": "は",
+    "japanese": "母は先生です。",
+    "kana": "はははせんせいです。",
+    "spanish": "Mi madre es profesora.",
     "answers": [
-      "を"
+      "は"
     ],
     "explanation": [
-      "を marca aquello que se bebe, el objeto directo."
+      "は — Tema de conversación."
     ],
-    "template": "水＿飲みます。"
+    "template": "母＿先生です。",
+    "kanaMasked": "はは＿せんせいです。"
   },
   {
-    "id": "P04",
+    "id": "は-04",
+    "particle": "は",
+    "japanese": "この本は面白いです。",
+    "kana": "このほんはおもしろいです。",
+    "spanish": "Este libro es interesante.",
+    "answers": [
+      "は"
+    ],
+    "explanation": [
+      "は — Tema de conversación."
+    ],
+    "template": "この本＿面白いです。",
+    "kanaMasked": "このほん＿おもしろいです。"
+  },
+  {
+    "id": "は-05",
+    "particle": "は",
+    "japanese": "日本語は楽しいです。",
+    "kana": "にほんごはたのしいです。",
+    "spanish": "El japonés es divertido.",
+    "answers": [
+      "は"
+    ],
+    "explanation": [
+      "は — Tema de conversación."
+    ],
+    "template": "日本語＿楽しいです。",
+    "kanaMasked": "にほんご＿たのしいです。"
+  },
+  {
+    "id": "は-06",
+    "particle": "は",
+    "japanese": "コーヒーは飲みますが、お茶は飲みません。",
+    "kana": "こーひーはのみますが、おちゃはのみません。",
+    "spanish": "Tomo café, pero no té.",
+    "answers": [
+      "は"
+    ],
+    "explanation": [
+      "は — Contraste entre temas."
+    ],
+    "template": "コーヒー＿飲みますが、お茶は飲みません。",
+    "kanaMasked": "こーひー＿のみますが、おちゃはのみません。"
+  },
+  {
+    "id": "は-07",
+    "particle": "は",
+    "japanese": "私は行きますが、弟は行きません。",
+    "kana": "わたしはいきますが、おとうとはいきません。",
+    "spanish": "Yo voy, pero mi hermano menor no.",
+    "answers": [
+      "は"
+    ],
+    "explanation": [
+      "は — Contraste entre temas."
+    ],
+    "template": "私＿行きますが、弟は行きません。",
+    "kanaMasked": "わたし＿いきますが、おとうとはいきません。"
+  },
+  {
+    "id": "は-08",
+    "particle": "は",
+    "japanese": "犬は好きですが、猫は苦手です。",
+    "kana": "いぬはすきですが、ねこはにがてです。",
+    "spanish": "Me gustan los perros, pero los gatos no tanto.",
+    "answers": [
+      "は"
+    ],
+    "explanation": [
+      "は — Contraste entre temas."
+    ],
+    "template": "犬＿好きですが、猫は苦手です。",
+    "kanaMasked": "いぬ＿すきですが、ねこはにがてです。"
+  },
+  {
+    "id": "は-09",
+    "particle": "は",
+    "japanese": "朝は忙しいです。",
+    "kana": "あさはいそがしいです。",
+    "spanish": "Por las mañanas estoy ocupado.",
+    "answers": [
+      "は"
+    ],
+    "explanation": [
+      "は — Contraste entre temas."
+    ],
+    "template": "朝＿忙しいです。",
+    "kanaMasked": "あさ＿いそがしいです。"
+  },
+  {
+    "id": "は-10",
+    "particle": "は",
+    "japanese": "これは安いですが、あれは高いです。",
+    "kana": "これはやすいですが、あれはたかいです。",
+    "spanish": "Esto es barato, pero aquello es caro.",
+    "answers": [
+      "は"
+    ],
+    "explanation": [
+      "は — Contraste entre temas."
+    ],
+    "template": "これ＿安いですが、あれは高いです。",
+    "kanaMasked": "これ＿やすいですが、あれはたかいです。"
+  },
+  {
+    "id": "は-11",
+    "particle": "は",
+    "japanese": "父は先生です。",
+    "kana": "ちちはせんせいです。",
+    "spanish": "Mi padre es profesor.",
+    "answers": [
+      "は"
+    ],
+    "explanation": [
+      "は — Práctica adicional."
+    ],
+    "template": "父＿先生です。",
+    "kanaMasked": "ちち＿せんせいです。"
+  },
+  {
+    "id": "は-12",
+    "particle": "は",
+    "japanese": "母は元気です。",
+    "kana": "はははげんきです。",
+    "spanish": "Mi madre está bien.",
+    "answers": [
+      "は"
+    ],
+    "explanation": [
+      "は — Práctica adicional."
+    ],
+    "template": "母＿元気です。",
+    "kanaMasked": "はは＿げんきです。"
+  },
+  {
+    "id": "は-13",
+    "particle": "は",
+    "japanese": "今日は月曜日です。",
+    "kana": "きょうはげつようびです。",
+    "spanish": "Hoy es lunes.",
+    "answers": [
+      "は"
+    ],
+    "explanation": [
+      "は — Práctica adicional."
+    ],
+    "template": "今日＿月曜日です。",
+    "kanaMasked": "きょう＿げつようびです。"
+  },
+  {
+    "id": "は-14",
+    "particle": "は",
+    "japanese": "この本は新しいです。",
+    "kana": "このほんはあたらしいです。",
+    "spanish": "Este libro es nuevo.",
+    "answers": [
+      "は"
+    ],
+    "explanation": [
+      "は — Práctica adicional."
+    ],
+    "template": "この本＿新しいです。",
+    "kanaMasked": "このほん＿あたらしいです。"
+  },
+  {
+    "id": "は-15",
+    "particle": "は",
+    "japanese": "駅は近いです。",
+    "kana": "えきはちかいです。",
+    "spanish": "La estación está cerca.",
+    "answers": [
+      "は"
+    ],
+    "explanation": [
+      "は — Práctica adicional."
+    ],
+    "template": "駅＿近いです。",
+    "kanaMasked": "えき＿ちかいです。"
+  },
+  {
+    "id": "は-16",
+    "particle": "は",
+    "japanese": "夏は暑いです。",
+    "kana": "なつはあついです。",
+    "spanish": "El verano es caluroso.",
+    "answers": [
+      "は"
+    ],
+    "explanation": [
+      "は — Práctica adicional."
+    ],
+    "template": "夏＿暑いです。",
+    "kanaMasked": "なつ＿あついです。"
+  },
+  {
+    "id": "は-17",
+    "particle": "は",
+    "japanese": "魚は食べます。",
+    "kana": "さかなはたべます。",
+    "spanish": "En cuanto al pescado, sí lo como.",
+    "answers": [
+      "は"
+    ],
+    "explanation": [
+      "は — Práctica adicional."
+    ],
+    "template": "魚＿食べます。",
+    "kanaMasked": "さかな＿たべます。"
+  },
+  {
+    "id": "は-18",
+    "particle": "は",
+    "japanese": "肉は食べません。",
+    "kana": "にくはたべません。",
+    "spanish": "En cuanto a la carne, no la como.",
+    "answers": [
+      "は"
+    ],
+    "explanation": [
+      "は — Práctica adicional."
+    ],
+    "template": "肉＿食べません。",
+    "kanaMasked": "にく＿たべません。"
+  },
+  {
+    "id": "は-19",
+    "particle": "は",
+    "japanese": "英語は話せます。",
+    "kana": "えいごははなせます。",
+    "spanish": "Inglés sí puedo hablar.",
+    "answers": [
+      "は"
+    ],
+    "explanation": [
+      "は — Práctica adicional."
+    ],
+    "template": "英語＿話せます。",
+    "kanaMasked": "えいご＿はなせます。"
+  },
+  {
+    "id": "は-20",
+    "particle": "は",
+    "japanese": "明日は休みです。",
+    "kana": "あしたはやすみです。",
+    "spanish": "Mañana es día de descanso.",
+    "answers": [
+      "は"
+    ],
+    "explanation": [
+      "は — Práctica adicional."
+    ],
+    "template": "明日＿休みです。",
+    "kanaMasked": "あした＿やすみです。"
+  },
+  {
+    "id": "に-01",
+    "particle": "に",
     "japanese": "学校に行きます。",
     "kana": "がっこうにいきます。",
     "spanish": "Voy a la escuela.",
@@ -47,25 +309,74 @@
       "に"
     ],
     "explanation": [
-      "に señala el destino al que se dirige el movimiento."
+      "に — Destino de un desplazamiento."
     ],
-    "template": "学校＿行きます。"
+    "template": "学校＿行きます。",
+    "kanaMasked": "がっこう＿いきます。"
   },
   {
-    "id": "P05",
-    "japanese": "図書館で勉強します。",
-    "kana": "としょかんでべんきょうします。",
-    "spanish": "Estudio en la biblioteca.",
+    "id": "に-02",
+    "particle": "に",
+    "japanese": "家に帰ります。",
+    "kana": "いえにかえります。",
+    "spanish": "Regreso a casa.",
     "answers": [
-      "で"
+      "に"
     ],
     "explanation": [
-      "で indica el lugar donde ocurre una actividad."
+      "に — Destino de un desplazamiento."
     ],
-    "template": "図書館＿勉強します。"
+    "template": "家＿帰ります。",
+    "kanaMasked": "いえ＿かえります。"
   },
   {
-    "id": "P06",
+    "id": "に-03",
+    "particle": "に",
+    "japanese": "東京に来ました。",
+    "kana": "とうきょうにきました。",
+    "spanish": "Vine a Tokio.",
+    "answers": [
+      "に"
+    ],
+    "explanation": [
+      "に — Destino de un desplazamiento."
+    ],
+    "template": "東京＿来ました。",
+    "kanaMasked": "とうきょう＿きました。"
+  },
+  {
+    "id": "に-04",
+    "particle": "に",
+    "japanese": "駅に着きました。",
+    "kana": "えきにつきました。",
+    "spanish": "Llegué a la estación.",
+    "answers": [
+      "に"
+    ],
+    "explanation": [
+      "に — Destino de un desplazamiento."
+    ],
+    "template": "駅＿着きました。",
+    "kanaMasked": "えき＿つきました。"
+  },
+  {
+    "id": "に-05",
+    "particle": "に",
+    "japanese": "部屋に入ります。",
+    "kana": "へやにはいります。",
+    "spanish": "Entro en la habitación.",
+    "answers": [
+      "に"
+    ],
+    "explanation": [
+      "に — Destino de un desplazamiento."
+    ],
+    "template": "部屋＿入ります。",
+    "kanaMasked": "へや＿はいります。"
+  },
+  {
+    "id": "に-06",
+    "particle": "に",
     "japanese": "七時に起きます。",
     "kana": "しちじにおきます。",
     "spanish": "Me levanto a las siete.",
@@ -73,152 +384,1304 @@
       "に"
     ],
     "explanation": [
-      "に señala una hora específica."
+      "に — Momento específico."
     ],
-    "template": "七時＿起きます。"
+    "template": "七時＿起きます。",
+    "kanaMasked": "しちじ＿おきます。"
   },
   {
-    "id": "P07",
-    "japanese": "机の上に本があります。",
-    "kana": "つくえのうえにほんがあります。",
-    "spanish": "Hay un libro encima del escritorio.",
+    "id": "に-07",
+    "particle": "に",
+    "japanese": "月曜日に会います。",
+    "kana": "げつようびにあいます。",
+    "spanish": "Nos vemos el lunes.",
     "answers": [
-      "の",
-      "に",
-      "が"
-    ],
-    "explanation": [
-      "の conecta escritorio y arriba; に marca la ubicación; が identifica lo que existe."
-    ],
-    "template": "机＿上＿本＿あります。"
-  },
-  {
-    "id": "P08",
-    "japanese": "友達と映画を見ます。",
-    "kana": "ともだちとえいがをみます。",
-    "spanish": "Veo una película con un amigo.",
-    "answers": [
-      "と",
-      "を"
-    ],
-    "explanation": [
-      "と señala compañía; を marca la película como objeto."
-    ],
-    "template": "友達＿映画＿見ます。"
-  },
-  {
-    "id": "P09",
-    "japanese": "東京から京都まで行きます。",
-    "kana": "とうきょうからきょうとまでいきます。",
-    "spanish": "Voy de Tokio a Kioto.",
-    "answers": [
-      "から",
-      "まで"
-    ],
-    "explanation": [
-      "から indica origen; まで indica límite o destino final."
-    ],
-    "template": "東京＿京都＿行きます。"
-  },
-  {
-    "id": "P10",
-    "japanese": "電車で会社へ行きます。",
-    "kana": "でんしゃでかいしゃへいきます。",
-    "spanish": "Voy al trabajo en tren.",
-    "answers": [
-      "で",
-      "へ"
-    ],
-    "explanation": [
-      "で expresa medio de transporte; へ indica dirección (se pronuncia e)."
-    ],
-    "template": "電車＿会社＿行きます。"
-  },
-  {
-    "id": "P11",
-    "japanese": "猫が部屋にいます。",
-    "kana": "ねこがへやにいます。",
-    "spanish": "Hay un gato en la habitación.",
-    "answers": [
-      "が",
       "に"
     ],
     "explanation": [
-      "が identifica el ser que existe; に marca dónde está."
+      "に — Momento específico."
     ],
-    "template": "猫＿部屋＿います。"
+    "template": "月曜日＿会います。",
+    "kanaMasked": "げつようび＿あいます。"
   },
   {
-    "id": "P12",
-    "japanese": "私は公園で走ります。",
-    "kana": "わたしはこうえんではしります。",
-    "spanish": "Corro en el parque.",
+    "id": "に-08",
+    "particle": "に",
+    "japanese": "三時に始まります。",
+    "kana": "さんじにはじまります。",
+    "spanish": "Empieza a las tres.",
     "answers": [
-      "は",
-      "で"
+      "に"
     ],
     "explanation": [
-      "は presenta el tema; で indica dónde ocurre correr."
+      "に — Momento específico."
     ],
-    "template": "私＿公園＿走ります。"
+    "template": "三時＿始まります。",
+    "kanaMasked": "さんじ＿はじまります。"
   },
   {
-    "id": "P13",
-    "japanese": "この本は私のです。",
-    "kana": "このほんはわたしのです。",
-    "spanish": "Este libro es mío.",
+    "id": "に-09",
+    "particle": "に",
+    "japanese": "日曜日に映画を見ます。",
+    "kana": "にちようびにえいがをみます。",
+    "spanish": "Veo una película el domingo.",
     "answers": [
-      "は",
+      "に"
+    ],
+    "explanation": [
+      "に — Momento específico."
+    ],
+    "template": "日曜日＿映画を見ます。",
+    "kanaMasked": "にちようび＿えいがをみます。"
+  },
+  {
+    "id": "に-10",
+    "particle": "に",
+    "japanese": "十二月に日本へ行きます。",
+    "kana": "じゅうにがつににほんへいきます。",
+    "spanish": "Voy a Japón en diciembre.",
+    "answers": [
+      "に"
+    ],
+    "explanation": [
+      "に — Momento específico."
+    ],
+    "template": "十二月＿日本へ行きます。",
+    "kanaMasked": "じゅうにがつ＿にほんへいきます。"
+  },
+  {
+    "id": "に-11",
+    "particle": "に",
+    "japanese": "部屋に猫がいます。",
+    "kana": "へやにねこがいます。",
+    "spanish": "Hay un gato en la habitación.",
+    "answers": [
+      "に"
+    ],
+    "explanation": [
+      "に — Lugar de existencia."
+    ],
+    "template": "部屋＿猫がいます。",
+    "kanaMasked": "へや＿ねこがいます。"
+  },
+  {
+    "id": "に-12",
+    "particle": "に",
+    "japanese": "机の上に本があります。",
+    "kana": "つくえのうえにほんがあります。",
+    "spanish": "Hay un libro sobre el escritorio.",
+    "answers": [
+      "に"
+    ],
+    "explanation": [
+      "に — Lugar de existencia."
+    ],
+    "template": "机の上＿本があります。",
+    "kanaMasked": "つくえのうえ＿ほんがあります。"
+  },
+  {
+    "id": "に-13",
+    "particle": "に",
+    "japanese": "公園に子供がいます。",
+    "kana": "こうえんにこどもがいます。",
+    "spanish": "Hay niños en el parque.",
+    "answers": [
+      "に"
+    ],
+    "explanation": [
+      "に — Lugar de existencia."
+    ],
+    "template": "公園＿子供がいます。",
+    "kanaMasked": "こうえん＿こどもがいます。"
+  },
+  {
+    "id": "に-14",
+    "particle": "に",
+    "japanese": "駅の前に店があります。",
+    "kana": "えきのまえにみせがあります。",
+    "spanish": "Hay una tienda frente a la estación.",
+    "answers": [
+      "に"
+    ],
+    "explanation": [
+      "に — Lugar de existencia."
+    ],
+    "template": "駅の前＿店があります。",
+    "kanaMasked": "えきのまえ＿みせがあります。"
+  },
+  {
+    "id": "に-15",
+    "particle": "に",
+    "japanese": "庭に犬がいます。",
+    "kana": "にわにいぬがいます。",
+    "spanish": "Hay un perro en el jardín.",
+    "answers": [
+      "に"
+    ],
+    "explanation": [
+      "に — Lugar de existencia."
+    ],
+    "template": "庭＿犬がいます。",
+    "kanaMasked": "にわ＿いぬがいます。"
+  },
+  {
+    "id": "に-16",
+    "particle": "に",
+    "japanese": "三時に会います。",
+    "kana": "さんじにあいます。",
+    "spanish": "Nos vemos a las tres.",
+    "answers": [
+      "に"
+    ],
+    "explanation": [
+      "に — Práctica adicional."
+    ],
+    "template": "三時＿会います。",
+    "kanaMasked": "さんじ＿あいます。"
+  },
+  {
+    "id": "に-17",
+    "particle": "に",
+    "japanese": "日曜日に行きます。",
+    "kana": "にちようびにいきます。",
+    "spanish": "Voy el domingo.",
+    "answers": [
+      "に"
+    ],
+    "explanation": [
+      "に — Práctica adicional."
+    ],
+    "template": "日曜日＿行きます。",
+    "kanaMasked": "にちようび＿いきます。"
+  },
+  {
+    "id": "に-18",
+    "particle": "に",
+    "japanese": "公園に行きます。",
+    "kana": "こうえんにいきます。",
+    "spanish": "Voy al parque.",
+    "answers": [
+      "に"
+    ],
+    "explanation": [
+      "に — Práctica adicional."
+    ],
+    "template": "公園＿行きます。",
+    "kanaMasked": "こうえん＿いきます。"
+  },
+  {
+    "id": "に-19",
+    "particle": "に",
+    "japanese": "机に本があります。",
+    "kana": "つくえにほんがあります。",
+    "spanish": "Hay un libro en el escritorio.",
+    "answers": [
+      "に"
+    ],
+    "explanation": [
+      "に — Práctica adicional."
+    ],
+    "template": "机＿本があります。",
+    "kanaMasked": "つくえ＿ほんがあります。"
+  },
+  {
+    "id": "に-20",
+    "particle": "に",
+    "japanese": "七時に寝ます。",
+    "kana": "しちじにねます。",
+    "spanish": "Me acuesto a las siete.",
+    "answers": [
+      "に"
+    ],
+    "explanation": [
+      "に — Práctica adicional."
+    ],
+    "template": "七時＿寝ます。",
+    "kanaMasked": "しちじ＿ねます。"
+  },
+  {
+    "id": "の-01",
+    "particle": "の",
+    "japanese": "これは私の本です。",
+    "kana": "これはわたしのほんです。",
+    "spanish": "Este es mi libro.",
+    "answers": [
       "の"
     ],
     "explanation": [
-      "は presenta el libro como tema; の indica pertenencia."
+      "の — Posesión o pertenencia."
     ],
-    "template": "この本＿私＿です。"
+    "template": "これは私＿本です。",
+    "kanaMasked": "これはわたし＿ほんです。"
   },
   {
-    "id": "P14",
-    "japanese": "日本語が好きです。",
-    "kana": "にほんごがすきです。",
-    "spanish": "Me gusta el japonés.",
+    "id": "の-02",
+    "particle": "の",
+    "japanese": "父の車は青いです。",
+    "kana": "ちちのくるまはあおいです。",
+    "spanish": "El coche de mi padre es azul.",
     "answers": [
-      "が"
+      "の"
     ],
     "explanation": [
-      "が señala aquello que gusta en la construcción ～が好きです."
+      "の — Posesión o pertenencia."
     ],
-    "template": "日本語＿好きです。"
+    "template": "父＿車は青いです。",
+    "kanaMasked": "ちち＿くるまはあおいです。"
   },
   {
-    "id": "P15",
-    "japanese": "昨日は雨が降りました。",
-    "kana": "きのうはあめがふりました。",
-    "spanish": "Ayer llovió.",
+    "id": "の-03",
+    "particle": "の",
+    "japanese": "友達の名前は田中です。",
+    "kana": "ともだちのなまえはたなかです。",
+    "spanish": "Mi amigo se llama Tanaka.",
     "answers": [
-      "は",
-      "が"
+      "の"
     ],
     "explanation": [
-      "は establece ayer como marco temático; が marca la lluvia como sujeto."
+      "の — Posesión o pertenencia."
     ],
-    "template": "昨日＿雨＿降りました。"
+    "template": "友達＿名前は田中です。",
+    "kanaMasked": "ともだち＿なまえはたなかです。"
   },
   {
-    "id": "P16",
-    "japanese": "駅で切符を買います。",
-    "kana": "えきできっぷをかいます。",
-    "spanish": "Compro un boleto en la estación.",
+    "id": "の-04",
+    "particle": "の",
+    "japanese": "先生のかばんです。",
+    "kana": "せんせいのかばんです。",
+    "spanish": "Es el bolso del profesor.",
     "answers": [
-      "で",
-      "を"
+      "の"
     ],
     "explanation": [
-      "で marca lugar de acción; を marca el objeto comprado."
+      "の — Posesión o pertenencia."
     ],
-    "template": "駅＿切符＿買います。"
+    "template": "先生＿かばんです。",
+    "kanaMasked": "せんせい＿かばんです。"
   },
   {
-    "id": "P17",
+    "id": "の-05",
+    "particle": "の",
+    "japanese": "妹の猫は白いです。",
+    "kana": "いもうとのねこはしろいです。",
+    "spanish": "El gato de mi hermana menor es blanco.",
+    "answers": [
+      "の"
+    ],
+    "explanation": [
+      "の — Posesión o pertenencia."
+    ],
+    "template": "妹＿猫は白いです。",
+    "kanaMasked": "いもうと＿ねこはしろいです。"
+  },
+  {
+    "id": "の-06",
+    "particle": "の",
+    "japanese": "日本語の先生です。",
+    "kana": "にほんごのせんせいです。",
+    "spanish": "Es profesor de japonés.",
+    "answers": [
+      "の"
+    ],
+    "explanation": [
+      "の — Tipo, origen o relación."
+    ],
+    "template": "日本語＿先生です。",
+    "kanaMasked": "にほんご＿せんせいです。"
+  },
+  {
+    "id": "の-07",
+    "particle": "の",
+    "japanese": "日本の料理が好きです。",
+    "kana": "にほんのりょうりがすきです。",
+    "spanish": "Me gusta la comida japonesa.",
+    "answers": [
+      "の"
+    ],
+    "explanation": [
+      "の — Tipo, origen o relación."
+    ],
+    "template": "日本＿料理が好きです。",
+    "kanaMasked": "にほん＿りょうりがすきです。"
+  },
+  {
+    "id": "の-08",
+    "particle": "の",
+    "japanese": "春の花はきれいです。",
+    "kana": "はるのはなはきれいです。",
+    "spanish": "Las flores de primavera son bonitas.",
+    "answers": [
+      "の"
+    ],
+    "explanation": [
+      "の — Tipo, origen o relación."
+    ],
+    "template": "春＿花はきれいです。",
+    "kanaMasked": "はる＿はなはきれいです。"
+  },
+  {
+    "id": "の-09",
+    "particle": "の",
+    "japanese": "学校の図書館は大きいです。",
+    "kana": "がっこうのとしょかんはおおきいです。",
+    "spanish": "La biblioteca de la escuela es grande.",
+    "answers": [
+      "の"
+    ],
+    "explanation": [
+      "の — Tipo, origen o relación."
+    ],
+    "template": "学校＿図書館は大きいです。",
+    "kanaMasked": "がっこう＿としょかんはおおきいです。"
+  },
+  {
+    "id": "の-10",
+    "particle": "の",
+    "japanese": "木の机を買いました。",
+    "kana": "きのつくえをかいました。",
+    "spanish": "Compré un escritorio de madera.",
+    "answers": [
+      "の"
+    ],
+    "explanation": [
+      "の — Tipo, origen o relación."
+    ],
+    "template": "木＿机を買いました。",
+    "kanaMasked": "き＿つくえをかいました。"
+  },
+  {
+    "id": "の-11",
+    "particle": "の",
+    "japanese": "母の車です。",
+    "kana": "ははのくるまです。",
+    "spanish": "Es el coche de mi madre.",
+    "answers": [
+      "の"
+    ],
+    "explanation": [
+      "の — Práctica adicional."
+    ],
+    "template": "母＿車です。",
+    "kanaMasked": "はは＿くるまです。"
+  },
+  {
+    "id": "の-12",
+    "particle": "の",
+    "japanese": "先生の名前です。",
+    "kana": "せんせいのなまえです。",
+    "spanish": "Es el nombre del profesor.",
+    "answers": [
+      "の"
+    ],
+    "explanation": [
+      "の — Práctica adicional."
+    ],
+    "template": "先生＿名前です。",
+    "kanaMasked": "せんせい＿なまえです。"
+  },
+  {
+    "id": "の-13",
+    "particle": "の",
+    "japanese": "日本の映画です。",
+    "kana": "にほんのえいがです。",
+    "spanish": "Es una película japonesa.",
+    "answers": [
+      "の"
+    ],
+    "explanation": [
+      "の — Práctica adicional."
+    ],
+    "template": "日本＿映画です。",
+    "kanaMasked": "にほん＿えいがです。"
+  },
+  {
+    "id": "の-14",
+    "particle": "の",
+    "japanese": "木の机です。",
+    "kana": "きのつくえです。",
+    "spanish": "Es un escritorio de madera.",
+    "answers": [
+      "の"
+    ],
+    "explanation": [
+      "の — Práctica adicional."
+    ],
+    "template": "木＿机です。",
+    "kanaMasked": "き＿つくえです。"
+  },
+  {
+    "id": "の-15",
+    "particle": "の",
+    "japanese": "学校の近くです。",
+    "kana": "がっこうのちかくです。",
+    "spanish": "Está cerca de la escuela.",
+    "answers": [
+      "の"
+    ],
+    "explanation": [
+      "の — Práctica adicional."
+    ],
+    "template": "学校＿近くです。",
+    "kanaMasked": "がっこう＿ちかくです。"
+  },
+  {
+    "id": "の-16",
+    "particle": "の",
+    "japanese": "兄の時計です。",
+    "kana": "あにのとけいです。",
+    "spanish": "Es el reloj de mi hermano mayor.",
+    "answers": [
+      "の"
+    ],
+    "explanation": [
+      "の — Práctica adicional."
+    ],
+    "template": "兄＿時計です。",
+    "kanaMasked": "あに＿とけいです。"
+  },
+  {
+    "id": "の-17",
+    "particle": "の",
+    "japanese": "春の花です。",
+    "kana": "はるのはなです。",
+    "spanish": "Es una flor de primavera.",
+    "answers": [
+      "の"
+    ],
+    "explanation": [
+      "の — Práctica adicional."
+    ],
+    "template": "春＿花です。",
+    "kanaMasked": "はる＿はなです。"
+  },
+  {
+    "id": "の-18",
+    "particle": "の",
+    "japanese": "東京の地図です。",
+    "kana": "とうきょうのちずです。",
+    "spanish": "Es un mapa de Tokio.",
+    "answers": [
+      "の"
+    ],
+    "explanation": [
+      "の — Práctica adicional."
+    ],
+    "template": "東京＿地図です。",
+    "kanaMasked": "とうきょう＿ちずです。"
+  },
+  {
+    "id": "の-19",
+    "particle": "の",
+    "japanese": "犬の写真です。",
+    "kana": "いぬのしゃしんです。",
+    "spanish": "Es una foto de un perro.",
+    "answers": [
+      "の"
+    ],
+    "explanation": [
+      "の — Práctica adicional."
+    ],
+    "template": "犬＿写真です。",
+    "kanaMasked": "いぬ＿しゃしんです。"
+  },
+  {
+    "id": "の-20",
+    "particle": "の",
+    "japanese": "友達の家です。",
+    "kana": "ともだちのいえです。",
+    "spanish": "Es la casa de un amigo.",
+    "answers": [
+      "の"
+    ],
+    "explanation": [
+      "の — Práctica adicional."
+    ],
+    "template": "友達＿家です。",
+    "kanaMasked": "ともだち＿いえです。"
+  },
+  {
+    "id": "で-01",
+    "particle": "で",
+    "japanese": "図書館で勉強します。",
+    "kana": "としょかんでべんきょうします。",
+    "spanish": "Estudio en la biblioteca.",
+    "answers": [
+      "で"
+    ],
+    "explanation": [
+      "で — Lugar donde sucede una actividad."
+    ],
+    "template": "図書館＿勉強します。",
+    "kanaMasked": "としょかん＿べんきょうします。"
+  },
+  {
+    "id": "で-02",
+    "particle": "で",
+    "japanese": "公園で遊びます。",
+    "kana": "こうえんであそびます。",
+    "spanish": "Juego en el parque.",
+    "answers": [
+      "で"
+    ],
+    "explanation": [
+      "で — Lugar donde sucede una actividad."
+    ],
+    "template": "公園＿遊びます。",
+    "kanaMasked": "こうえん＿あそびます。"
+  },
+  {
+    "id": "で-03",
+    "particle": "で",
+    "japanese": "家でご飯を食べます。",
+    "kana": "いえでごはんをたべます。",
+    "spanish": "Como en casa.",
+    "answers": [
+      "で"
+    ],
+    "explanation": [
+      "で — Lugar donde sucede una actividad."
+    ],
+    "template": "家＿ご飯を食べます。",
+    "kanaMasked": "いえ＿ごはんをたべます。"
+  },
+  {
+    "id": "で-04",
+    "particle": "で",
+    "japanese": "学校で日本語を習います。",
+    "kana": "がっこうでにほんごをならいます。",
+    "spanish": "Aprendo japonés en la escuela.",
+    "answers": [
+      "で"
+    ],
+    "explanation": [
+      "で — Lugar donde sucede una actividad."
+    ],
+    "template": "学校＿日本語を習います。",
+    "kanaMasked": "がっこう＿にほんごをならいます。"
+  },
+  {
+    "id": "で-05",
+    "particle": "で",
+    "japanese": "店でパンを買います。",
+    "kana": "みせでぱんをかいます。",
+    "spanish": "Compro pan en la tienda.",
+    "answers": [
+      "で"
+    ],
+    "explanation": [
+      "で — Lugar donde sucede una actividad."
+    ],
+    "template": "店＿パンを買います。",
+    "kanaMasked": "みせ＿ぱんをかいます。"
+  },
+  {
+    "id": "で-06",
+    "particle": "で",
+    "japanese": "バスで行きます。",
+    "kana": "ばすでいきます。",
+    "spanish": "Voy en autobús.",
+    "answers": [
+      "で"
+    ],
+    "explanation": [
+      "で — Medio, herramienta o idioma."
+    ],
+    "template": "バス＿行きます。",
+    "kanaMasked": "ばす＿いきます。"
+  },
+  {
+    "id": "で-07",
+    "particle": "で",
+    "japanese": "箸で食べます。",
+    "kana": "はしでたべます。",
+    "spanish": "Como con palillos.",
+    "answers": [
+      "で"
+    ],
+    "explanation": [
+      "で — Medio, herramienta o idioma."
+    ],
+    "template": "箸＿食べます。",
+    "kanaMasked": "はし＿たべます。"
+  },
+  {
+    "id": "で-08",
+    "particle": "で",
+    "japanese": "日本語で話します。",
+    "kana": "にほんごではなします。",
+    "spanish": "Hablo en japonés.",
+    "answers": [
+      "で"
+    ],
+    "explanation": [
+      "で — Medio, herramienta o idioma."
+    ],
+    "template": "日本語＿話します。",
+    "kanaMasked": "にほんご＿はなします。"
+  },
+  {
+    "id": "で-09",
+    "particle": "で",
+    "japanese": "鉛筆で書きます。",
+    "kana": "えんぴつでかきます。",
+    "spanish": "Escribo con lápiz.",
+    "answers": [
+      "で"
+    ],
+    "explanation": [
+      "で — Medio, herramienta o idioma."
+    ],
+    "template": "鉛筆＿書きます。",
+    "kanaMasked": "えんぴつ＿かきます。"
+  },
+  {
+    "id": "で-10",
+    "particle": "で",
+    "japanese": "電車で帰ります。",
+    "kana": "でんしゃでかえります。",
+    "spanish": "Regreso en tren.",
+    "answers": [
+      "で"
+    ],
+    "explanation": [
+      "で — Medio, herramienta o idioma."
+    ],
+    "template": "電車＿帰ります。",
+    "kanaMasked": "でんしゃ＿かえります。"
+  },
+  {
+    "id": "で-11",
+    "particle": "で",
+    "japanese": "家で勉強します。",
+    "kana": "いえでべんきょうします。",
+    "spanish": "Estudio en casa.",
+    "answers": [
+      "で"
+    ],
+    "explanation": [
+      "で — Práctica adicional."
+    ],
+    "template": "家＿勉強します。",
+    "kanaMasked": "いえ＿べんきょうします。"
+  },
+  {
+    "id": "で-12",
+    "particle": "で",
+    "japanese": "駅で待ちます。",
+    "kana": "えきでまちます。",
+    "spanish": "Espero en la estación.",
+    "answers": [
+      "で"
+    ],
+    "explanation": [
+      "で — Práctica adicional."
+    ],
+    "template": "駅＿待ちます。",
+    "kanaMasked": "えき＿まちます。"
+  },
+  {
+    "id": "で-13",
+    "particle": "で",
+    "japanese": "店で買います。",
+    "kana": "みせでかいます。",
+    "spanish": "Compro en la tienda.",
+    "answers": [
+      "で"
+    ],
+    "explanation": [
+      "で — Práctica adicional."
+    ],
+    "template": "店＿買います。",
+    "kanaMasked": "みせ＿かいます。"
+  },
+  {
+    "id": "で-14",
+    "particle": "で",
+    "japanese": "電車で行きます。",
+    "kana": "でんしゃでいきます。",
+    "spanish": "Voy en tren.",
+    "answers": [
+      "で"
+    ],
+    "explanation": [
+      "で — Práctica adicional."
+    ],
+    "template": "電車＿行きます。",
+    "kanaMasked": "でんしゃ＿いきます。"
+  },
+  {
+    "id": "で-15",
+    "particle": "で",
+    "japanese": "電話で話します。",
+    "kana": "でんわではなします。",
+    "spanish": "Hablo por teléfono.",
+    "answers": [
+      "で"
+    ],
+    "explanation": [
+      "で — Práctica adicional."
+    ],
+    "template": "電話＿話します。",
+    "kanaMasked": "でんわ＿はなします。"
+  },
+  {
+    "id": "で-16",
+    "particle": "で",
+    "japanese": "台所で料理します。",
+    "kana": "だいどころでりょうりします。",
+    "spanish": "Cocino en la cocina.",
+    "answers": [
+      "で"
+    ],
+    "explanation": [
+      "で — Práctica adicional."
+    ],
+    "template": "台所＿料理します。",
+    "kanaMasked": "だいどころ＿りょうりします。"
+  },
+  {
+    "id": "で-17",
+    "particle": "で",
+    "japanese": "車で帰ります。",
+    "kana": "くるまでかえります。",
+    "spanish": "Regreso en coche.",
+    "answers": [
+      "で"
+    ],
+    "explanation": [
+      "で — Práctica adicional."
+    ],
+    "template": "車＿帰ります。",
+    "kanaMasked": "くるま＿かえります。"
+  },
+  {
+    "id": "で-18",
+    "particle": "で",
+    "japanese": "教室で話します。",
+    "kana": "きょうしつではなします。",
+    "spanish": "Hablo en el salón.",
+    "answers": [
+      "で"
+    ],
+    "explanation": [
+      "で — Práctica adicional."
+    ],
+    "template": "教室＿話します。",
+    "kanaMasked": "きょうしつ＿はなします。"
+  },
+  {
+    "id": "で-19",
+    "particle": "で",
+    "japanese": "庭で走ります。",
+    "kana": "にわではしります。",
+    "spanish": "Corro en el jardín.",
+    "answers": [
+      "で"
+    ],
+    "explanation": [
+      "で — Práctica adicional."
+    ],
+    "template": "庭＿走ります。",
+    "kanaMasked": "にわ＿はしります。"
+  },
+  {
+    "id": "で-20",
+    "particle": "で",
+    "japanese": "自転車で行きます。",
+    "kana": "じてんしゃでいきます。",
+    "spanish": "Voy en bicicleta.",
+    "answers": [
+      "で"
+    ],
+    "explanation": [
+      "で — Práctica adicional."
+    ],
+    "template": "自転車＿行きます。",
+    "kanaMasked": "じてんしゃ＿いきます。"
+  },
+  {
+    "id": "と-01",
+    "particle": "と",
+    "japanese": "友達と行きます。",
+    "kana": "ともだちといきます。",
+    "spanish": "Voy con un amigo.",
+    "answers": [
+      "と"
+    ],
+    "explanation": [
+      "と — Compañía."
+    ],
+    "template": "友達＿行きます。",
+    "kanaMasked": "ともだち＿いきます。"
+  },
+  {
+    "id": "と-02",
+    "particle": "と",
+    "japanese": "母と料理します。",
+    "kana": "ははとりょうりします。",
+    "spanish": "Cocino con mi madre.",
+    "answers": [
+      "と"
+    ],
+    "explanation": [
+      "と — Compañía."
+    ],
+    "template": "母＿料理します。",
+    "kanaMasked": "はは＿りょうりします。"
+  },
+  {
+    "id": "と-03",
+    "particle": "と",
+    "japanese": "先生と話します。",
+    "kana": "せんせいとはなします。",
+    "spanish": "Hablo con el profesor.",
+    "answers": [
+      "と"
+    ],
+    "explanation": [
+      "と — Compañía."
+    ],
+    "template": "先生＿話します。",
+    "kanaMasked": "せんせい＿はなします。"
+  },
+  {
+    "id": "と-04",
+    "particle": "と",
+    "japanese": "兄と映画を見ます。",
+    "kana": "あにとえいがをみます。",
+    "spanish": "Veo una película con mi hermano mayor.",
+    "answers": [
+      "と"
+    ],
+    "explanation": [
+      "と — Compañía."
+    ],
+    "template": "兄＿映画を見ます。",
+    "kanaMasked": "あに＿えいがをみます。"
+  },
+  {
+    "id": "と-05",
+    "particle": "と",
+    "japanese": "犬と散歩します。",
+    "kana": "いぬとさんぽします。",
+    "spanish": "Paseo con mi perro.",
+    "answers": [
+      "と"
+    ],
+    "explanation": [
+      "と — Compañía."
+    ],
+    "template": "犬＿散歩します。",
+    "kanaMasked": "いぬ＿さんぽします。"
+  },
+  {
+    "id": "と-06",
+    "particle": "と",
+    "japanese": "りんごとみかんを買います。",
+    "kana": "りんごとみかんをかいます。",
+    "spanish": "Compro manzanas y mandarinas.",
+    "answers": [
+      "と"
+    ],
+    "explanation": [
+      "と — Enumeración de elementos."
+    ],
+    "template": "りんご＿みかんを買います。",
+    "kanaMasked": "りんご＿みかんをかいます。"
+  },
+  {
+    "id": "と-07",
+    "particle": "と",
+    "japanese": "本とノートがあります。",
+    "kana": "ほんとのーとがあります。",
+    "spanish": "Hay un libro y un cuaderno.",
+    "answers": [
+      "と"
+    ],
+    "explanation": [
+      "と — Enumeración de elementos."
+    ],
+    "template": "本＿ノートがあります。",
+    "kanaMasked": "ほん＿のーとがあります。"
+  },
+  {
+    "id": "と-08",
+    "particle": "と",
+    "japanese": "父と母がいます。",
+    "kana": "ちちとははがいます。",
+    "spanish": "Están mi padre y mi madre.",
+    "answers": [
+      "と"
+    ],
+    "explanation": [
+      "と — Enumeración de elementos."
+    ],
+    "template": "父＿母がいます。",
+    "kanaMasked": "ちち＿ははがいます。"
+  },
+  {
+    "id": "と-09",
+    "particle": "と",
+    "japanese": "水とお茶を飲みます。",
+    "kana": "みずとおちゃをのみます。",
+    "spanish": "Bebo agua y té.",
+    "answers": [
+      "と"
+    ],
+    "explanation": [
+      "と — Enumeración de elementos."
+    ],
+    "template": "水＿お茶を飲みます。",
+    "kanaMasked": "みず＿おちゃをのみます。"
+  },
+  {
+    "id": "と-10",
+    "particle": "と",
+    "japanese": "猫と犬が好きです。",
+    "kana": "ねこといぬがすきです。",
+    "spanish": "Me gustan los gatos y los perros.",
+    "answers": [
+      "と"
+    ],
+    "explanation": [
+      "と — Enumeración de elementos."
+    ],
+    "template": "猫＿犬が好きです。",
+    "kanaMasked": "ねこ＿いぬがすきです。"
+  },
+  {
+    "id": "と-11",
+    "particle": "と",
+    "japanese": "「ありがとう」と言います。",
+    "kana": "「ありがとう」といいます。",
+    "spanish": "Digo «gracias».",
+    "answers": [
+      "と"
+    ],
+    "explanation": [
+      "と — Cita o contenido de lo dicho."
+    ],
+    "template": "「ありが＿う」と言います。",
+    "kanaMasked": "「ありがとう」＿いいます。"
+  },
+  {
+    "id": "と-12",
+    "particle": "と",
+    "japanese": "「はい」と答えます。",
+    "kana": "「はい」とこたえます。",
+    "spanish": "Respondo «sí».",
+    "answers": [
+      "と"
+    ],
+    "explanation": [
+      "と — Cita o contenido de lo dicho."
+    ],
+    "template": "「はい」＿答えます。",
+    "kanaMasked": "「はい」＿こたえます。"
+  },
+  {
+    "id": "と-13",
+    "particle": "と",
+    "japanese": "明日行くと言いました。",
+    "kana": "あしたいくといいました。",
+    "spanish": "Dije que iría mañana.",
+    "answers": [
+      "と"
+    ],
+    "explanation": [
+      "と — Cita o contenido de lo dicho."
+    ],
+    "template": "明日行く＿言いました。",
+    "kanaMasked": "あしたいく＿いいました。"
+  },
+  {
+    "id": "と-14",
+    "particle": "と",
+    "japanese": "先生は「静かに」と言いました。",
+    "kana": "せんせいは「しずかに」といいました。",
+    "spanish": "El profesor dijo «silencio».",
+    "answers": [
+      "と"
+    ],
+    "explanation": [
+      "と — Cita o contenido de lo dicho."
+    ],
+    "template": "先生は「静かに」＿言いました。",
+    "kanaMasked": "せんせいは「しずかに」＿いいました。"
+  },
+  {
+    "id": "と-15",
+    "particle": "と",
+    "japanese": "田中さんは来ないと言いました。",
+    "kana": "たなかさんはこないといいました。",
+    "spanish": "Tanaka dijo que no vendría.",
+    "answers": [
+      "と"
+    ],
+    "explanation": [
+      "と — Cita o contenido de lo dicho."
+    ],
+    "template": "田中さんは来ない＿言いました。",
+    "kanaMasked": "たなかさんはこない＿いいました。"
+  },
+  {
+    "id": "と-16",
+    "particle": "と",
+    "japanese": "兄と歩きます。",
+    "kana": "あにとあるきます。",
+    "spanish": "Camino con mi hermano mayor.",
+    "answers": [
+      "と"
+    ],
+    "explanation": [
+      "と — Práctica adicional."
+    ],
+    "template": "兄＿歩きます。",
+    "kanaMasked": "あに＿あるきます。"
+  },
+  {
+    "id": "と-17",
+    "particle": "と",
+    "japanese": "母と話します。",
+    "kana": "ははとはなします。",
+    "spanish": "Hablo con mi madre.",
+    "answers": [
+      "と"
+    ],
+    "explanation": [
+      "と — Práctica adicional."
+    ],
+    "template": "母＿話します。",
+    "kanaMasked": "はは＿はなします。"
+  },
+  {
+    "id": "と-18",
+    "particle": "と",
+    "japanese": "先生と会います。",
+    "kana": "せんせいとあいます。",
+    "spanish": "Me reúno con el profesor.",
+    "answers": [
+      "と"
+    ],
+    "explanation": [
+      "と — Práctica adicional."
+    ],
+    "template": "先生＿会います。",
+    "kanaMasked": "せんせい＿あいます。"
+  },
+  {
+    "id": "と-19",
+    "particle": "と",
+    "japanese": "猫と遊びます。",
+    "kana": "ねことあそびます。",
+    "spanish": "Juego con el gato.",
+    "answers": [
+      "と"
+    ],
+    "explanation": [
+      "と — Práctica adicional."
+    ],
+    "template": "猫＿遊びます。",
+    "kanaMasked": "ねこ＿あそびます。"
+  },
+  {
+    "id": "と-20",
+    "particle": "と",
+    "japanese": "水とお茶を買います。",
+    "kana": "みずとおちゃをかいます。",
+    "spanish": "Compro agua y té.",
+    "answers": [
+      "と"
+    ],
+    "explanation": [
+      "と — Práctica adicional."
+    ],
+    "template": "水＿お茶を買います。",
+    "kanaMasked": "みず＿おちゃをかいます。"
+  },
+  {
+    "id": "へ-01",
+    "particle": "へ",
+    "japanese": "学校へ行きます。",
+    "kana": "がっこうへいきます。",
+    "spanish": "Voy hacia la escuela.",
+    "answers": [
+      "へ"
+    ],
+    "explanation": [
+      "へ — Dirección hacia un lugar."
+    ],
+    "template": "学校＿行きます。",
+    "kanaMasked": "がっこう＿いきます。"
+  },
+  {
+    "id": "へ-02",
+    "particle": "へ",
+    "japanese": "日本へ行きたいです。",
+    "kana": "にほんへいきたいです。",
+    "spanish": "Quiero ir a Japón.",
+    "answers": [
+      "へ"
+    ],
+    "explanation": [
+      "へ — Dirección hacia un lugar."
+    ],
+    "template": "日本＿行きたいです。",
+    "kanaMasked": "にほん＿いきたいです。"
+  },
+  {
+    "id": "へ-03",
+    "particle": "へ",
+    "japanese": "右へ曲がります。",
+    "kana": "みぎへまがります。",
+    "spanish": "Giro a la derecha.",
+    "answers": [
+      "へ"
+    ],
+    "explanation": [
+      "へ — Dirección hacia un lugar."
+    ],
+    "template": "右＿曲がります。",
+    "kanaMasked": "みぎ＿まがります。"
+  },
+  {
+    "id": "へ-04",
+    "particle": "へ",
+    "japanese": "駅へ歩きます。",
+    "kana": "えきへあるきます。",
+    "spanish": "Camino hacia la estación.",
+    "answers": [
+      "へ"
+    ],
+    "explanation": [
+      "へ — Dirección hacia un lugar."
+    ],
+    "template": "駅＿歩きます。",
+    "kanaMasked": "えき＿あるきます。"
+  },
+  {
+    "id": "へ-05",
+    "particle": "へ",
+    "japanese": "家へ帰ります。",
+    "kana": "いえへかえります。",
+    "spanish": "Regreso a casa.",
+    "answers": [
+      "へ"
+    ],
+    "explanation": [
+      "へ — Dirección hacia un lugar."
+    ],
+    "template": "家＿帰ります。",
+    "kanaMasked": "いえ＿かえります。"
+  },
+  {
+    "id": "へ-06",
+    "particle": "へ",
+    "japanese": "母へ手紙を書きます。",
+    "kana": "ははへてがみをかきます。",
+    "spanish": "Escribo una carta para mi madre.",
+    "answers": [
+      "へ"
+    ],
+    "explanation": [
+      "へ — Destinatario de cartas o mensajes."
+    ],
+    "template": "母＿手紙を書きます。",
+    "kanaMasked": "はは＿てがみをかきます。"
+  },
+  {
+    "id": "へ-07",
+    "particle": "へ",
+    "japanese": "友達へメールを送ります。",
+    "kana": "ともだちへめーるをおくります。",
+    "spanish": "Envío un correo a un amigo.",
+    "answers": [
+      "へ"
+    ],
+    "explanation": [
+      "へ — Destinatario de cartas o mensajes."
+    ],
+    "template": "友達＿メールを送ります。",
+    "kanaMasked": "ともだち＿めーるをおくります。"
+  },
+  {
+    "id": "へ-08",
+    "particle": "へ",
+    "japanese": "先生へお礼の手紙を書きます。",
+    "kana": "せんせいへおれいのてがみをかきます。",
+    "spanish": "Escribo una carta de agradecimiento al profesor.",
+    "answers": [
+      "へ"
+    ],
+    "explanation": [
+      "へ — Destinatario de cartas o mensajes."
+    ],
+    "template": "先生＿お礼の手紙を書きます。",
+    "kanaMasked": "せんせい＿おれいのてがみをかきます。"
+  },
+  {
+    "id": "へ-09",
+    "particle": "へ",
+    "japanese": "家族へ写真を送ります。",
+    "kana": "かぞくへしゃしんをおくります。",
+    "spanish": "Envío fotos a mi familia.",
+    "answers": [
+      "へ"
+    ],
+    "explanation": [
+      "へ — Destinatario de cartas o mensajes."
+    ],
+    "template": "家族＿写真を送ります。",
+    "kanaMasked": "かぞく＿しゃしんをおくります。"
+  },
+  {
+    "id": "へ-10",
+    "particle": "へ",
+    "japanese": "日本の友達へはがきを出します。",
+    "kana": "にほんのともだちへはがきをだします。",
+    "spanish": "Envío una postal a un amigo de Japón.",
+    "answers": [
+      "へ"
+    ],
+    "explanation": [
+      "へ — Destinatario de cartas o mensajes."
+    ],
+    "template": "日本の友達＿はがきを出します。",
+    "kanaMasked": "にほんのともだち＿はがきをだします。"
+  },
+  {
+    "id": "へ-11",
+    "particle": "へ",
+    "japanese": "海へ行きます。",
+    "kana": "うみへいきます。",
+    "spanish": "Voy hacia el mar.",
+    "answers": [
+      "へ"
+    ],
+    "explanation": [
+      "へ — Práctica adicional."
+    ],
+    "template": "海＿行きます。",
+    "kanaMasked": "うみ＿いきます。"
+  },
+  {
+    "id": "へ-12",
+    "particle": "へ",
+    "japanese": "山へ行きます。",
+    "kana": "やまへいきます。",
+    "spanish": "Voy hacia la montaña.",
+    "answers": [
+      "へ"
+    ],
+    "explanation": [
+      "へ — Práctica adicional."
+    ],
+    "template": "山＿行きます。",
+    "kanaMasked": "やま＿いきます。"
+  },
+  {
+    "id": "へ-13",
+    "particle": "へ",
     "japanese": "日本へ旅行します。",
     "kana": "にほんへりょこうします。",
     "spanish": "Viajo a Japón.",
@@ -226,111 +1689,2814 @@
       "へ"
     ],
     "explanation": [
-      "へ expresa dirección; se escribe へ y se pronuncia e."
+      "へ — Práctica adicional."
     ],
-    "template": "日本＿旅行します。"
+    "template": "日本＿旅行します。",
+    "kanaMasked": "にほん＿りょこうします。"
   },
   {
-    "id": "P18",
-    "japanese": "朝ご飯を食べてから学校に行きます。",
-    "kana": "あさごはんをたべてからがっこうにいきます。",
-    "spanish": "Después de desayunar voy a la escuela.",
+    "id": "へ-14",
+    "particle": "へ",
+    "japanese": "駅へ向かいます。",
+    "kana": "えきへむかいます。",
+    "spanish": "Me dirijo a la estación.",
     "answers": [
-      "を",
-      "から",
-      "に"
-    ],
-    "explanation": [
-      "を marca el desayuno; てから indica después de hacer algo; に indica destino."
-    ],
-    "template": "朝ご飯＿食べて＿学校＿行きます。"
-  },
-  {
-    "id": "P19",
-    "japanese": "日曜日に家族と公園へ行きます。",
-    "kana": "にちようびにかぞくとこうえんへいきます。",
-    "spanish": "El domingo voy al parque con mi familia.",
-    "answers": [
-      "に",
-      "と",
       "へ"
     ],
     "explanation": [
-      "に marca tiempo; と compañía; へ dirección."
+      "へ — Práctica adicional."
     ],
-    "template": "日曜日＿家族＿公園＿行きます。"
+    "template": "駅＿向かいます。",
+    "kanaMasked": "えき＿むかいます。"
   },
   {
-    "id": "P20",
-    "japanese": "ここに名前を書いてください。",
-    "kana": "ここになまえをかいてください。",
-    "spanish": "Escribe tu nombre aquí, por favor.",
+    "id": "へ-15",
+    "particle": "へ",
+    "japanese": "南へ進みます。",
+    "kana": "みなみへすすみます。",
+    "spanish": "Avanzo hacia el sur.",
     "answers": [
-      "に",
+      "へ"
+    ],
+    "explanation": [
+      "へ — Práctica adicional."
+    ],
+    "template": "南＿進みます。",
+    "kanaMasked": "みなみ＿すすみます。"
+  },
+  {
+    "id": "へ-16",
+    "particle": "へ",
+    "japanese": "北へ歩きます。",
+    "kana": "きたへあるきます。",
+    "spanish": "Camino hacia el norte.",
+    "answers": [
+      "へ"
+    ],
+    "explanation": [
+      "へ — Práctica adicional."
+    ],
+    "template": "北＿歩きます。",
+    "kanaMasked": "きた＿あるきます。"
+  },
+  {
+    "id": "へ-17",
+    "particle": "へ",
+    "japanese": "父へ手紙を書きます。",
+    "kana": "ちちへてがみをかきます。",
+    "spanish": "Escribo una carta para mi padre.",
+    "answers": [
+      "へ"
+    ],
+    "explanation": [
+      "へ — Práctica adicional."
+    ],
+    "template": "父＿手紙を書きます。",
+    "kanaMasked": "ちち＿てがみをかきます。"
+  },
+  {
+    "id": "へ-18",
+    "particle": "へ",
+    "japanese": "大阪へ行きます。",
+    "kana": "おおさかへいきます。",
+    "spanish": "Voy a Osaka.",
+    "answers": [
+      "へ"
+    ],
+    "explanation": [
+      "へ — Práctica adicional."
+    ],
+    "template": "大阪＿行きます。",
+    "kanaMasked": "おおさか＿いきます。"
+  },
+  {
+    "id": "へ-19",
+    "particle": "へ",
+    "japanese": "空港へ向かいます。",
+    "kana": "くうこうへむかいます。",
+    "spanish": "Me dirijo al aeropuerto.",
+    "answers": [
+      "へ"
+    ],
+    "explanation": [
+      "へ — Práctica adicional."
+    ],
+    "template": "空港＿向かいます。",
+    "kanaMasked": "くうこう＿むかいます。"
+  },
+  {
+    "id": "へ-20",
+    "particle": "へ",
+    "japanese": "京都へ行きます。",
+    "kana": "きょうとへいきます。",
+    "spanish": "Voy a Kioto.",
+    "answers": [
+      "へ"
+    ],
+    "explanation": [
+      "へ — Práctica adicional."
+    ],
+    "template": "京都＿行きます。",
+    "kanaMasked": "きょうと＿いきます。"
+  },
+  {
+    "id": "を-01",
+    "particle": "を",
+    "japanese": "りんごを食べます。",
+    "kana": "りんごをたべます。",
+    "spanish": "Como una manzana.",
+    "answers": [
       "を"
     ],
     "explanation": [
-      "に indica el lugar de destino de lo escrito; を el objeto de escribir."
+      "を — Objeto directo."
     ],
-    "template": "ここ＿名前＿書いてください。"
+    "template": "りんご＿食べます。",
+    "kanaMasked": "りんご＿たべます。"
   },
   {
-    "id": "P21",
-    "japanese": "兄は私より背が高いです。",
-    "kana": "あにはわたしよりせがたかいです。",
-    "spanish": "Mi hermano es más alto que yo.",
+    "id": "を-02",
+    "particle": "を",
+    "japanese": "水を飲みます。",
+    "kana": "みずをのみます。",
+    "spanish": "Bebo agua.",
     "answers": [
-      "は",
-      "より",
+      "を"
+    ],
+    "explanation": [
+      "を — Objeto directo."
+    ],
+    "template": "水＿飲みます。",
+    "kanaMasked": "みず＿のみます。"
+  },
+  {
+    "id": "を-03",
+    "particle": "を",
+    "japanese": "本を読みます。",
+    "kana": "ほんをよみます。",
+    "spanish": "Leo un libro.",
+    "answers": [
+      "を"
+    ],
+    "explanation": [
+      "を — Objeto directo."
+    ],
+    "template": "本＿読みます。",
+    "kanaMasked": "ほん＿よみます。"
+  },
+  {
+    "id": "を-04",
+    "particle": "を",
+    "japanese": "音楽を聞きます。",
+    "kana": "おんがくをききます。",
+    "spanish": "Escucho música.",
+    "answers": [
+      "を"
+    ],
+    "explanation": [
+      "を — Objeto directo."
+    ],
+    "template": "音楽＿聞きます。",
+    "kanaMasked": "おんがく＿ききます。"
+  },
+  {
+    "id": "を-05",
+    "particle": "を",
+    "japanese": "映画を見ます。",
+    "kana": "えいがをみます。",
+    "spanish": "Veo una película.",
+    "answers": [
+      "を"
+    ],
+    "explanation": [
+      "を — Objeto directo."
+    ],
+    "template": "映画＿見ます。",
+    "kanaMasked": "えいが＿みます。"
+  },
+  {
+    "id": "を-06",
+    "particle": "を",
+    "japanese": "公園を歩きます。",
+    "kana": "こうえんをあるきます。",
+    "spanish": "Camino por el parque.",
+    "answers": [
+      "を"
+    ],
+    "explanation": [
+      "を — Recorrido o punto de salida."
+    ],
+    "template": "公園＿歩きます。",
+    "kanaMasked": "こうえん＿あるきます。"
+  },
+  {
+    "id": "を-07",
+    "particle": "を",
+    "japanese": "橋を渡ります。",
+    "kana": "はしをわたります。",
+    "spanish": "Cruzo el puente.",
+    "answers": [
+      "を"
+    ],
+    "explanation": [
+      "を — Recorrido o punto de salida."
+    ],
+    "template": "橋＿渡ります。",
+    "kanaMasked": "はし＿わたります。"
+  },
+  {
+    "id": "を-08",
+    "particle": "を",
+    "japanese": "道を走ります。",
+    "kana": "みちをはしります。",
+    "spanish": "Corro por el camino.",
+    "answers": [
+      "を"
+    ],
+    "explanation": [
+      "を — Recorrido o punto de salida."
+    ],
+    "template": "道＿走ります。",
+    "kanaMasked": "みち＿はしります。"
+  },
+  {
+    "id": "を-09",
+    "particle": "を",
+    "japanese": "家を出ます。",
+    "kana": "いえをでます。",
+    "spanish": "Salgo de casa.",
+    "answers": [
+      "を"
+    ],
+    "explanation": [
+      "を — Recorrido o punto de salida."
+    ],
+    "template": "家＿出ます。",
+    "kanaMasked": "いえ＿でます。"
+  },
+  {
+    "id": "を-10",
+    "particle": "を",
+    "japanese": "大学を卒業しました。",
+    "kana": "だいがくをそつぎょうしました。",
+    "spanish": "Me gradué de la universidad.",
+    "answers": [
+      "を"
+    ],
+    "explanation": [
+      "を — Recorrido o punto de salida."
+    ],
+    "template": "大学＿卒業しました。",
+    "kanaMasked": "だいがく＿そつぎょうしました。"
+  },
+  {
+    "id": "を-11",
+    "particle": "を",
+    "japanese": "牛乳を飲みます。",
+    "kana": "ぎゅうにゅうをのみます。",
+    "spanish": "Bebo leche.",
+    "answers": [
+      "を"
+    ],
+    "explanation": [
+      "を — Práctica adicional."
+    ],
+    "template": "牛乳＿飲みます。",
+    "kanaMasked": "ぎゅうにゅう＿のみます。"
+  },
+  {
+    "id": "を-12",
+    "particle": "を",
+    "japanese": "新聞を読みます。",
+    "kana": "しんぶんをよみます。",
+    "spanish": "Leo el periódico.",
+    "answers": [
+      "を"
+    ],
+    "explanation": [
+      "を — Práctica adicional."
+    ],
+    "template": "新聞＿読みます。",
+    "kanaMasked": "しんぶん＿よみます。"
+  },
+  {
+    "id": "を-13",
+    "particle": "を",
+    "japanese": "写真を撮ります。",
+    "kana": "しゃしんをとります。",
+    "spanish": "Tomo una foto.",
+    "answers": [
+      "を"
+    ],
+    "explanation": [
+      "を — Práctica adicional."
+    ],
+    "template": "写真＿撮ります。",
+    "kanaMasked": "しゃしん＿とります。"
+  },
+  {
+    "id": "を-14",
+    "particle": "を",
+    "japanese": "窓を開けます。",
+    "kana": "まどをあけます。",
+    "spanish": "Abro la ventana.",
+    "answers": [
+      "を"
+    ],
+    "explanation": [
+      "を — Práctica adicional."
+    ],
+    "template": "窓＿開けます。",
+    "kanaMasked": "まど＿あけます。"
+  },
+  {
+    "id": "を-15",
+    "particle": "を",
+    "japanese": "部屋を掃除します。",
+    "kana": "へやをそうじします。",
+    "spanish": "Limpio la habitación.",
+    "answers": [
+      "を"
+    ],
+    "explanation": [
+      "を — Práctica adicional."
+    ],
+    "template": "部屋＿掃除します。",
+    "kanaMasked": "へや＿そうじします。"
+  },
+  {
+    "id": "を-16",
+    "particle": "を",
+    "japanese": "道を歩きます。",
+    "kana": "みちをあるきます。",
+    "spanish": "Camino por el camino.",
+    "answers": [
+      "を"
+    ],
+    "explanation": [
+      "を — Práctica adicional."
+    ],
+    "template": "道＿歩きます。",
+    "kanaMasked": "みち＿あるきます。"
+  },
+  {
+    "id": "を-17",
+    "particle": "を",
+    "japanese": "手紙を書きます。",
+    "kana": "てがみをかきます。",
+    "spanish": "Escribo una carta.",
+    "answers": [
+      "を"
+    ],
+    "explanation": [
+      "を — Práctica adicional."
+    ],
+    "template": "手紙＿書きます。",
+    "kanaMasked": "てがみ＿かきます。"
+  },
+  {
+    "id": "を-18",
+    "particle": "を",
+    "japanese": "皿を洗います。",
+    "kana": "さらをあらいます。",
+    "spanish": "Lavo los platos.",
+    "answers": [
+      "を"
+    ],
+    "explanation": [
+      "を — Práctica adicional."
+    ],
+    "template": "皿＿洗います。",
+    "kanaMasked": "さら＿あらいます。"
+  },
+  {
+    "id": "を-19",
+    "particle": "を",
+    "japanese": "水を買います。",
+    "kana": "みずをかいます。",
+    "spanish": "Compro agua.",
+    "answers": [
+      "を"
+    ],
+    "explanation": [
+      "を — Práctica adicional."
+    ],
+    "template": "水＿買います。",
+    "kanaMasked": "みず＿かいます。"
+  },
+  {
+    "id": "を-20",
+    "particle": "を",
+    "japanese": "靴を履きます。",
+    "kana": "くつをはきます。",
+    "spanish": "Me pongo los zapatos.",
+    "answers": [
+      "を"
+    ],
+    "explanation": [
+      "を — Práctica adicional."
+    ],
+    "template": "靴＿履きます。",
+    "kanaMasked": "くつ＿はきます。"
+  },
+  {
+    "id": "が-01",
+    "particle": "が",
+    "japanese": "猫が走っています。",
+    "kana": "ねこがはしっています。",
+    "spanish": "Un gato está corriendo.",
+    "answers": [
       "が"
     ],
     "explanation": [
-      "は tema; より punto de comparación; が sujeto de la cualidad."
+      "が — Sujeto o información nueva."
     ],
-    "template": "兄＿私＿背＿高いです。"
+    "template": "猫＿走っています。",
+    "kanaMasked": "ねこ＿はしっています。"
   },
   {
-    "id": "P22",
-    "japanese": "駅の前で友達を待ちます。",
-    "kana": "えきのまえでともだちをまちます。",
-    "spanish": "Espero a un amigo frente a la estación.",
+    "id": "が-02",
+    "particle": "が",
+    "japanese": "雨が降っています。",
+    "kana": "あめがふっています。",
+    "spanish": "Está lloviendo.",
     "answers": [
-      "の",
-      "で",
-      "を"
-    ],
-    "explanation": [
-      "の conecta estación y frente; で lugar de la acción; を objeto de esperar."
-    ],
-    "template": "駅＿前＿友達＿待ちます。"
-  },
-  {
-    "id": "P23",
-    "japanese": "先生に質問をします。",
-    "kana": "せんせいにしつもんをします。",
-    "spanish": "Le hago una pregunta al profesor.",
-    "answers": [
-      "に",
-      "を"
-    ],
-    "explanation": [
-      "に marca destinatario; を marca el objeto."
-    ],
-    "template": "先生＿質問＿します。"
-  },
-  {
-    "id": "P24",
-    "japanese": "教室には学生が三人います。",
-    "kana": "きょうしつにはがくせいがさんにんいます。",
-    "spanish": "Hay tres estudiantes en el salón.",
-    "answers": [
-      "には",
       "が"
     ],
     "explanation": [
-      "には combina lugar y tema, con sentido de «en cuanto al salón».",
-      "が marca los estudiantes como sujeto."
+      "が — Sujeto o información nueva."
     ],
-    "template": "教室＿学生＿三人います。"
+    "template": "雨＿降っています。",
+    "kanaMasked": "あめ＿ふっています。"
+  },
+  {
+    "id": "が-03",
+    "particle": "が",
+    "japanese": "誰が来ましたか。",
+    "kana": "だれがきましたか。",
+    "spanish": "¿Quién vino?",
+    "answers": [
+      "が"
+    ],
+    "explanation": [
+      "が — Sujeto o información nueva."
+    ],
+    "template": "誰＿来ましたか。",
+    "kanaMasked": "だれ＿きましたか。"
+  },
+  {
+    "id": "が-04",
+    "particle": "が",
+    "japanese": "田中さんが来ました。",
+    "kana": "たなかさんがきました。",
+    "spanish": "Vino Tanaka.",
+    "answers": [
+      "が"
+    ],
+    "explanation": [
+      "が — Sujeto o información nueva."
+    ],
+    "template": "田中さん＿来ました。",
+    "kanaMasked": "たなかさん＿きました。"
+  },
+  {
+    "id": "が-05",
+    "particle": "が",
+    "japanese": "鳥がいます。",
+    "kana": "とりがいます。",
+    "spanish": "Hay un pájaro.",
+    "answers": [
+      "が"
+    ],
+    "explanation": [
+      "が — Sujeto o información nueva."
+    ],
+    "template": "鳥＿います。",
+    "kanaMasked": "とり＿います。"
+  },
+  {
+    "id": "が-06",
+    "particle": "が",
+    "japanese": "猫が好きです。",
+    "kana": "ねこがすきです。",
+    "spanish": "Me gustan los gatos.",
+    "answers": [
+      "が"
+    ],
+    "explanation": [
+      "が — Gustos, habilidades y necesidades."
+    ],
+    "template": "猫＿好きです。",
+    "kanaMasked": "ねこ＿すきです。"
+  },
+  {
+    "id": "が-07",
+    "particle": "が",
+    "japanese": "日本語が分かります。",
+    "kana": "にほんごがわかります。",
+    "spanish": "Entiendo japonés.",
+    "answers": [
+      "が"
+    ],
+    "explanation": [
+      "が — Gustos, habilidades y necesidades."
+    ],
+    "template": "日本語＿分かります。",
+    "kanaMasked": "にほんご＿わかります。"
+  },
+  {
+    "id": "が-08",
+    "particle": "が",
+    "japanese": "水が欲しいです。",
+    "kana": "みずがほしいです。",
+    "spanish": "Quiero agua.",
+    "answers": [
+      "が"
+    ],
+    "explanation": [
+      "が — Gustos, habilidades y necesidades."
+    ],
+    "template": "水＿欲しいです。",
+    "kanaMasked": "みず＿ほしいです。"
+  },
+  {
+    "id": "が-09",
+    "particle": "が",
+    "japanese": "料理が上手です。",
+    "kana": "りょうりがじょうずです。",
+    "spanish": "Se me da bien cocinar.",
+    "answers": [
+      "が"
+    ],
+    "explanation": [
+      "が — Gustos, habilidades y necesidades."
+    ],
+    "template": "料理＿上手です。",
+    "kanaMasked": "りょうり＿じょうずです。"
+  },
+  {
+    "id": "が-10",
+    "particle": "が",
+    "japanese": "歌が下手です。",
+    "kana": "うたがへたです。",
+    "spanish": "No se me da bien cantar.",
+    "answers": [
+      "が"
+    ],
+    "explanation": [
+      "が — Gustos, habilidades y necesidades."
+    ],
+    "template": "歌＿下手です。",
+    "kanaMasked": "うた＿へたです。"
+  },
+  {
+    "id": "が-11",
+    "particle": "が",
+    "japanese": "犬が寝ています。",
+    "kana": "いぬがねています。",
+    "spanish": "El perro está durmiendo.",
+    "answers": [
+      "が"
+    ],
+    "explanation": [
+      "が — Práctica adicional."
+    ],
+    "template": "犬＿寝ています。",
+    "kanaMasked": "いぬ＿ねています。"
+  },
+  {
+    "id": "が-12",
+    "particle": "が",
+    "japanese": "誰が来ますか。",
+    "kana": "だれがきますか。",
+    "spanish": "¿Quién viene?",
+    "answers": [
+      "が"
+    ],
+    "explanation": [
+      "が — Práctica adicional."
+    ],
+    "template": "誰＿来ますか。",
+    "kanaMasked": "だれ＿きますか。"
+  },
+  {
+    "id": "が-13",
+    "particle": "が",
+    "japanese": "何が必要ですか。",
+    "kana": "なにがひつようですか。",
+    "spanish": "¿Qué hace falta?",
+    "answers": [
+      "が"
+    ],
+    "explanation": [
+      "が — Práctica adicional."
+    ],
+    "template": "何＿必要ですか。",
+    "kanaMasked": "なに＿ひつようですか。"
+  },
+  {
+    "id": "が-14",
+    "particle": "が",
+    "japanese": "日本語が好きです。",
+    "kana": "にほんごがすきです。",
+    "spanish": "Me gusta el japonés.",
+    "answers": [
+      "が"
+    ],
+    "explanation": [
+      "が — Práctica adicional."
+    ],
+    "template": "日本語＿好きです。",
+    "kanaMasked": "にほんご＿すきです。"
+  },
+  {
+    "id": "が-15",
+    "particle": "が",
+    "japanese": "歌が上手です。",
+    "kana": "うたがじょうずです。",
+    "spanish": "Canta bien.",
+    "answers": [
+      "が"
+    ],
+    "explanation": [
+      "が — Práctica adicional."
+    ],
+    "template": "歌＿上手です。",
+    "kanaMasked": "うた＿じょうずです。"
+  },
+  {
+    "id": "が-16",
+    "particle": "が",
+    "japanese": "時間があります。",
+    "kana": "じかんがあります。",
+    "spanish": "Tengo tiempo.",
+    "answers": [
+      "が"
+    ],
+    "explanation": [
+      "が — Práctica adicional."
+    ],
+    "template": "時間＿あります。",
+    "kanaMasked": "じかん＿あります。"
+  },
+  {
+    "id": "が-17",
+    "particle": "が",
+    "japanese": "鳥が飛んでいます。",
+    "kana": "とりがとんでいます。",
+    "spanish": "Un pájaro está volando.",
+    "answers": [
+      "が"
+    ],
+    "explanation": [
+      "が — Práctica adicional."
+    ],
+    "template": "鳥＿飛んでいます。",
+    "kanaMasked": "とり＿とんでいます。"
+  },
+  {
+    "id": "が-18",
+    "particle": "が",
+    "japanese": "音が聞こえます。",
+    "kana": "おとがきこえます。",
+    "spanish": "Se oye un sonido.",
+    "answers": [
+      "が"
+    ],
+    "explanation": [
+      "が — Práctica adicional."
+    ],
+    "template": "音＿聞こえます。",
+    "kanaMasked": "おと＿きこえます。"
+  },
+  {
+    "id": "が-19",
+    "particle": "が",
+    "japanese": "星が見えます。",
+    "kana": "ほしがみえます。",
+    "spanish": "Se ven las estrellas.",
+    "answers": [
+      "が"
+    ],
+    "explanation": [
+      "が — Práctica adicional."
+    ],
+    "template": "星＿見えます。",
+    "kanaMasked": "ほし＿みえます。"
+  },
+  {
+    "id": "が-20",
+    "particle": "が",
+    "japanese": "子供が笑っています。",
+    "kana": "こどもがわらっています。",
+    "spanish": "Un niño está riendo.",
+    "answers": [
+      "が"
+    ],
+    "explanation": [
+      "が — Práctica adicional."
+    ],
+    "template": "子供＿笑っています。",
+    "kanaMasked": "こども＿わらっています。"
+  },
+  {
+    "id": "も-01",
+    "particle": "も",
+    "japanese": "私も学生です。",
+    "kana": "わたしもがくせいです。",
+    "spanish": "Yo también soy estudiante.",
+    "answers": [
+      "も"
+    ],
+    "explanation": [
+      "も — Inclusión: también."
+    ],
+    "template": "私＿学生です。",
+    "kanaMasked": "わたし＿がくせいです。"
+  },
+  {
+    "id": "も-02",
+    "particle": "も",
+    "japanese": "母も来ます。",
+    "kana": "ははもきます。",
+    "spanish": "Mi madre también viene.",
+    "answers": [
+      "も"
+    ],
+    "explanation": [
+      "も — Inclusión: también."
+    ],
+    "template": "母＿来ます。",
+    "kanaMasked": "はは＿きます。"
+  },
+  {
+    "id": "も-03",
+    "particle": "も",
+    "japanese": "犬も好きです。",
+    "kana": "いぬもすきです。",
+    "spanish": "También me gustan los perros.",
+    "answers": [
+      "も"
+    ],
+    "explanation": [
+      "も — Inclusión: también."
+    ],
+    "template": "犬＿好きです。",
+    "kanaMasked": "いぬ＿すきです。"
+  },
+  {
+    "id": "も-04",
+    "particle": "も",
+    "japanese": "これもおいしいです。",
+    "kana": "これもおいしいです。",
+    "spanish": "Esto también está rico.",
+    "answers": [
+      "も"
+    ],
+    "explanation": [
+      "も — Inclusión: también."
+    ],
+    "template": "これ＿おいしいです。",
+    "kanaMasked": "これ＿おいしいです。"
+  },
+  {
+    "id": "も-05",
+    "particle": "も",
+    "japanese": "明日も働きます。",
+    "kana": "あしたもはたらきます。",
+    "spanish": "Mañana también trabajo.",
+    "answers": [
+      "も"
+    ],
+    "explanation": [
+      "も — Inclusión: también."
+    ],
+    "template": "明日＿働きます。",
+    "kanaMasked": "あした＿はたらきます。"
+  },
+  {
+    "id": "も-06",
+    "particle": "も",
+    "japanese": "私も行きません。",
+    "kana": "わたしもいきません。",
+    "spanish": "Yo tampoco voy.",
+    "answers": [
+      "も"
+    ],
+    "explanation": [
+      "も — Inclusión con negación: tampoco."
+    ],
+    "template": "私＿行きません。",
+    "kanaMasked": "わたし＿いきません。"
+  },
+  {
+    "id": "も-07",
+    "particle": "も",
+    "japanese": "弟も知りません。",
+    "kana": "おとうともしりません。",
+    "spanish": "Mi hermano menor tampoco lo sabe.",
+    "answers": [
+      "も"
+    ],
+    "explanation": [
+      "も — Inclusión con negación: tampoco."
+    ],
+    "template": "弟＿知りません。",
+    "kanaMasked": "おとうと＿しりません。"
+  },
+  {
+    "id": "も-08",
+    "particle": "も",
+    "japanese": "今日は雨も降りません。",
+    "kana": "きょうはあめもふりません。",
+    "spanish": "Hoy tampoco llueve.",
+    "answers": [
+      "も"
+    ],
+    "explanation": [
+      "も — Inclusión con negación: tampoco."
+    ],
+    "template": "今日は雨＿降りません。",
+    "kanaMasked": "きょうはあめ＿ふりません。"
+  },
+  {
+    "id": "も-09",
+    "particle": "も",
+    "japanese": "これも要りません。",
+    "kana": "これもいりません。",
+    "spanish": "Esto tampoco lo necesito.",
+    "answers": [
+      "も"
+    ],
+    "explanation": [
+      "も — Inclusión con negación: tampoco."
+    ],
+    "template": "これ＿要りません。",
+    "kanaMasked": "これ＿いりません。"
+  },
+  {
+    "id": "も-10",
+    "particle": "も",
+    "japanese": "母も食べません。",
+    "kana": "ははもたべません。",
+    "spanish": "Mi madre tampoco come.",
+    "answers": [
+      "も"
+    ],
+    "explanation": [
+      "も — Inclusión con negación: tampoco."
+    ],
+    "template": "母＿食べません。",
+    "kanaMasked": "はは＿たべません。"
+  },
+  {
+    "id": "も-11",
+    "particle": "も",
+    "japanese": "父も来ます。",
+    "kana": "ちちもきます。",
+    "spanish": "Mi padre también viene.",
+    "answers": [
+      "も"
+    ],
+    "explanation": [
+      "も — Práctica adicional."
+    ],
+    "template": "父＿来ます。",
+    "kanaMasked": "ちち＿きます。"
+  },
+  {
+    "id": "も-12",
+    "particle": "も",
+    "japanese": "母も行きます。",
+    "kana": "ははもいきます。",
+    "spanish": "Mi madre también va.",
+    "answers": [
+      "も"
+    ],
+    "explanation": [
+      "も — Práctica adicional."
+    ],
+    "template": "母＿行きます。",
+    "kanaMasked": "はは＿いきます。"
+  },
+  {
+    "id": "も-13",
+    "particle": "も",
+    "japanese": "これも買います。",
+    "kana": "これもかいます。",
+    "spanish": "También compro esto.",
+    "answers": [
+      "も"
+    ],
+    "explanation": [
+      "も — Práctica adicional."
+    ],
+    "template": "これ＿買います。",
+    "kanaMasked": "これ＿かいます。"
+  },
+  {
+    "id": "も-14",
+    "particle": "も",
+    "japanese": "私も知りません。",
+    "kana": "わたしもしりません。",
+    "spanish": "Yo tampoco lo sé.",
+    "answers": [
+      "も"
+    ],
+    "explanation": [
+      "も — Práctica adicional."
+    ],
+    "template": "私＿知りません。",
+    "kanaMasked": "わたし＿しりません。"
+  },
+  {
+    "id": "も-15",
+    "particle": "も",
+    "japanese": "兄も食べません。",
+    "kana": "あにもたべません。",
+    "spanish": "Mi hermano mayor tampoco come.",
+    "answers": [
+      "も"
+    ],
+    "explanation": [
+      "も — Práctica adicional."
+    ],
+    "template": "兄＿食べません。",
+    "kanaMasked": "あに＿たべません。"
+  },
+  {
+    "id": "も-16",
+    "particle": "も",
+    "japanese": "妹も来ません。",
+    "kana": "いもうともきません。",
+    "spanish": "Mi hermana menor tampoco viene.",
+    "answers": [
+      "も"
+    ],
+    "explanation": [
+      "も — Práctica adicional."
+    ],
+    "template": "妹＿来ません。",
+    "kanaMasked": "いもうと＿きません。"
+  },
+  {
+    "id": "も-17",
+    "particle": "も",
+    "japanese": "今日も働きます。",
+    "kana": "きょうもはたらきます。",
+    "spanish": "Hoy también trabajo.",
+    "answers": [
+      "も"
+    ],
+    "explanation": [
+      "も — Práctica adicional."
+    ],
+    "template": "今日＿働きます。",
+    "kanaMasked": "きょう＿はたらきます。"
+  },
+  {
+    "id": "も-18",
+    "particle": "も",
+    "japanese": "明日も雨です。",
+    "kana": "あしたもあめです。",
+    "spanish": "Mañana también lloverá.",
+    "answers": [
+      "も"
+    ],
+    "explanation": [
+      "も — Práctica adicional."
+    ],
+    "template": "明日＿雨です。",
+    "kanaMasked": "あした＿あめです。"
+  },
+  {
+    "id": "も-19",
+    "particle": "も",
+    "japanese": "ここも静かです。",
+    "kana": "ここもしずかです。",
+    "spanish": "Aquí también está tranquilo.",
+    "answers": [
+      "も"
+    ],
+    "explanation": [
+      "も — Práctica adicional."
+    ],
+    "template": "ここ＿静かです。",
+    "kanaMasked": "ここ＿しずかです。"
+  },
+  {
+    "id": "も-20",
+    "particle": "も",
+    "japanese": "先生も来ます。",
+    "kana": "せんせいもきます。",
+    "spanish": "El profesor también viene.",
+    "answers": [
+      "も"
+    ],
+    "explanation": [
+      "も — Práctica adicional."
+    ],
+    "template": "先生＿来ます。",
+    "kanaMasked": "せんせい＿きます。"
+  },
+  {
+    "id": "から-01",
+    "particle": "から",
+    "japanese": "家から学校へ行きます。",
+    "kana": "いえからがっこうへいきます。",
+    "spanish": "Voy de casa a la escuela.",
+    "answers": [
+      "から"
+    ],
+    "explanation": [
+      "から — Punto de origen o procedencia."
+    ],
+    "template": "家＿学校へ行きます。",
+    "kanaMasked": "いえ＿がっこうへいきます。"
+  },
+  {
+    "id": "から-02",
+    "particle": "から",
+    "japanese": "日本から来ました。",
+    "kana": "にほんからきました。",
+    "spanish": "Vine de Japón.",
+    "answers": [
+      "から"
+    ],
+    "explanation": [
+      "から — Punto de origen o procedencia."
+    ],
+    "template": "日本＿来ました。",
+    "kanaMasked": "にほん＿きました。"
+  },
+  {
+    "id": "から-03",
+    "particle": "から",
+    "japanese": "駅から歩きます。",
+    "kana": "えきからあるきます。",
+    "spanish": "Camino desde la estación.",
+    "answers": [
+      "から"
+    ],
+    "explanation": [
+      "から — Punto de origen o procedencia."
+    ],
+    "template": "駅＿歩きます。",
+    "kanaMasked": "えき＿あるきます。"
+  },
+  {
+    "id": "から-04",
+    "particle": "から",
+    "japanese": "友達から手紙をもらいました。",
+    "kana": "ともだちからてがみをもらいました。",
+    "spanish": "Recibí una carta de un amigo.",
+    "answers": [
+      "から"
+    ],
+    "explanation": [
+      "から — Punto de origen o procedencia."
+    ],
+    "template": "友達＿手紙をもらいました。",
+    "kanaMasked": "ともだち＿てがみをもらいました。"
+  },
+  {
+    "id": "から-05",
+    "particle": "から",
+    "japanese": "窓から山が見えます。",
+    "kana": "まどからやまがみえます。",
+    "spanish": "Se ve la montaña desde la ventana.",
+    "answers": [
+      "から"
+    ],
+    "explanation": [
+      "から — Punto de origen o procedencia."
+    ],
+    "template": "窓＿山が見えます。",
+    "kanaMasked": "まど＿やまがみえます。"
+  },
+  {
+    "id": "から-06",
+    "particle": "から",
+    "japanese": "九時から働きます。",
+    "kana": "くじからはたらきます。",
+    "spanish": "Trabajo desde las nueve.",
+    "answers": [
+      "から"
+    ],
+    "explanation": [
+      "から — Inicio de un periodo."
+    ],
+    "template": "九時＿働きます。",
+    "kanaMasked": "くじ＿はたらきます。"
+  },
+  {
+    "id": "から-07",
+    "particle": "から",
+    "japanese": "明日から休みです。",
+    "kana": "あしたからやすみです。",
+    "spanish": "Desde mañana estoy de vacaciones.",
+    "answers": [
+      "から"
+    ],
+    "explanation": [
+      "から — Inicio de un periodo."
+    ],
+    "template": "明日＿休みです。",
+    "kanaMasked": "あした＿やすみです。"
+  },
+  {
+    "id": "から-08",
+    "particle": "から",
+    "japanese": "月曜日から学校です。",
+    "kana": "げつようびからがっこうです。",
+    "spanish": "Las clases comienzan el lunes.",
+    "answers": [
+      "から"
+    ],
+    "explanation": [
+      "から — Inicio de un periodo."
+    ],
+    "template": "月曜日＿学校です。",
+    "kanaMasked": "げつようび＿がっこうです。"
+  },
+  {
+    "id": "から-09",
+    "particle": "から",
+    "japanese": "朝から雨です。",
+    "kana": "あさからあめです。",
+    "spanish": "Llueve desde la mañana.",
+    "answers": [
+      "から"
+    ],
+    "explanation": [
+      "から — Inicio de un periodo."
+    ],
+    "template": "朝＿雨です。",
+    "kanaMasked": "あさ＿あめです。"
+  },
+  {
+    "id": "から-10",
+    "particle": "から",
+    "japanese": "来週から勉強します。",
+    "kana": "らいしゅうからべんきょうします。",
+    "spanish": "Empezaré a estudiar la semana que viene.",
+    "answers": [
+      "から"
+    ],
+    "explanation": [
+      "から — Inicio de un periodo."
+    ],
+    "template": "来週＿勉強します。",
+    "kanaMasked": "らいしゅう＿べんきょうします。"
+  },
+  {
+    "id": "から-11",
+    "particle": "から",
+    "japanese": "雨ですから、行きません。",
+    "kana": "あめですから、いきません。",
+    "spanish": "Como llueve, no voy.",
+    "answers": [
+      "から"
+    ],
+    "explanation": [
+      "から — Causa o justificación: porque."
+    ],
+    "template": "雨です＿、行きません。",
+    "kanaMasked": "あめです＿、いきません。"
+  },
+  {
+    "id": "から-12",
+    "particle": "から",
+    "japanese": "寒いから、窓を閉めます。",
+    "kana": "さむいから、まどをしめます。",
+    "spanish": "Como hace frío, cierro la ventana.",
+    "answers": [
+      "から"
+    ],
+    "explanation": [
+      "から — Causa o justificación: porque."
+    ],
+    "template": "寒い＿、窓を閉めます。",
+    "kanaMasked": "さむい＿、まどをしめます。"
+  },
+  {
+    "id": "から-13",
+    "particle": "から",
+    "japanese": "忙しいから、今日は休みません。",
+    "kana": "いそがしいから、きょうはやすみません。",
+    "spanish": "Como estoy ocupado, hoy no descanso.",
+    "answers": [
+      "から"
+    ],
+    "explanation": [
+      "から — Causa o justificación: porque."
+    ],
+    "template": "忙しい＿、今日は休みません。",
+    "kanaMasked": "いそがしい＿、きょうはやすみません。"
+  },
+  {
+    "id": "から-14",
+    "particle": "から",
+    "japanese": "お腹がすいたから、食べます。",
+    "kana": "おなかがすいたから、たべます。",
+    "spanish": "Como tengo hambre, voy a comer.",
+    "answers": [
+      "から"
+    ],
+    "explanation": [
+      "から — Causa o justificación: porque."
+    ],
+    "template": "お腹がすいた＿、食べます。",
+    "kanaMasked": "おなかがすいた＿、たべます。"
+  },
+  {
+    "id": "から-15",
+    "particle": "から",
+    "japanese": "明日は試験ですから、勉強します。",
+    "kana": "あしたはしけんですから、べんきょうします。",
+    "spanish": "Como mañana hay examen, estudiaré.",
+    "answers": [
+      "から"
+    ],
+    "explanation": [
+      "から — Causa o justificación: porque."
+    ],
+    "template": "明日は試験です＿、勉強します。",
+    "kanaMasked": "あしたはしけんです＿、べんきょうします。"
+  },
+  {
+    "id": "から-16",
+    "particle": "から",
+    "japanese": "月曜日から始めます。",
+    "kana": "げつようびからはじめます。",
+    "spanish": "Empiezo el lunes.",
+    "answers": [
+      "から"
+    ],
+    "explanation": [
+      "から — Práctica adicional."
+    ],
+    "template": "月曜日＿始めます。",
+    "kanaMasked": "げつようび＿はじめます。"
+  },
+  {
+    "id": "から-17",
+    "particle": "から",
+    "japanese": "朝から勉強します。",
+    "kana": "あさからべんきょうします。",
+    "spanish": "Estudio desde la mañana.",
+    "answers": [
+      "から"
+    ],
+    "explanation": [
+      "から — Práctica adicional."
+    ],
+    "template": "朝＿勉強します。",
+    "kanaMasked": "あさ＿べんきょうします。"
+  },
+  {
+    "id": "から-18",
+    "particle": "から",
+    "japanese": "寒いから帰ります。",
+    "kana": "さむいからかえります。",
+    "spanish": "Como hace frío, regreso.",
+    "answers": [
+      "から"
+    ],
+    "explanation": [
+      "から — Práctica adicional."
+    ],
+    "template": "寒い＿帰ります。",
+    "kanaMasked": "さむい＿かえります。"
+  },
+  {
+    "id": "から-19",
+    "particle": "から",
+    "japanese": "忙しいから行けません。",
+    "kana": "いそがしいからいけません。",
+    "spanish": "No puedo ir porque estoy ocupado.",
+    "answers": [
+      "から"
+    ],
+    "explanation": [
+      "から — Práctica adicional."
+    ],
+    "template": "忙しい＿行けません。",
+    "kanaMasked": "いそがしい＿いけません。"
+  },
+  {
+    "id": "から-20",
+    "particle": "から",
+    "japanese": "雨だから休みます。",
+    "kana": "あめだからやすみます。",
+    "spanish": "Descanso porque llueve.",
+    "answers": [
+      "から"
+    ],
+    "explanation": [
+      "から — Práctica adicional."
+    ],
+    "template": "雨だ＿休みます。",
+    "kanaMasked": "あめだ＿やすみます。"
+  },
+  {
+    "id": "まで-01",
+    "particle": "まで",
+    "japanese": "五時まで働きます。",
+    "kana": "ごじまではたらきます。",
+    "spanish": "Trabajo hasta las cinco.",
+    "answers": [
+      "まで"
+    ],
+    "explanation": [
+      "まで — Límite temporal: hasta."
+    ],
+    "template": "五時＿働きます。",
+    "kanaMasked": "ごじ＿はたらきます。"
+  },
+  {
+    "id": "まで-02",
+    "particle": "まで",
+    "japanese": "明日まで待ちます。",
+    "kana": "あしたまでまちます。",
+    "spanish": "Espero hasta mañana.",
+    "answers": [
+      "まで"
+    ],
+    "explanation": [
+      "まで — Límite temporal: hasta."
+    ],
+    "template": "明日＿待ちます。",
+    "kanaMasked": "あした＿まちます。"
+  },
+  {
+    "id": "まで-03",
+    "particle": "まで",
+    "japanese": "日曜日まで休みです。",
+    "kana": "にちようびまでやすみです。",
+    "spanish": "Estoy de vacaciones hasta el domingo.",
+    "answers": [
+      "まで"
+    ],
+    "explanation": [
+      "まで — Límite temporal: hasta."
+    ],
+    "template": "日曜日＿休みです。",
+    "kanaMasked": "にちようび＿やすみです。"
+  },
+  {
+    "id": "まで-04",
+    "particle": "まで",
+    "japanese": "夜まで勉強します。",
+    "kana": "よるまでべんきょうします。",
+    "spanish": "Estudio hasta la noche.",
+    "answers": [
+      "まで"
+    ],
+    "explanation": [
+      "まで — Límite temporal: hasta."
+    ],
+    "template": "夜＿勉強します。",
+    "kanaMasked": "よる＿べんきょうします。"
+  },
+  {
+    "id": "まで-05",
+    "particle": "まで",
+    "japanese": "三時までここにいます。",
+    "kana": "さんじまでここにいます。",
+    "spanish": "Estoy aquí hasta las tres.",
+    "answers": [
+      "まで"
+    ],
+    "explanation": [
+      "まで — Límite temporal: hasta."
+    ],
+    "template": "三時＿ここにいます。",
+    "kanaMasked": "さんじ＿ここにいます。"
+  },
+  {
+    "id": "まで-06",
+    "particle": "まで",
+    "japanese": "東京まで行きます。",
+    "kana": "とうきょうまでいきます。",
+    "spanish": "Voy hasta Tokio.",
+    "answers": [
+      "まで"
+    ],
+    "explanation": [
+      "まで — Límite espacial: hasta un lugar."
+    ],
+    "template": "東京＿行きます。",
+    "kanaMasked": "とうきょう＿いきます。"
+  },
+  {
+    "id": "まで-07",
+    "particle": "まで",
+    "japanese": "駅まで歩きます。",
+    "kana": "えきまであるきます。",
+    "spanish": "Camino hasta la estación.",
+    "answers": [
+      "まで"
+    ],
+    "explanation": [
+      "まで — Límite espacial: hasta un lugar."
+    ],
+    "template": "駅＿歩きます。",
+    "kanaMasked": "えき＿あるきます。"
+  },
+  {
+    "id": "まで-08",
+    "particle": "まで",
+    "japanese": "家まで送ります。",
+    "kana": "いえまでおくります。",
+    "spanish": "Te acompaño hasta casa.",
+    "answers": [
+      "まで"
+    ],
+    "explanation": [
+      "まで — Límite espacial: hasta un lugar."
+    ],
+    "template": "家＿送ります。",
+    "kanaMasked": "いえ＿おくります。"
+  },
+  {
+    "id": "まで-09",
+    "particle": "まで",
+    "japanese": "学校まで走ります。",
+    "kana": "がっこうまではしります。",
+    "spanish": "Corro hasta la escuela.",
+    "answers": [
+      "まで"
+    ],
+    "explanation": [
+      "まで — Límite espacial: hasta un lugar."
+    ],
+    "template": "学校＿走ります。",
+    "kanaMasked": "がっこう＿はしります。"
+  },
+  {
+    "id": "まで-10",
+    "particle": "まで",
+    "japanese": "ここから橋まで行きます。",
+    "kana": "ここからはしまでいきます。",
+    "spanish": "Voy desde aquí hasta el puente.",
+    "answers": [
+      "まで"
+    ],
+    "explanation": [
+      "まで — Límite espacial: hasta un lugar."
+    ],
+    "template": "ここから橋＿行きます。",
+    "kanaMasked": "ここからはし＿いきます。"
+  },
+  {
+    "id": "まで-11",
+    "particle": "まで",
+    "japanese": "夜まで働きます。",
+    "kana": "よるまではたらきます。",
+    "spanish": "Trabajo hasta la noche.",
+    "answers": [
+      "まで"
+    ],
+    "explanation": [
+      "まで — Práctica adicional."
+    ],
+    "template": "夜＿働きます。",
+    "kanaMasked": "よる＿はたらきます。"
+  },
+  {
+    "id": "まで-12",
+    "particle": "まで",
+    "japanese": "月曜日まで待ちます。",
+    "kana": "げつようびまでまちます。",
+    "spanish": "Espero hasta el lunes.",
+    "answers": [
+      "まで"
+    ],
+    "explanation": [
+      "まで — Práctica adicional."
+    ],
+    "template": "月曜日＿待ちます。",
+    "kanaMasked": "げつようび＿まちます。"
+  },
+  {
+    "id": "まで-13",
+    "particle": "まで",
+    "japanese": "十時まで勉強します。",
+    "kana": "じゅうじまでべんきょうします。",
+    "spanish": "Estudio hasta las diez.",
+    "answers": [
+      "まで"
+    ],
+    "explanation": [
+      "まで — Práctica adicional."
+    ],
+    "template": "十時＿勉強します。",
+    "kanaMasked": "じゅうじ＿べんきょうします。"
+  },
+  {
+    "id": "まで-14",
+    "particle": "まで",
+    "japanese": "明日まで休みです。",
+    "kana": "あしたまでやすみです。",
+    "spanish": "Estoy de descanso hasta mañana.",
+    "answers": [
+      "まで"
+    ],
+    "explanation": [
+      "まで — Práctica adicional."
+    ],
+    "template": "明日＿休みです。",
+    "kanaMasked": "あした＿やすみです。"
+  },
+  {
+    "id": "まで-15",
+    "particle": "まで",
+    "japanese": "空港まで行きます。",
+    "kana": "くうこうまでいきます。",
+    "spanish": "Voy hasta el aeropuerto.",
+    "answers": [
+      "まで"
+    ],
+    "explanation": [
+      "まで — Práctica adicional."
+    ],
+    "template": "空港＿行きます。",
+    "kanaMasked": "くうこう＿いきます。"
+  },
+  {
+    "id": "まで-16",
+    "particle": "まで",
+    "japanese": "ここまで来ました。",
+    "kana": "ここまできました。",
+    "spanish": "Llegué hasta aquí.",
+    "answers": [
+      "まで"
+    ],
+    "explanation": [
+      "まで — Práctica adicional."
+    ],
+    "template": "ここ＿来ました。",
+    "kanaMasked": "ここ＿きました。"
+  },
+  {
+    "id": "まで-17",
+    "particle": "まで",
+    "japanese": "最後まで読みます。",
+    "kana": "さいごまでよみます。",
+    "spanish": "Leo hasta el final.",
+    "answers": [
+      "まで"
+    ],
+    "explanation": [
+      "まで — Práctica adicional."
+    ],
+    "template": "最後＿読みます。",
+    "kanaMasked": "さいご＿よみます。"
+  },
+  {
+    "id": "まで-18",
+    "particle": "まで",
+    "japanese": "夕方まで待ちます。",
+    "kana": "ゆうがたまでまちます。",
+    "spanish": "Espero hasta la tarde.",
+    "answers": [
+      "まで"
+    ],
+    "explanation": [
+      "まで — Práctica adicional."
+    ],
+    "template": "夕方＿待ちます。",
+    "kanaMasked": "ゆうがた＿まちます。"
+  },
+  {
+    "id": "まで-19",
+    "particle": "まで",
+    "japanese": "海まで歩きます。",
+    "kana": "うみまであるきます。",
+    "spanish": "Camino hasta el mar.",
+    "answers": [
+      "まで"
+    ],
+    "explanation": [
+      "まで — Práctica adicional."
+    ],
+    "template": "海＿歩きます。",
+    "kanaMasked": "うみ＿あるきます。"
+  },
+  {
+    "id": "まで-20",
+    "particle": "まで",
+    "japanese": "三時まで寝ます。",
+    "kana": "さんじまでねます。",
+    "spanish": "Duermo hasta las tres.",
+    "answers": [
+      "まで"
+    ],
+    "explanation": [
+      "まで — Práctica adicional."
+    ],
+    "template": "三時＿寝ます。",
+    "kanaMasked": "さんじ＿ねます。"
+  },
+  {
+    "id": "ね-01",
+    "particle": "ね",
+    "japanese": "今日は暑いですね。",
+    "kana": "きょうはあついですね。",
+    "spanish": "Hoy hace calor, ¿verdad?",
+    "answers": [
+      "ね"
+    ],
+    "explanation": [
+      "ね — Buscar acuerdo o confirmación."
+    ],
+    "template": "今日は暑いです＿。",
+    "kanaMasked": "きょうはあついです＿。"
+  },
+  {
+    "id": "ね-02",
+    "particle": "ね",
+    "japanese": "この花はきれいですね。",
+    "kana": "このはなはきれいですね。",
+    "spanish": "Esta flor es bonita, ¿no?",
+    "answers": [
+      "ね"
+    ],
+    "explanation": [
+      "ね — Buscar acuerdo o confirmación."
+    ],
+    "template": "この花はきれいです＿。",
+    "kanaMasked": "このはなはきれいです＿。"
+  },
+  {
+    "id": "ね-03",
+    "particle": "ね",
+    "japanese": "明日は休みですね。",
+    "kana": "あしたはやすみですね。",
+    "spanish": "Mañana es día libre, ¿verdad?",
+    "answers": [
+      "ね"
+    ],
+    "explanation": [
+      "ね — Buscar acuerdo o confirmación."
+    ],
+    "template": "明日は休みです＿。",
+    "kanaMasked": "あしたはやすみです＿。"
+  },
+  {
+    "id": "ね-04",
+    "particle": "ね",
+    "japanese": "もう十時ですね。",
+    "kana": "もうじゅうじですね。",
+    "spanish": "Ya son las diez, ¿verdad?",
+    "answers": [
+      "ね"
+    ],
+    "explanation": [
+      "ね — Buscar acuerdo o confirmación."
+    ],
+    "template": "もう十時です＿。",
+    "kanaMasked": "もうじゅうじです＿。"
+  },
+  {
+    "id": "ね-05",
+    "particle": "ね",
+    "japanese": "この店は安いですね。",
+    "kana": "このみせはやすいですね。",
+    "spanish": "Esta tienda es barata, ¿verdad?",
+    "answers": [
+      "ね"
+    ],
+    "explanation": [
+      "ね — Buscar acuerdo o confirmación."
+    ],
+    "template": "この店は安いです＿。",
+    "kanaMasked": "このみせはやすいです＿。"
+  },
+  {
+    "id": "ね-06",
+    "particle": "ね",
+    "japanese": "おいしいですね。",
+    "kana": "おいしいですね。",
+    "spanish": "¡Qué rico!, ¿verdad?",
+    "answers": [
+      "ね"
+    ],
+    "explanation": [
+      "ね — Compartir impresión o empatía."
+    ],
+    "template": "おいしいです＿。",
+    "kanaMasked": "おいしいです＿。"
+  },
+  {
+    "id": "ね-07",
+    "particle": "ね",
+    "japanese": "大変ですね。",
+    "kana": "たいへんですね。",
+    "spanish": "Qué difícil debe de ser.",
+    "answers": [
+      "ね"
+    ],
+    "explanation": [
+      "ね — Compartir impresión o empatía."
+    ],
+    "template": "大変です＿。",
+    "kanaMasked": "たいへんです＿。"
+  },
+  {
+    "id": "ね-08",
+    "particle": "ね",
+    "japanese": "よかったですね。",
+    "kana": "よかったですね。",
+    "spanish": "¡Qué bueno!",
+    "answers": [
+      "ね"
+    ],
+    "explanation": [
+      "ね — Compartir impresión o empatía."
+    ],
+    "template": "よかったです＿。",
+    "kanaMasked": "よかったです＿。"
+  },
+  {
+    "id": "ね-09",
+    "particle": "ね",
+    "japanese": "かわいいですね。",
+    "kana": "かわいいですね。",
+    "spanish": "¡Qué lindo!",
+    "answers": [
+      "ね"
+    ],
+    "explanation": [
+      "ね — Compartir impresión o empatía."
+    ],
+    "template": "かわいいです＿。",
+    "kanaMasked": "かわいいです＿。"
+  },
+  {
+    "id": "ね-10",
+    "particle": "ね",
+    "japanese": "楽しいですね。",
+    "kana": "たのしいですね。",
+    "spanish": "¡Qué divertido!, ¿no?",
+    "answers": [
+      "ね"
+    ],
+    "explanation": [
+      "ね — Compartir impresión o empatía."
+    ],
+    "template": "楽しいです＿。",
+    "kanaMasked": "たのしいです＿。"
+  },
+  {
+    "id": "ね-11",
+    "particle": "ね",
+    "japanese": "いい天気ですね。",
+    "kana": "いいてんきですね。",
+    "spanish": "Hace buen tiempo, ¿verdad?",
+    "answers": [
+      "ね"
+    ],
+    "explanation": [
+      "ね — Práctica adicional."
+    ],
+    "template": "いい天気です＿。",
+    "kanaMasked": "いいてんきです＿。"
+  },
+  {
+    "id": "ね-12",
+    "particle": "ね",
+    "japanese": "静かですね。",
+    "kana": "しずかですね。",
+    "spanish": "Está tranquilo, ¿verdad?",
+    "answers": [
+      "ね"
+    ],
+    "explanation": [
+      "ね — Práctica adicional."
+    ],
+    "template": "静かです＿。",
+    "kanaMasked": "しずかです＿。"
+  },
+  {
+    "id": "ね-13",
+    "particle": "ね",
+    "japanese": "きれいですね。",
+    "kana": "きれいですね。",
+    "spanish": "Qué bonito, ¿verdad?",
+    "answers": [
+      "ね"
+    ],
+    "explanation": [
+      "ね — Práctica adicional."
+    ],
+    "template": "きれいです＿。",
+    "kanaMasked": "きれいです＿。"
+  },
+  {
+    "id": "ね-14",
+    "particle": "ね",
+    "japanese": "今日は寒いですね。",
+    "kana": "きょうはさむいですね。",
+    "spanish": "Hoy hace frío, ¿verdad?",
+    "answers": [
+      "ね"
+    ],
+    "explanation": [
+      "ね — Práctica adicional."
+    ],
+    "template": "今日は寒いです＿。",
+    "kanaMasked": "きょうはさむいです＿。"
+  },
+  {
+    "id": "ね-15",
+    "particle": "ね",
+    "japanese": "楽しみですね。",
+    "kana": "たのしみですね。",
+    "spanish": "Qué emoción, ¿verdad?",
+    "answers": [
+      "ね"
+    ],
+    "explanation": [
+      "ね — Práctica adicional."
+    ],
+    "template": "楽しみです＿。",
+    "kanaMasked": "たのしみです＿。"
+  },
+  {
+    "id": "ね-16",
+    "particle": "ね",
+    "japanese": "そうですね。",
+    "kana": "そうですね。",
+    "spanish": "Así es, ¿verdad?",
+    "answers": [
+      "ね"
+    ],
+    "explanation": [
+      "ね — Práctica adicional."
+    ],
+    "template": "そうです＿。",
+    "kanaMasked": "そうです＿。"
+  },
+  {
+    "id": "ね-17",
+    "particle": "ね",
+    "japanese": "早いですね。",
+    "kana": "はやいですね。",
+    "spanish": "Qué temprano, ¿verdad?",
+    "answers": [
+      "ね"
+    ],
+    "explanation": [
+      "ね — Práctica adicional."
+    ],
+    "template": "早いです＿。",
+    "kanaMasked": "はやいです＿。"
+  },
+  {
+    "id": "ね-18",
+    "particle": "ね",
+    "japanese": "いいですね。",
+    "kana": "いいですね。",
+    "spanish": "Qué bien, ¿verdad?",
+    "answers": [
+      "ね"
+    ],
+    "explanation": [
+      "ね — Práctica adicional."
+    ],
+    "template": "いいです＿。",
+    "kanaMasked": "いいです＿。"
+  },
+  {
+    "id": "ね-19",
+    "particle": "ね",
+    "japanese": "面白いですね。",
+    "kana": "おもしろいですね。",
+    "spanish": "Es interesante, ¿verdad?",
+    "answers": [
+      "ね"
+    ],
+    "explanation": [
+      "ね — Práctica adicional."
+    ],
+    "template": "面白いです＿。",
+    "kanaMasked": "おもしろいです＿。"
+  },
+  {
+    "id": "ね-20",
+    "particle": "ね",
+    "japanese": "難しいですね。",
+    "kana": "むずかしいですね。",
+    "spanish": "Es difícil, ¿verdad?",
+    "answers": [
+      "ね"
+    ],
+    "explanation": [
+      "ね — Práctica adicional."
+    ],
+    "template": "難しいです＿。",
+    "kanaMasked": "むずかしいです＿。"
+  },
+  {
+    "id": "か-01",
+    "particle": "か",
+    "japanese": "学生ですか。",
+    "kana": "がくせいですか。",
+    "spanish": "¿Eres estudiante?",
+    "answers": [
+      "か"
+    ],
+    "explanation": [
+      "か — Pregunta al final de la oración."
+    ],
+    "template": "学生です＿。",
+    "kanaMasked": "がくせいです＿。"
+  },
+  {
+    "id": "か-02",
+    "particle": "か",
+    "japanese": "日本語が好きですか。",
+    "kana": "にほんごがすきですか。",
+    "spanish": "¿Te gusta el japonés?",
+    "answers": [
+      "か"
+    ],
+    "explanation": [
+      "か — Pregunta al final de la oración."
+    ],
+    "template": "日本語が好きです＿。",
+    "kanaMasked": "にほんごがすきです＿。"
+  },
+  {
+    "id": "か-03",
+    "particle": "か",
+    "japanese": "これは何ですか。",
+    "kana": "これはなんですか。",
+    "spanish": "¿Qué es esto?",
+    "answers": [
+      "か"
+    ],
+    "explanation": [
+      "か — Pregunta al final de la oración."
+    ],
+    "template": "これは何です＿。",
+    "kanaMasked": "これはなんです＿。"
+  },
+  {
+    "id": "か-04",
+    "particle": "か",
+    "japanese": "明日来ますか。",
+    "kana": "あしたきますか。",
+    "spanish": "¿Vendrás mañana?",
+    "answers": [
+      "か"
+    ],
+    "explanation": [
+      "か — Pregunta al final de la oración."
+    ],
+    "template": "明日来ます＿。",
+    "kanaMasked": "あしたきます＿。"
+  },
+  {
+    "id": "か-05",
+    "particle": "か",
+    "japanese": "お茶を飲みますか。",
+    "kana": "おちゃをのみますか。",
+    "spanish": "¿Tomas té?",
+    "answers": [
+      "か"
+    ],
+    "explanation": [
+      "か — Pregunta al final de la oración."
+    ],
+    "template": "お茶を飲みます＿。",
+    "kanaMasked": "おちゃをのみます＿。"
+  },
+  {
+    "id": "か-06",
+    "particle": "か",
+    "japanese": "水かお茶をください。",
+    "kana": "みずかおちゃをください。",
+    "spanish": "Agua o té, por favor.",
+    "answers": [
+      "か"
+    ],
+    "explanation": [
+      "か — Alternativa: A o B."
+    ],
+    "template": "水＿お茶をください。",
+    "kanaMasked": "みず＿おちゃをください。"
+  },
+  {
+    "id": "か-07",
+    "particle": "か",
+    "japanese": "土曜日か日曜日に行きます。",
+    "kana": "どようびかにちようびにいきます。",
+    "spanish": "Iré el sábado o el domingo.",
+    "answers": [
+      "か"
+    ],
+    "explanation": [
+      "か — Alternativa: A o B."
+    ],
+    "template": "土曜日＿日曜日に行きます。",
+    "kanaMasked": "どようび＿にちようびにいきます。"
+  },
+  {
+    "id": "か-08",
+    "particle": "か",
+    "japanese": "バスか電車で行きます。",
+    "kana": "ばすかでんしゃでいきます。",
+    "spanish": "Voy en autobús o tren.",
+    "answers": [
+      "か"
+    ],
+    "explanation": [
+      "か — Alternativa: A o B."
+    ],
+    "template": "バス＿電車で行きます。",
+    "kanaMasked": "ばす＿でんしゃでいきます。"
+  },
+  {
+    "id": "か-09",
+    "particle": "か",
+    "japanese": "りんごかみかんを食べます。",
+    "kana": "りんごかみかんをたべます。",
+    "spanish": "Como una manzana o una mandarina.",
+    "answers": [
+      "か"
+    ],
+    "explanation": [
+      "か — Alternativa: A o B."
+    ],
+    "template": "りんご＿みかんを食べます。",
+    "kanaMasked": "りんご＿みかんをたべます。"
+  },
+  {
+    "id": "か-10",
+    "particle": "か",
+    "japanese": "赤か青を選んでください。",
+    "kana": "あかかあおをえらんでください。",
+    "spanish": "Elige rojo o azul.",
+    "answers": [
+      "か"
+    ],
+    "explanation": [
+      "か — Alternativa: A o B."
+    ],
+    "template": "赤＿青を選んでください。",
+    "kanaMasked": "あか＿あおをえらんでください。"
+  },
+  {
+    "id": "か-11",
+    "particle": "か",
+    "japanese": "先生ですか。",
+    "kana": "せんせいですか。",
+    "spanish": "¿Eres profesor?",
+    "answers": [
+      "か"
+    ],
+    "explanation": [
+      "か — Práctica adicional."
+    ],
+    "template": "先生です＿。",
+    "kanaMasked": "せんせいです＿。"
+  },
+  {
+    "id": "か-12",
+    "particle": "か",
+    "japanese": "元気ですか。",
+    "kana": "げんきですか。",
+    "spanish": "¿Estás bien?",
+    "answers": [
+      "か"
+    ],
+    "explanation": [
+      "か — Práctica adicional."
+    ],
+    "template": "元気です＿。",
+    "kanaMasked": "げんきです＿。"
+  },
+  {
+    "id": "か-13",
+    "particle": "か",
+    "japanese": "何時ですか。",
+    "kana": "なんじですか。",
+    "spanish": "¿Qué hora es?",
+    "answers": [
+      "か"
+    ],
+    "explanation": [
+      "か — Práctica adicional."
+    ],
+    "template": "何時です＿。",
+    "kanaMasked": "なんじです＿。"
+  },
+  {
+    "id": "か-14",
+    "particle": "か",
+    "japanese": "どこですか。",
+    "kana": "どこですか。",
+    "spanish": "¿Dónde está?",
+    "answers": [
+      "か"
+    ],
+    "explanation": [
+      "か — Práctica adicional."
+    ],
+    "template": "どこです＿。",
+    "kanaMasked": "どこです＿。"
+  },
+  {
+    "id": "か-15",
+    "particle": "か",
+    "japanese": "行きますか。",
+    "kana": "いきますか。",
+    "spanish": "¿Vas?",
+    "answers": [
+      "か"
+    ],
+    "explanation": [
+      "か — Práctica adicional."
+    ],
+    "template": "行きます＿。",
+    "kanaMasked": "いきます＿。"
+  },
+  {
+    "id": "か-16",
+    "particle": "か",
+    "japanese": "犬か猫を選びます。",
+    "kana": "いぬかねこをえらびます。",
+    "spanish": "Elijo un perro o un gato.",
+    "answers": [
+      "か"
+    ],
+    "explanation": [
+      "か — Práctica adicional."
+    ],
+    "template": "犬＿猫を選びます。",
+    "kanaMasked": "いぬ＿ねこをえらびます。"
+  },
+  {
+    "id": "か-17",
+    "particle": "か",
+    "japanese": "水か牛乳を飲みます。",
+    "kana": "みずかぎゅうにゅうをのみます。",
+    "spanish": "Bebo agua o leche.",
+    "answers": [
+      "か"
+    ],
+    "explanation": [
+      "か — Práctica adicional."
+    ],
+    "template": "水＿牛乳を飲みます。",
+    "kanaMasked": "みず＿ぎゅうにゅうをのみます。"
+  },
+  {
+    "id": "か-18",
+    "particle": "か",
+    "japanese": "月曜日か火曜日に行きます。",
+    "kana": "げつようびかかようびにいきます。",
+    "spanish": "Voy el lunes o el martes.",
+    "answers": [
+      "か"
+    ],
+    "explanation": [
+      "か — Práctica adicional."
+    ],
+    "template": "月曜日＿火曜日に行きます。",
+    "kanaMasked": "げつようび＿かようびにいきます。"
+  },
+  {
+    "id": "か-19",
+    "particle": "か",
+    "japanese": "赤か青が好きです。",
+    "kana": "あかかあおがすきです。",
+    "spanish": "Me gusta el rojo o el azul.",
+    "answers": [
+      "か"
+    ],
+    "explanation": [
+      "か — Práctica adicional."
+    ],
+    "template": "赤＿青が好きです。",
+    "kanaMasked": "あか＿あおがすきです。"
+  },
+  {
+    "id": "か-20",
+    "particle": "か",
+    "japanese": "電車かバスで行きます。",
+    "kana": "でんしゃかばすでいきます。",
+    "spanish": "Voy en tren o en autobús.",
+    "answers": [
+      "か"
+    ],
+    "explanation": [
+      "か — Práctica adicional."
+    ],
+    "template": "電車＿バスで行きます。",
+    "kanaMasked": "でんしゃ＿ばすでいきます。"
+  },
+  {
+    "id": "よ-01",
+    "particle": "よ",
+    "japanese": "明日は休みですよ。",
+    "kana": "あしたはやすみですよ。",
+    "spanish": "Mañana es día libre, que lo sepas.",
+    "answers": [
+      "よ"
+    ],
+    "explanation": [
+      "よ — Dar información o avisar."
+    ],
+    "template": "明日は休みです＿。",
+    "kanaMasked": "あしたはやすみです＿。"
+  },
+  {
+    "id": "よ-02",
+    "particle": "よ",
+    "japanese": "ここは静かですよ。",
+    "kana": "ここはしずかですよ。",
+    "spanish": "Aquí es tranquilo, ¿sabes?",
+    "answers": [
+      "よ"
+    ],
+    "explanation": [
+      "よ — Dar información o avisar."
+    ],
+    "template": "ここは静かです＿。",
+    "kanaMasked": "ここはしずかです＿。"
+  },
+  {
+    "id": "よ-03",
+    "particle": "よ",
+    "japanese": "電車が来ますよ。",
+    "kana": "でんしゃがきますよ。",
+    "spanish": "¡Ya viene el tren!",
+    "answers": [
+      "よ"
+    ],
+    "explanation": [
+      "よ — Dar información o avisar."
+    ],
+    "template": "電車が来ます＿。",
+    "kanaMasked": "でんしゃがきます＿。"
+  },
+  {
+    "id": "よ-04",
+    "particle": "よ",
+    "japanese": "これは私の本ですよ。",
+    "kana": "これはわたしのほんですよ。",
+    "spanish": "Este es mi libro, ¿eh?",
+    "answers": [
+      "よ"
+    ],
+    "explanation": [
+      "よ — Dar información o avisar."
+    ],
+    "template": "これは私の本です＿。",
+    "kanaMasked": "これはわたしのほんです＿。"
+  },
+  {
+    "id": "よ-05",
+    "particle": "よ",
+    "japanese": "もう時間ですよ。",
+    "kana": "もうじかんですよ。",
+    "spanish": "¡Ya es hora!",
+    "answers": [
+      "よ"
+    ],
+    "explanation": [
+      "よ — Dar información o avisar."
+    ],
+    "template": "もう時間です＿。",
+    "kanaMasked": "もうじかんです＿。"
+  },
+  {
+    "id": "よ-06",
+    "particle": "よ",
+    "japanese": "この店はおいしいですよ。",
+    "kana": "このみせはおいしいですよ。",
+    "spanish": "En esta tienda se come rico, te lo recomiendo.",
+    "answers": [
+      "よ"
+    ],
+    "explanation": [
+      "よ — Consejo o insistencia suave."
+    ],
+    "template": "この店はおいしいです＿。",
+    "kanaMasked": "このみせはおいしいです＿。"
+  },
+  {
+    "id": "よ-07",
+    "particle": "よ",
+    "japanese": "早く寝たほうがいいですよ。",
+    "kana": "はやくねたほうがいいですよ。",
+    "spanish": "Te conviene dormir temprano.",
+    "answers": [
+      "よ"
+    ],
+    "explanation": [
+      "よ — Consejo o insistencia suave."
+    ],
+    "template": "早く寝たほうがいいです＿。",
+    "kanaMasked": "はやくねたほうがいいです＿。"
+  },
+  {
+    "id": "よ-08",
+    "particle": "よ",
+    "japanese": "この本は面白いですよ。",
+    "kana": "このほんはおもしろいですよ。",
+    "spanish": "Este libro es interesante, te lo digo.",
+    "answers": [
+      "よ"
+    ],
+    "explanation": [
+      "よ — Consejo o insistencia suave."
+    ],
+    "template": "この本は面白いです＿。",
+    "kanaMasked": "このほんはおもしろいです＿。"
+  },
+  {
+    "id": "よ-09",
+    "particle": "よ",
+    "japanese": "気をつけてくださいよ。",
+    "kana": "きをつけてくださいよ。",
+    "spanish": "Ten cuidado, por favor.",
+    "answers": [
+      "よ"
+    ],
+    "explanation": [
+      "よ — Consejo o insistencia suave."
+    ],
+    "template": "気をつけてください＿。",
+    "kanaMasked": "きをつけてください＿。"
+  },
+  {
+    "id": "よ-10",
+    "particle": "よ",
+    "japanese": "大丈夫ですよ。",
+    "kana": "だいじょうぶですよ。",
+    "spanish": "No pasa nada, de verdad.",
+    "answers": [
+      "よ"
+    ],
+    "explanation": [
+      "よ — Consejo o insistencia suave."
+    ],
+    "template": "大丈夫です＿。",
+    "kanaMasked": "だいじょうぶです＿。"
+  },
+  {
+    "id": "よ-11",
+    "particle": "よ",
+    "japanese": "明日は雨ですよ。",
+    "kana": "あしたはあめですよ。",
+    "spanish": "Mañana lloverá, te aviso.",
+    "answers": [
+      "よ"
+    ],
+    "explanation": [
+      "よ — Práctica adicional."
+    ],
+    "template": "明日は雨です＿。",
+    "kanaMasked": "あしたはあめです＿。"
+  },
+  {
+    "id": "よ-12",
+    "particle": "よ",
+    "japanese": "ここは安全ですよ。",
+    "kana": "ここはあんぜんですよ。",
+    "spanish": "Aquí es seguro, te lo digo.",
+    "answers": [
+      "よ"
+    ],
+    "explanation": [
+      "よ — Práctica adicional."
+    ],
+    "template": "ここは安全です＿。",
+    "kanaMasked": "ここはあんぜんです＿。"
+  },
+  {
+    "id": "よ-13",
+    "particle": "よ",
+    "japanese": "これは私のですよ。",
+    "kana": "これはわたしのですよ。",
+    "spanish": "Esto es mío, te lo digo.",
+    "answers": [
+      "よ"
+    ],
+    "explanation": [
+      "よ — Práctica adicional."
+    ],
+    "template": "これは私のです＿。",
+    "kanaMasked": "これはわたしのです＿。"
+  },
+  {
+    "id": "よ-14",
+    "particle": "よ",
+    "japanese": "急いでくださいよ。",
+    "kana": "いそいでくださいよ。",
+    "spanish": "Vamos, date prisa.",
+    "answers": [
+      "よ"
+    ],
+    "explanation": [
+      "よ — Práctica adicional."
+    ],
+    "template": "急いでください＿。",
+    "kanaMasked": "いそいでください＿。"
+  },
+  {
+    "id": "よ-15",
+    "particle": "よ",
+    "japanese": "忘れないでくださいよ。",
+    "kana": "わすれないでくださいよ。",
+    "spanish": "No lo olvides, ¿eh?",
+    "answers": [
+      "よ"
+    ],
+    "explanation": [
+      "よ — Práctica adicional."
+    ],
+    "template": "忘れないでください＿。",
+    "kanaMasked": "わすれないでください＿。"
+  },
+  {
+    "id": "よ-16",
+    "particle": "よ",
+    "japanese": "一緒に行きましょうよ。",
+    "kana": "いっしょにいきましょうよ。",
+    "spanish": "Vamos juntos, anda.",
+    "answers": [
+      "よ"
+    ],
+    "explanation": [
+      "よ — Práctica adicional."
+    ],
+    "template": "一緒に行きましょう＿。",
+    "kanaMasked": "いっしょにいきましょう＿。"
+  },
+  {
+    "id": "よ-17",
+    "particle": "よ",
+    "japanese": "もう終わりましたよ。",
+    "kana": "もうおわりましたよ。",
+    "spanish": "Ya terminé, te aviso.",
+    "answers": [
+      "よ"
+    ],
+    "explanation": [
+      "よ — Práctica adicional."
+    ],
+    "template": "もう終わりました＿。",
+    "kanaMasked": "もうおわりました＿。"
+  },
+  {
+    "id": "よ-18",
+    "particle": "よ",
+    "japanese": "こちらですよ。",
+    "kana": "こちらですよ。",
+    "spanish": "Es por aquí, te digo.",
+    "answers": [
+      "よ"
+    ],
+    "explanation": [
+      "よ — Práctica adicional."
+    ],
+    "template": "こちらです＿。",
+    "kanaMasked": "こちらです＿。"
+  },
+  {
+    "id": "よ-19",
+    "particle": "よ",
+    "japanese": "今日は金曜日ですよ。",
+    "kana": "きょうはきんようびですよ。",
+    "spanish": "Hoy es viernes, ¿sabes?",
+    "answers": [
+      "よ"
+    ],
+    "explanation": [
+      "よ — Práctica adicional."
+    ],
+    "template": "今日は金曜日です＿。",
+    "kanaMasked": "きょうはきんようびです＿。"
+  },
+  {
+    "id": "よ-20",
+    "particle": "よ",
+    "japanese": "次はあなたですよ。",
+    "kana": "つぎはあなたですよ。",
+    "spanish": "Tú sigues, te aviso.",
+    "answers": [
+      "よ"
+    ],
+    "explanation": [
+      "よ — Práctica adicional."
+    ],
+    "template": "次はあなたです＿。",
+    "kanaMasked": "つぎはあなたです＿。"
+  },
+  {
+    "id": "や-01",
+    "particle": "や",
+    "japanese": "本や雑誌を読みます。",
+    "kana": "ほんやざっしをよみます。",
+    "spanish": "Leo libros, revistas y otras cosas.",
+    "answers": [
+      "や"
+    ],
+    "explanation": [
+      "や — Lista abierta: A, B y otros."
+    ],
+    "template": "本＿雑誌を読みます。",
+    "kanaMasked": "ほん＿ざっしをよみます。"
+  },
+  {
+    "id": "や-02",
+    "particle": "や",
+    "japanese": "りんごやみかんを買います。",
+    "kana": "りんごやみかんをかいます。",
+    "spanish": "Compro manzanas, mandarinas, etcétera.",
+    "answers": [
+      "や"
+    ],
+    "explanation": [
+      "や — Lista abierta: A, B y otros."
+    ],
+    "template": "りんご＿みかんを買います。",
+    "kanaMasked": "りんご＿みかんをかいます。"
+  },
+  {
+    "id": "や-03",
+    "particle": "や",
+    "japanese": "犬や猫がいます。",
+    "kana": "いぬやねこがいます。",
+    "spanish": "Hay perros, gatos y otros animales.",
+    "answers": [
+      "や"
+    ],
+    "explanation": [
+      "や — Lista abierta: A, B y otros."
+    ],
+    "template": "犬＿猫がいます。",
+    "kanaMasked": "いぬ＿ねこがいます。"
+  },
+  {
+    "id": "や-04",
+    "particle": "や",
+    "japanese": "机や椅子があります。",
+    "kana": "つくえやいすがあります。",
+    "spanish": "Hay escritorios, sillas y otros muebles.",
+    "answers": [
+      "や"
+    ],
+    "explanation": [
+      "や — Lista abierta: A, B y otros."
+    ],
+    "template": "机＿椅子があります。",
+    "kanaMasked": "つくえ＿いすがあります。"
+  },
+  {
+    "id": "や-05",
+    "particle": "や",
+    "japanese": "日本語や英語を勉強します。",
+    "kana": "にほんごやえいごをべんきょうします。",
+    "spanish": "Estudio japonés, inglés y otros idiomas.",
+    "answers": [
+      "や"
+    ],
+    "explanation": [
+      "や — Lista abierta: A, B y otros."
+    ],
+    "template": "日本語＿英語を勉強します。",
+    "kanaMasked": "にほんご＿えいごをべんきょうします。"
+  },
+  {
+    "id": "や-06",
+    "particle": "や",
+    "japanese": "猫や犬がいます。",
+    "kana": "ねこやいぬがいます。",
+    "spanish": "Hay gatos, perros y otros animales.",
+    "answers": [
+      "や"
+    ],
+    "explanation": [
+      "や — Práctica adicional."
+    ],
+    "template": "猫＿犬がいます。",
+    "kanaMasked": "ねこ＿いぬがいます。"
+  },
+  {
+    "id": "や-07",
+    "particle": "や",
+    "japanese": "本や新聞を読みます。",
+    "kana": "ほんやしんぶんをよみます。",
+    "spanish": "Leo libros, periódicos y otras cosas.",
+    "answers": [
+      "や"
+    ],
+    "explanation": [
+      "や — Práctica adicional."
+    ],
+    "template": "本＿新聞を読みます。",
+    "kanaMasked": "ほん＿しんぶんをよみます。"
+  },
+  {
+    "id": "や-08",
+    "particle": "や",
+    "japanese": "赤や青が好きです。",
+    "kana": "あかやあおがすきです。",
+    "spanish": "Me gustan colores como el rojo y el azul.",
+    "answers": [
+      "や"
+    ],
+    "explanation": [
+      "や — Práctica adicional."
+    ],
+    "template": "赤＿青が好きです。",
+    "kanaMasked": "あか＿あおがすきです。"
+  },
+  {
+    "id": "や-09",
+    "particle": "や",
+    "japanese": "東京や大阪へ行きます。",
+    "kana": "とうきょうやおおさかへいきます。",
+    "spanish": "Voy a ciudades como Tokio y Osaka.",
+    "answers": [
+      "や"
+    ],
+    "explanation": [
+      "や — Práctica adicional."
+    ],
+    "template": "東京＿大阪へ行きます。",
+    "kanaMasked": "とうきょう＿おおさかへいきます。"
+  },
+  {
+    "id": "や-10",
+    "particle": "や",
+    "japanese": "水やお茶を飲みます。",
+    "kana": "みずやおちゃをのみます。",
+    "spanish": "Bebo agua, té y otras bebidas.",
+    "answers": [
+      "や"
+    ],
+    "explanation": [
+      "や — Práctica adicional."
+    ],
+    "template": "水＿お茶を飲みます。",
+    "kanaMasked": "みず＿おちゃをのみます。"
+  },
+  {
+    "id": "や-11",
+    "particle": "や",
+    "japanese": "野菜や果物を買います。",
+    "kana": "やさいやくだものをかいます。",
+    "spanish": "Compro verduras, frutas y otras cosas.",
+    "answers": [
+      "や"
+    ],
+    "explanation": [
+      "や — Práctica adicional."
+    ],
+    "template": "野菜＿果物を買います。",
+    "kanaMasked": "やさい＿くだものをかいます。"
+  },
+  {
+    "id": "や-12",
+    "particle": "や",
+    "japanese": "父や母が来ます。",
+    "kana": "ちちやははがきます。",
+    "spanish": "Vienen mi padre, mi madre y otros familiares.",
+    "answers": [
+      "や"
+    ],
+    "explanation": [
+      "や — Práctica adicional."
+    ],
+    "template": "父＿母が来ます。",
+    "kanaMasked": "ちち＿ははがきます。"
+  },
+  {
+    "id": "や-13",
+    "particle": "や",
+    "japanese": "英語や日本語を勉強します。",
+    "kana": "えいごやにほんごをべんきょうします。",
+    "spanish": "Estudio idiomas como inglés y japonés.",
+    "answers": [
+      "や"
+    ],
+    "explanation": [
+      "や — Práctica adicional."
+    ],
+    "template": "英語＿日本語を勉強します。",
+    "kanaMasked": "えいご＿にほんごをべんきょうします。"
+  },
+  {
+    "id": "や-14",
+    "particle": "や",
+    "japanese": "春や秋が好きです。",
+    "kana": "はるやあきがすきです。",
+    "spanish": "Me gustan estaciones como primavera y otoño.",
+    "answers": [
+      "や"
+    ],
+    "explanation": [
+      "や — Práctica adicional."
+    ],
+    "template": "春＿秋が好きです。",
+    "kanaMasked": "はる＿あきがすきです。"
+  },
+  {
+    "id": "や-15",
+    "particle": "や",
+    "japanese": "鉛筆や消しゴムを買います。",
+    "kana": "えんぴつやけしごむをかいます。",
+    "spanish": "Compro lápices, gomas y otros útiles.",
+    "answers": [
+      "や"
+    ],
+    "explanation": [
+      "や — Práctica adicional."
+    ],
+    "template": "鉛筆＿消しゴムを買います。",
+    "kanaMasked": "えんぴつ＿けしごむをかいます。"
+  },
+  {
+    "id": "や-16",
+    "particle": "や",
+    "japanese": "魚や肉を食べます。",
+    "kana": "さかなやにくをたべます。",
+    "spanish": "Como pescado, carne y otros alimentos.",
+    "answers": [
+      "や"
+    ],
+    "explanation": [
+      "や — Práctica adicional."
+    ],
+    "template": "魚＿肉を食べます。",
+    "kanaMasked": "さかな＿にくをたべます。"
+  },
+  {
+    "id": "や-17",
+    "particle": "や",
+    "japanese": "映画や音楽が好きです。",
+    "kana": "えいがやおんがくがすきです。",
+    "spanish": "Me gustan películas, música y otras cosas.",
+    "answers": [
+      "や"
+    ],
+    "explanation": [
+      "や — Práctica adicional."
+    ],
+    "template": "映画＿音楽が好きです。",
+    "kanaMasked": "えいが＿おんがくがすきです。"
+  },
+  {
+    "id": "や-18",
+    "particle": "や",
+    "japanese": "公園や図書館へ行きます。",
+    "kana": "こうえんやとしょかんへいきます。",
+    "spanish": "Voy a lugares como parques y bibliotecas.",
+    "answers": [
+      "や"
+    ],
+    "explanation": [
+      "や — Práctica adicional."
+    ],
+    "template": "公園＿図書館へ行きます。",
+    "kanaMasked": "こうえん＿としょかんへいきます。"
+  },
+  {
+    "id": "や-19",
+    "particle": "や",
+    "japanese": "花や木があります。",
+    "kana": "はなやきがあります。",
+    "spanish": "Hay flores, árboles y otras plantas.",
+    "answers": [
+      "や"
+    ],
+    "explanation": [
+      "や — Práctica adicional."
+    ],
+    "template": "花＿木があります。",
+    "kanaMasked": "はな＿きがあります。"
+  },
+  {
+    "id": "や-20",
+    "particle": "や",
+    "japanese": "りんごや梨を買います。",
+    "kana": "りんごやなしをかいます。",
+    "spanish": "Compro manzanas, peras y otras frutas.",
+    "answers": [
+      "や"
+    ],
+    "explanation": [
+      "や — Práctica adicional."
+    ],
+    "template": "りんご＿梨を買います。",
+    "kanaMasked": "りんご＿なしをかいます。"
   }
 ]

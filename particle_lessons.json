@@ -33,6 +33,68 @@
           "です。"
         ]
       }
+    ],
+    "exampleGroups": [
+      {
+        "title": "Tema de conversación",
+        "examples": [
+          {
+            "japanese": "私は学生です。",
+            "kana": "わたしはがくせいです。",
+            "spanish": "Soy estudiante."
+          },
+          {
+            "japanese": "今日は暑いです。",
+            "kana": "きょうはあついです。",
+            "spanish": "Hoy hace calor."
+          },
+          {
+            "japanese": "母は先生です。",
+            "kana": "はははせんせいです。",
+            "spanish": "Mi madre es profesora."
+          },
+          {
+            "japanese": "この本は面白いです。",
+            "kana": "このほんはおもしろいです。",
+            "spanish": "Este libro es interesante."
+          },
+          {
+            "japanese": "日本語は楽しいです。",
+            "kana": "にほんごはたのしいです。",
+            "spanish": "El japonés es divertido."
+          }
+        ]
+      },
+      {
+        "title": "Contraste entre temas",
+        "examples": [
+          {
+            "japanese": "コーヒーは飲みますが、お茶は飲みません。",
+            "kana": "こーひーはのみますが、おちゃはのみません。",
+            "spanish": "Tomo café, pero no té."
+          },
+          {
+            "japanese": "私は行きますが、弟は行きません。",
+            "kana": "わたしはいきますが、おとうとはいきません。",
+            "spanish": "Yo voy, pero mi hermano menor no."
+          },
+          {
+            "japanese": "犬は好きですが、猫は苦手です。",
+            "kana": "いぬはすきですが、ねこはにがてです。",
+            "spanish": "Me gustan los perros, pero los gatos no tanto."
+          },
+          {
+            "japanese": "朝は忙しいです。",
+            "kana": "あさはいそがしいです。",
+            "spanish": "Por las mañanas estoy ocupado."
+          },
+          {
+            "japanese": "これは安いですが、あれは高いです。",
+            "kana": "これはやすいですが、あれはたかいです。",
+            "spanish": "Esto es barato, pero aquello es caro."
+          }
+        ]
+      }
     ]
   },
   {
@@ -66,6 +128,98 @@
           "七時",
           "に",
           "起きます。"
+        ]
+      }
+    ],
+    "exampleGroups": [
+      {
+        "title": "Destino de un desplazamiento",
+        "examples": [
+          {
+            "japanese": "学校に行きます。",
+            "kana": "がっこうにいきます。",
+            "spanish": "Voy a la escuela."
+          },
+          {
+            "japanese": "家に帰ります。",
+            "kana": "いえにかえります。",
+            "spanish": "Regreso a casa."
+          },
+          {
+            "japanese": "東京に来ました。",
+            "kana": "とうきょうにきました。",
+            "spanish": "Vine a Tokio."
+          },
+          {
+            "japanese": "駅に着きました。",
+            "kana": "えきにつきました。",
+            "spanish": "Llegué a la estación."
+          },
+          {
+            "japanese": "部屋に入ります。",
+            "kana": "へやにはいります。",
+            "spanish": "Entro en la habitación."
+          }
+        ]
+      },
+      {
+        "title": "Momento específico",
+        "examples": [
+          {
+            "japanese": "七時に起きます。",
+            "kana": "しちじにおきます。",
+            "spanish": "Me levanto a las siete."
+          },
+          {
+            "japanese": "月曜日に会います。",
+            "kana": "げつようびにあいます。",
+            "spanish": "Nos vemos el lunes."
+          },
+          {
+            "japanese": "三時に始まります。",
+            "kana": "さんじにはじまります。",
+            "spanish": "Empieza a las tres."
+          },
+          {
+            "japanese": "日曜日に映画を見ます。",
+            "kana": "にちようびにえいがをみます。",
+            "spanish": "Veo una película el domingo."
+          },
+          {
+            "japanese": "十二月に日本へ行きます。",
+            "kana": "じゅうにがつににほんへいきます。",
+            "spanish": "Voy a Japón en diciembre."
+          }
+        ]
+      },
+      {
+        "title": "Lugar de existencia",
+        "examples": [
+          {
+            "japanese": "部屋に猫がいます。",
+            "kana": "へやにねこがいます。",
+            "spanish": "Hay un gato en la habitación."
+          },
+          {
+            "japanese": "机の上に本があります。",
+            "kana": "つくえのうえにほんがあります。",
+            "spanish": "Hay un libro sobre el escritorio."
+          },
+          {
+            "japanese": "公園に子供がいます。",
+            "kana": "こうえんにこどもがいます。",
+            "spanish": "Hay niños en el parque."
+          },
+          {
+            "japanese": "駅の前に店があります。",
+            "kana": "えきのまえにみせがあります。",
+            "spanish": "Hay una tienda frente a la estación."
+          },
+          {
+            "japanese": "庭に犬がいます。",
+            "kana": "にわにいぬがいます。",
+            "spanish": "Hay un perro en el jardín."
+          }
         ]
       }
     ]
@@ -103,6 +257,68 @@
           "先生です。"
         ]
       }
+    ],
+    "exampleGroups": [
+      {
+        "title": "Posesión o pertenencia",
+        "examples": [
+          {
+            "japanese": "これは私の本です。",
+            "kana": "これはわたしのほんです。",
+            "spanish": "Este es mi libro."
+          },
+          {
+            "japanese": "父の車は青いです。",
+            "kana": "ちちのくるまはあおいです。",
+            "spanish": "El coche de mi padre es azul."
+          },
+          {
+            "japanese": "友達の名前は田中です。",
+            "kana": "ともだちのなまえはたなかです。",
+            "spanish": "Mi amigo se llama Tanaka."
+          },
+          {
+            "japanese": "先生のかばんです。",
+            "kana": "せんせいのかばんです。",
+            "spanish": "Es el bolso del profesor."
+          },
+          {
+            "japanese": "妹の猫は白いです。",
+            "kana": "いもうとのねこはしろいです。",
+            "spanish": "El gato de mi hermana menor es blanco."
+          }
+        ]
+      },
+      {
+        "title": "Tipo, origen o relación",
+        "examples": [
+          {
+            "japanese": "日本語の先生です。",
+            "kana": "にほんごのせんせいです。",
+            "spanish": "Es profesor de japonés."
+          },
+          {
+            "japanese": "日本の料理が好きです。",
+            "kana": "にほんのりょうりがすきです。",
+            "spanish": "Me gusta la comida japonesa."
+          },
+          {
+            "japanese": "春の花はきれいです。",
+            "kana": "はるのはなはきれいです。",
+            "spanish": "Las flores de primavera son bonitas."
+          },
+          {
+            "japanese": "学校の図書館は大きいです。",
+            "kana": "がっこうのとしょかんはおおきいです。",
+            "spanish": "La biblioteca de la escuela es grande."
+          },
+          {
+            "japanese": "木の机を買いました。",
+            "kana": "きのつくえをかいました。",
+            "spanish": "Compré un escritorio de madera."
+          }
+        ]
+      }
     ]
   },
   {
@@ -136,6 +352,68 @@
           "学校",
           "で",
           "勉強します。"
+        ]
+      }
+    ],
+    "exampleGroups": [
+      {
+        "title": "Lugar donde sucede una actividad",
+        "examples": [
+          {
+            "japanese": "図書館で勉強します。",
+            "kana": "としょかんでべんきょうします。",
+            "spanish": "Estudio en la biblioteca."
+          },
+          {
+            "japanese": "公園で遊びます。",
+            "kana": "こうえんであそびます。",
+            "spanish": "Juego en el parque."
+          },
+          {
+            "japanese": "家でご飯を食べます。",
+            "kana": "いえでごはんをたべます。",
+            "spanish": "Como en casa."
+          },
+          {
+            "japanese": "学校で日本語を習います。",
+            "kana": "がっこうでにほんごをならいます。",
+            "spanish": "Aprendo japonés en la escuela."
+          },
+          {
+            "japanese": "店でパンを買います。",
+            "kana": "みせでぱんをかいます。",
+            "spanish": "Compro pan en la tienda."
+          }
+        ]
+      },
+      {
+        "title": "Medio, herramienta o idioma",
+        "examples": [
+          {
+            "japanese": "バスで行きます。",
+            "kana": "ばすでいきます。",
+            "spanish": "Voy en autobús."
+          },
+          {
+            "japanese": "箸で食べます。",
+            "kana": "はしでたべます。",
+            "spanish": "Como con palillos."
+          },
+          {
+            "japanese": "日本語で話します。",
+            "kana": "にほんごではなします。",
+            "spanish": "Hablo en japonés."
+          },
+          {
+            "japanese": "鉛筆で書きます。",
+            "kana": "えんぴつでかきます。",
+            "spanish": "Escribo con lápiz."
+          },
+          {
+            "japanese": "電車で帰ります。",
+            "kana": "でんしゃでかえります。",
+            "spanish": "Regreso en tren."
+          }
         ]
       }
     ]
@@ -173,6 +451,98 @@
           "牛乳を買います。"
         ]
       }
+    ],
+    "exampleGroups": [
+      {
+        "title": "Compañía",
+        "examples": [
+          {
+            "japanese": "友達と行きます。",
+            "kana": "ともだちといきます。",
+            "spanish": "Voy con un amigo."
+          },
+          {
+            "japanese": "母と料理します。",
+            "kana": "ははとりょうりします。",
+            "spanish": "Cocino con mi madre."
+          },
+          {
+            "japanese": "先生と話します。",
+            "kana": "せんせいとはなします。",
+            "spanish": "Hablo con el profesor."
+          },
+          {
+            "japanese": "兄と映画を見ます。",
+            "kana": "あにとえいがをみます。",
+            "spanish": "Veo una película con mi hermano mayor."
+          },
+          {
+            "japanese": "犬と散歩します。",
+            "kana": "いぬとさんぽします。",
+            "spanish": "Paseo con mi perro."
+          }
+        ]
+      },
+      {
+        "title": "Enumeración de elementos",
+        "examples": [
+          {
+            "japanese": "りんごとみかんを買います。",
+            "kana": "りんごとみかんをかいます。",
+            "spanish": "Compro manzanas y mandarinas."
+          },
+          {
+            "japanese": "本とノートがあります。",
+            "kana": "ほんとのーとがあります。",
+            "spanish": "Hay un libro y un cuaderno."
+          },
+          {
+            "japanese": "父と母がいます。",
+            "kana": "ちちとははがいます。",
+            "spanish": "Están mi padre y mi madre."
+          },
+          {
+            "japanese": "水とお茶を飲みます。",
+            "kana": "みずとおちゃをのみます。",
+            "spanish": "Bebo agua y té."
+          },
+          {
+            "japanese": "猫と犬が好きです。",
+            "kana": "ねこといぬがすきです。",
+            "spanish": "Me gustan los gatos y los perros."
+          }
+        ]
+      },
+      {
+        "title": "Cita o contenido de lo dicho",
+        "examples": [
+          {
+            "japanese": "「ありがとう」と言います。",
+            "kana": "「ありがとう」といいます。",
+            "spanish": "Digo «gracias»."
+          },
+          {
+            "japanese": "「はい」と答えます。",
+            "kana": "「はい」とこたえます。",
+            "spanish": "Respondo «sí»."
+          },
+          {
+            "japanese": "明日行くと言いました。",
+            "kana": "あしたいくといいました。",
+            "spanish": "Dije que iría mañana."
+          },
+          {
+            "japanese": "先生は「静かに」と言いました。",
+            "kana": "せんせいは「しずかに」といいました。",
+            "spanish": "El profesor dijo «silencio»."
+          },
+          {
+            "japanese": "田中さんは来ないと言いました。",
+            "kana": "たなかさんはこないといいました。",
+            "spanish": "Tanaka dijo que no vendría."
+          }
+        ]
+      }
     ]
   },
   {
@@ -205,6 +575,68 @@
           "日本",
           "へ",
           "ようこそ。"
+        ]
+      }
+    ],
+    "exampleGroups": [
+      {
+        "title": "Dirección hacia un lugar",
+        "examples": [
+          {
+            "japanese": "学校へ行きます。",
+            "kana": "がっこうへいきます。",
+            "spanish": "Voy hacia la escuela."
+          },
+          {
+            "japanese": "日本へ行きたいです。",
+            "kana": "にほんへいきたいです。",
+            "spanish": "Quiero ir a Japón."
+          },
+          {
+            "japanese": "右へ曲がります。",
+            "kana": "みぎへまがります。",
+            "spanish": "Giro a la derecha."
+          },
+          {
+            "japanese": "駅へ歩きます。",
+            "kana": "えきへあるきます。",
+            "spanish": "Camino hacia la estación."
+          },
+          {
+            "japanese": "家へ帰ります。",
+            "kana": "いえへかえります。",
+            "spanish": "Regreso a casa."
+          }
+        ]
+      },
+      {
+        "title": "Destinatario de cartas o mensajes",
+        "examples": [
+          {
+            "japanese": "母へ手紙を書きます。",
+            "kana": "ははへてがみをかきます。",
+            "spanish": "Escribo una carta para mi madre."
+          },
+          {
+            "japanese": "友達へメールを送ります。",
+            "kana": "ともだちへめーるをおくります。",
+            "spanish": "Envío un correo a un amigo."
+          },
+          {
+            "japanese": "先生へお礼の手紙を書きます。",
+            "kana": "せんせいへおれいのてがみをかきます。",
+            "spanish": "Escribo una carta de agradecimiento al profesor."
+          },
+          {
+            "japanese": "家族へ写真を送ります。",
+            "kana": "かぞくへしゃしんをおくります。",
+            "spanish": "Envío fotos a mi familia."
+          },
+          {
+            "japanese": "日本の友達へはがきを出します。",
+            "kana": "にほんのともだちへはがきをだします。",
+            "spanish": "Envío una postal a un amigo de Japón."
+          }
         ]
       }
     ]
@@ -241,6 +673,68 @@
           "読みます。"
         ]
       }
+    ],
+    "exampleGroups": [
+      {
+        "title": "Objeto directo",
+        "examples": [
+          {
+            "japanese": "りんごを食べます。",
+            "kana": "りんごをたべます。",
+            "spanish": "Como una manzana."
+          },
+          {
+            "japanese": "水を飲みます。",
+            "kana": "みずをのみます。",
+            "spanish": "Bebo agua."
+          },
+          {
+            "japanese": "本を読みます。",
+            "kana": "ほんをよみます。",
+            "spanish": "Leo un libro."
+          },
+          {
+            "japanese": "音楽を聞きます。",
+            "kana": "おんがくをききます。",
+            "spanish": "Escucho música."
+          },
+          {
+            "japanese": "映画を見ます。",
+            "kana": "えいがをみます。",
+            "spanish": "Veo una película."
+          }
+        ]
+      },
+      {
+        "title": "Recorrido o punto de salida",
+        "examples": [
+          {
+            "japanese": "公園を歩きます。",
+            "kana": "こうえんをあるきます。",
+            "spanish": "Camino por el parque."
+          },
+          {
+            "japanese": "橋を渡ります。",
+            "kana": "はしをわたります。",
+            "spanish": "Cruzo el puente."
+          },
+          {
+            "japanese": "道を走ります。",
+            "kana": "みちをはしります。",
+            "spanish": "Corro por el camino."
+          },
+          {
+            "japanese": "家を出ます。",
+            "kana": "いえをでます。",
+            "spanish": "Salgo de casa."
+          },
+          {
+            "japanese": "大学を卒業しました。",
+            "kana": "だいがくをそつぎょうしました。",
+            "spanish": "Me gradué de la universidad."
+          }
+        ]
+      }
     ]
   },
   {
@@ -275,6 +769,68 @@
           "来ましたか。"
         ]
       }
+    ],
+    "exampleGroups": [
+      {
+        "title": "Sujeto o información nueva",
+        "examples": [
+          {
+            "japanese": "猫が走っています。",
+            "kana": "ねこがはしっています。",
+            "spanish": "Un gato está corriendo."
+          },
+          {
+            "japanese": "雨が降っています。",
+            "kana": "あめがふっています。",
+            "spanish": "Está lloviendo."
+          },
+          {
+            "japanese": "誰が来ましたか。",
+            "kana": "だれがきましたか。",
+            "spanish": "¿Quién vino?"
+          },
+          {
+            "japanese": "田中さんが来ました。",
+            "kana": "たなかさんがきました。",
+            "spanish": "Vino Tanaka."
+          },
+          {
+            "japanese": "鳥がいます。",
+            "kana": "とりがいます。",
+            "spanish": "Hay un pájaro."
+          }
+        ]
+      },
+      {
+        "title": "Gustos, habilidades y necesidades",
+        "examples": [
+          {
+            "japanese": "猫が好きです。",
+            "kana": "ねこがすきです。",
+            "spanish": "Me gustan los gatos."
+          },
+          {
+            "japanese": "日本語が分かります。",
+            "kana": "にほんごがわかります。",
+            "spanish": "Entiendo japonés."
+          },
+          {
+            "japanese": "水が欲しいです。",
+            "kana": "みずがほしいです。",
+            "spanish": "Quiero agua."
+          },
+          {
+            "japanese": "料理が上手です。",
+            "kana": "りょうりがじょうずです。",
+            "spanish": "Se me da bien cocinar."
+          },
+          {
+            "japanese": "歌が下手です。",
+            "kana": "うたがへたです。",
+            "spanish": "No se me da bien cantar."
+          }
+        ]
+      }
     ]
   },
   {
@@ -307,6 +863,68 @@
           "犬",
           "も",
           "好きです。"
+        ]
+      }
+    ],
+    "exampleGroups": [
+      {
+        "title": "Inclusión: también",
+        "examples": [
+          {
+            "japanese": "私も学生です。",
+            "kana": "わたしもがくせいです。",
+            "spanish": "Yo también soy estudiante."
+          },
+          {
+            "japanese": "母も来ます。",
+            "kana": "ははもきます。",
+            "spanish": "Mi madre también viene."
+          },
+          {
+            "japanese": "犬も好きです。",
+            "kana": "いぬもすきです。",
+            "spanish": "También me gustan los perros."
+          },
+          {
+            "japanese": "これもおいしいです。",
+            "kana": "これもおいしいです。",
+            "spanish": "Esto también está rico."
+          },
+          {
+            "japanese": "明日も働きます。",
+            "kana": "あしたもはたらきます。",
+            "spanish": "Mañana también trabajo."
+          }
+        ]
+      },
+      {
+        "title": "Inclusión con negación: tampoco",
+        "examples": [
+          {
+            "japanese": "私も行きません。",
+            "kana": "わたしもいきません。",
+            "spanish": "Yo tampoco voy."
+          },
+          {
+            "japanese": "弟も知りません。",
+            "kana": "おとうともしりません。",
+            "spanish": "Mi hermano menor tampoco lo sabe."
+          },
+          {
+            "japanese": "今日は雨も降りません。",
+            "kana": "きょうはあめもふりません。",
+            "spanish": "Hoy tampoco llueve."
+          },
+          {
+            "japanese": "これも要りません。",
+            "kana": "これもいりません。",
+            "spanish": "Esto tampoco lo necesito."
+          },
+          {
+            "japanese": "母も食べません。",
+            "kana": "ははもたべません。",
+            "spanish": "Mi madre tampoco come."
+          }
         ]
       }
     ]
@@ -344,7 +962,100 @@
           "勉強します。"
         ]
       }
-    ]
+    ],
+    "exampleGroups": [
+      {
+        "title": "Punto de origen o procedencia",
+        "examples": [
+          {
+            "japanese": "家から学校へ行きます。",
+            "kana": "いえからがっこうへいきます。",
+            "spanish": "Voy de casa a la escuela."
+          },
+          {
+            "japanese": "日本から来ました。",
+            "kana": "にほんからきました。",
+            "spanish": "Vine de Japón."
+          },
+          {
+            "japanese": "駅から歩きます。",
+            "kana": "えきからあるきます。",
+            "spanish": "Camino desde la estación."
+          },
+          {
+            "japanese": "友達から手紙をもらいました。",
+            "kana": "ともだちからてがみをもらいました。",
+            "spanish": "Recibí una carta de un amigo."
+          },
+          {
+            "japanese": "窓から山が見えます。",
+            "kana": "まどからやまがみえます。",
+            "spanish": "Se ve la montaña desde la ventana."
+          }
+        ]
+      },
+      {
+        "title": "Inicio de un periodo",
+        "examples": [
+          {
+            "japanese": "九時から働きます。",
+            "kana": "くじからはたらきます。",
+            "spanish": "Trabajo desde las nueve."
+          },
+          {
+            "japanese": "明日から休みです。",
+            "kana": "あしたからやすみです。",
+            "spanish": "Desde mañana estoy de vacaciones."
+          },
+          {
+            "japanese": "月曜日から学校です。",
+            "kana": "げつようびからがっこうです。",
+            "spanish": "Las clases comienzan el lunes."
+          },
+          {
+            "japanese": "朝から雨です。",
+            "kana": "あさからあめです。",
+            "spanish": "Llueve desde la mañana."
+          },
+          {
+            "japanese": "来週から勉強します。",
+            "kana": "らいしゅうからべんきょうします。",
+            "spanish": "Empezaré a estudiar la semana que viene."
+          }
+        ]
+      },
+      {
+        "title": "Causa o justificación: porque",
+        "examples": [
+          {
+            "japanese": "雨ですから、行きません。",
+            "kana": "あめですから、いきません。",
+            "spanish": "Como llueve, no voy."
+          },
+          {
+            "japanese": "寒いから、窓を閉めます。",
+            "kana": "さむいから、まどをしめます。",
+            "spanish": "Como hace frío, cierro la ventana."
+          },
+          {
+            "japanese": "忙しいから、今日は休みません。",
+            "kana": "いそがしいから、きょうはやすみません。",
+            "spanish": "Como estoy ocupado, hoy no descanso."
+          },
+          {
+            "japanese": "お腹がすいたから、食べます。",
+            "kana": "おなかがすいたから、たべます。",
+            "spanish": "Como tengo hambre, voy a comer."
+          },
+          {
+            "japanese": "明日は試験ですから、勉強します。",
+            "kana": "あしたはしけんですから、べんきょうします。",
+            "spanish": "Como mañana hay examen, estudiaré."
+          }
+        ]
+      }
+    ],
+    "note": "La causa se expresa con から después de una oración o predicado: 寒いから… / 雨ですから…; no solo después de un sustantivo."
   },
   {
     "id": "p11",
@@ -376,6 +1087,68 @@
           "五時",
           "まで",
           "働きます。"
+        ]
+      }
+    ],
+    "exampleGroups": [
+      {
+        "title": "Límite temporal: hasta",
+        "examples": [
+          {
+            "japanese": "五時まで働きます。",
+            "kana": "ごじまではたらきます。",
+            "spanish": "Trabajo hasta las cinco."
+          },
+          {
+            "japanese": "明日まで待ちます。",
+            "kana": "あしたまでまちます。",
+            "spanish": "Espero hasta mañana."
+          },
+          {
+            "japanese": "日曜日まで休みです。",
+            "kana": "にちようびまでやすみです。",
+            "spanish": "Estoy de vacaciones hasta el domingo."
+          },
+          {
+            "japanese": "夜まで勉強します。",
+            "kana": "よるまでべんきょうします。",
+            "spanish": "Estudio hasta la noche."
+          },
+          {
+            "japanese": "三時までここにいます。",
+            "kana": "さんじまでここにいます。",
+            "spanish": "Estoy aquí hasta las tres."
+          }
+        ]
+      },
+      {
+        "title": "Límite espacial: hasta un lugar",
+        "examples": [
+          {
+            "japanese": "東京まで行きます。",
+            "kana": "とうきょうまでいきます。",
+            "spanish": "Voy hasta Tokio."
+          },
+          {
+            "japanese": "駅まで歩きます。",
+            "kana": "えきまであるきます。",
+            "spanish": "Camino hasta la estación."
+          },
+          {
+            "japanese": "家まで送ります。",
+            "kana": "いえまでおくります。",
+            "spanish": "Te acompaño hasta casa."
+          },
+          {
+            "japanese": "学校まで走ります。",
+            "kana": "がっこうまではしります。",
+            "spanish": "Corro hasta la escuela."
+          },
+          {
+            "japanese": "ここから橋まで行きます。",
+            "kana": "ここからはしまでいきます。",
+            "spanish": "Voy desde aquí hasta el puente."
+          }
         ]
       }
     ]
@@ -410,6 +1183,68 @@
           "いい天気です",
           "ね",
           "。"
+        ]
+      }
+    ],
+    "exampleGroups": [
+      {
+        "title": "Buscar acuerdo o confirmación",
+        "examples": [
+          {
+            "japanese": "今日は暑いですね。",
+            "kana": "きょうはあついですね。",
+            "spanish": "Hoy hace calor, ¿verdad?"
+          },
+          {
+            "japanese": "この花はきれいですね。",
+            "kana": "このはなはきれいですね。",
+            "spanish": "Esta flor es bonita, ¿no?"
+          },
+          {
+            "japanese": "明日は休みですね。",
+            "kana": "あしたはやすみですね。",
+            "spanish": "Mañana es día libre, ¿verdad?"
+          },
+          {
+            "japanese": "もう十時ですね。",
+            "kana": "もうじゅうじですね。",
+            "spanish": "Ya son las diez, ¿verdad?"
+          },
+          {
+            "japanese": "この店は安いですね。",
+            "kana": "このみせはやすいですね。",
+            "spanish": "Esta tienda es barata, ¿verdad?"
+          }
+        ]
+      },
+      {
+        "title": "Compartir impresión o empatía",
+        "examples": [
+          {
+            "japanese": "おいしいですね。",
+            "kana": "おいしいですね。",
+            "spanish": "¡Qué rico!, ¿verdad?"
+          },
+          {
+            "japanese": "大変ですね。",
+            "kana": "たいへんですね。",
+            "spanish": "Qué difícil debe de ser."
+          },
+          {
+            "japanese": "よかったですね。",
+            "kana": "よかったですね。",
+            "spanish": "¡Qué bueno!"
+          },
+          {
+            "japanese": "かわいいですね。",
+            "kana": "かわいいですね。",
+            "spanish": "¡Qué lindo!"
+          },
+          {
+            "japanese": "楽しいですね。",
+            "kana": "たのしいですね。",
+            "spanish": "¡Qué divertido!, ¿no?"
+          }
         ]
       }
     ]
@@ -447,6 +1282,68 @@
           "水を飲みます。"
         ]
       }
+    ],
+    "exampleGroups": [
+      {
+        "title": "Pregunta al final de la oración",
+        "examples": [
+          {
+            "japanese": "学生ですか。",
+            "kana": "がくせいですか。",
+            "spanish": "¿Eres estudiante?"
+          },
+          {
+            "japanese": "日本語が好きですか。",
+            "kana": "にほんごがすきですか。",
+            "spanish": "¿Te gusta el japonés?"
+          },
+          {
+            "japanese": "これは何ですか。",
+            "kana": "これはなんですか。",
+            "spanish": "¿Qué es esto?"
+          },
+          {
+            "japanese": "明日来ますか。",
+            "kana": "あしたきますか。",
+            "spanish": "¿Vendrás mañana?"
+          },
+          {
+            "japanese": "お茶を飲みますか。",
+            "kana": "おちゃをのみますか。",
+            "spanish": "¿Tomas té?"
+          }
+        ]
+      },
+      {
+        "title": "Alternativa: A o B",
+        "examples": [
+          {
+            "japanese": "水かお茶をください。",
+            "kana": "みずかおちゃをください。",
+            "spanish": "Agua o té, por favor."
+          },
+          {
+            "japanese": "土曜日か日曜日に行きます。",
+            "kana": "どようびかにちようびにいきます。",
+            "spanish": "Iré el sábado o el domingo."
+          },
+          {
+            "japanese": "バスか電車で行きます。",
+            "kana": "ばすかでんしゃでいきます。",
+            "spanish": "Voy en autobús o tren."
+          },
+          {
+            "japanese": "りんごかみかんを食べます。",
+            "kana": "りんごかみかんをたべます。",
+            "spanish": "Como una manzana o una mandarina."
+          },
+          {
+            "japanese": "赤か青を選んでください。",
+            "kana": "あかかあおをえらんでください。",
+            "spanish": "Elige rojo o azul."
+          }
+        ]
+      }
     ]
   },
   {
@@ -479,6 +1376,68 @@
           "ここは静かです",
           "よ",
           "。"
+        ]
+      }
+    ],
+    "exampleGroups": [
+      {
+        "title": "Dar información o avisar",
+        "examples": [
+          {
+            "japanese": "明日は休みですよ。",
+            "kana": "あしたはやすみですよ。",
+            "spanish": "Mañana es día libre, que lo sepas."
+          },
+          {
+            "japanese": "ここは静かですよ。",
+            "kana": "ここはしずかですよ。",
+            "spanish": "Aquí es tranquilo, ¿sabes?"
+          },
+          {
+            "japanese": "電車が来ますよ。",
+            "kana": "でんしゃがきますよ。",
+            "spanish": "¡Ya viene el tren!"
+          },
+          {
+            "japanese": "これは私の本ですよ。",
+            "kana": "これはわたしのほんですよ。",
+            "spanish": "Este es mi libro, ¿eh?"
+          },
+          {
+            "japanese": "もう時間ですよ。",
+            "kana": "もうじかんですよ。",
+            "spanish": "¡Ya es hora!"
+          }
+        ]
+      },
+      {
+        "title": "Consejo o insistencia suave",
+        "examples": [
+          {
+            "japanese": "この店はおいしいですよ。",
+            "kana": "このみせはおいしいですよ。",
+            "spanish": "En esta tienda se come rico, te lo recomiendo."
+          },
+          {
+            "japanese": "早く寝たほうがいいですよ。",
+            "kana": "はやくねたほうがいいですよ。",
+            "spanish": "Te conviene dormir temprano."
+          },
+          {
+            "japanese": "この本は面白いですよ。",
+            "kana": "このほんはおもしろいですよ。",
+            "spanish": "Este libro es interesante, te lo digo."
+          },
+          {
+            "japanese": "気をつけてくださいよ。",
+            "kana": "きをつけてくださいよ。",
+            "spanish": "Ten cuidado, por favor."
+          },
+          {
+            "japanese": "大丈夫ですよ。",
+            "kana": "だいじょうぶですよ。",
+            "spanish": "No pasa nada, de verdad."
+          }
         ]
       }
     ]
@@ -516,6 +1475,69 @@
           "雑誌があります。"
         ]
       }
-    ]
+    ],
+    "exampleGroups": [
+      {
+        "title": "Lista abierta: A, B y otros",
+        "examples": [
+          {
+            "japanese": "本や雑誌を読みます。",
+            "kana": "ほんやざっしをよみます。",
+            "spanish": "Leo libros, revistas y otras cosas."
+          },
+          {
+            "japanese": "りんごやみかんを買います。",
+            "kana": "りんごやみかんをかいます。",
+            "spanish": "Compro manzanas, mandarinas, etcétera."
+          },
+          {
+            "japanese": "犬や猫がいます。",
+            "kana": "いぬやねこがいます。",
+            "spanish": "Hay perros, gatos y otros animales."
+          },
+          {
+            "japanese": "机や椅子があります。",
+            "kana": "つくえやいすがあります。",
+            "spanish": "Hay escritorios, sillas y otros muebles."
+          },
+          {
+            "japanese": "日本語や英語を勉強します。",
+            "kana": "にほんごやえいごをべんきょうします。",
+            "spanish": "Estudio japonés, inglés y otros idiomas."
+          }
+        ]
+      },
+      {
+        "title": "や como parte de nombres de comercios (屋)",
+        "examples": [
+          {
+            "japanese": "寿司屋に行きます。",
+            "kana": "すしやにいきます。",
+            "spanish": "Voy a una tienda o restaurante de sushi."
+          },
+          {
+            "japanese": "本屋で本を買います。",
+            "kana": "ほんやでほんをかいます。",
+            "spanish": "Compro un libro en la librería."
+          },
+          {
+            "japanese": "花屋に花があります。",
+            "kana": "はなやにはながあります。",
+            "spanish": "Hay flores en la floristería."
+          },
+          {
+            "japanese": "魚屋で魚を買います。",
+            "kana": "さかなやでさかなをかいます。",
+            "spanish": "Compro pescado en la pescadería."
+          },
+          {
+            "japanese": "パン屋は駅の前です。",
+            "kana": "ぱんやはえきのまえです。",
+            "spanish": "La panadería está frente a la estación."
+          }
+        ]
+      }
+    ],
+    "note": "Importante: en 寿司屋 (すしや), や es la lectura del kanji 屋, que significa tienda o establecimiento. No es la partícula enumerativa や."
   }
 ]
