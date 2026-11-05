@@ -1,14 +1,6 @@
-## 8.1.3 — Prácticas breves de partículas
-- Taller de partículas: 5 preguntas por sesión (antes 20).
-- Banco de 300 preguntas: 20 por cada una de las 15 partículas.
-- Selección de 5 partículas distintas por sesión para diversificar la práctica.
-- Lecturas con la partícula oculta hasta comprobar la respuesta.
-- Se mantienen las fichas, los ejemplos por uso y las dudas frecuentes de 8.1.2.
-- Sin cambios en los cuestionarios de las 25 lecciones generales.
-
 # Registro de cambios
 
-## 8.1.3 — Ejercicios y ejemplos por uso
+## 8.1.2 — Ejercicios y ejemplos por uso
 - La lectura en kana oculta las mismas partículas que el texto con kanji, hasta comprobar la respuesta.
 - La lectura aumenta de tamaño y se revela al comprobar.
 - Cada ficha incluye un botón «Ejemplos por uso» que abre una pantalla separada.
@@ -18,3 +10,10 @@
 
 ## 8.1.1
 - Biblioteca de 15 partículas y dudas frecuentes separadas.
+
+## 8.1.4 — Corrección de arranque y publicación
+- Estilos de emergencia para evitar pantalla blanca si falla CSS.
+- Diagnóstico visible si los módulos JS no cargan.
+- Precaché tolerante a recursos ausentes y nombre de caché renovado.
+- Metadatos actualizados a 8.1.4.
+- Sin cambios al banco de 300 oraciones ni a prácticas de cinco preguntas.

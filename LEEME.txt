@@ -1,5 +1,5 @@
-日本語のリト 8.1.1
-Sube TODOS los archivos y carpetas a la raíz del repositorio GitHub Pages. Conserva los datos del navegador. Respáldalos antes de actualizar.
-La biblioteca se abre desde Gramática > Partículas. Comparaciones: Dudas frecuentes.
+日本語のリト 8.1.4 — PARCHE DE ARRANQUE
 
-8.1.3: Más ejemplos por uso y ocultamiento de partículas en lectura kana.
+IMPORTANTE: extrae el ZIP y sube TODOS los archivos Y carpetas a la RAÍZ del repositorio, sin una carpeta contenedora adicional. En GitHub deben existir index.html, styles/main.css, core/bootstrap.js y modules/grammar/grammar.js.
+
+Haz respaldo antes de actualizar. No borres datos de Safari. El parche añade diagnóstico y estilos de emergencia; si faltan carpetas en GitHub, hay que publicarlas correctamente.
