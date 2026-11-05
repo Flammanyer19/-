@@ -1,5 +1,3 @@
-日本語のリト v7.3 — GitHub Pages
-Sube TODOS los archivos a la raíz del repositorio. Incluye particle_lessons.json.
-Exporta primero un respaldo desde tu versión anterior. No borres datos de Safari.
-Novedades: fichas de partículas, progreso de 50 aciertos por partícula y kana, avión de dominio, prácticas con navegación oculta y sesiones reanudables.
-La cuenta Google todavía no está implementada.
+日本語のリト 8.1.1
+Sube TODOS los archivos y carpetas a la raíz del repositorio GitHub Pages. Conserva los datos del navegador. Respáldalos antes de actualizar.
+La biblioteca se abre desde Gramática > Partículas. Comparaciones: Dudas frecuentes.

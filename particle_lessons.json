@@ -1,182 +1,521 @@
 [
   {
-    "id": "は",
-    "romaji": "wa",
-    "title": "Tema de conversación",
-    "description": "Señala de qué o de quién estamos hablando. Se escribe は, pero como partícula se pronuncia wa. Puede establecer un contraste.",
-    "japanese": "私は学生です。",
-    "kana": "わたしはがくせいです。",
-    "spanish": "Soy estudiante.",
-    "analysis": "Se presenta 私 como tema; la oración dice algo sobre esa persona.",
-    "comparison": "No equivale siempre a が: は introduce un tema, mientras が identifica al sujeto dentro de la información que se afirma.",
-    "art": "topic"
+    "id": "p01",
+    "symbol": "は",
+    "reading": "wa",
+    "title": "El tema de la conversación",
+    "description": "Señala aquello de lo que hablamos. Se escribe は, pero como partícula se pronuncia «wa».",
+    "uses": [
+      "Introduce o contrasta un tema; no siempre coincide con el sujeto gramatical.",
+      "A menudo aparece después del sustantivo o expresión que funciona como tema."
+    ],
+    "sourcePage": 2,
+    "examples": [
+      {
+        "japanese": "私は学生です。",
+        "kana": "わたしはがくせいです。",
+        "spanish": "Soy estudiante.",
+        "segments": [
+          "私",
+          "は",
+          "学生",
+          "です。"
+        ]
+      },
+      {
+        "japanese": "今日は暑いです。",
+        "kana": "きょうはあついです。",
+        "spanish": "Hoy hace calor.",
+        "segments": [
+          "今日",
+          "は",
+          "暑い",
+          "です。"
+        ]
+      }
+    ]
   },
   {
-    "id": "が",
-    "romaji": "ga",
-    "title": "Sujeto e identificación",
-    "description": "Marca el sujeto gramatical y puede identificar qué o quién realiza una acción. Aparece con frecuencia en respuestas a preguntas con 誰 o 何, y en expresiones de existencia y capacidad.",
-    "japanese": "誰が来ましたか。",
-    "kana": "だれがきましたか。",
-    "spanish": "¿Quién vino?",
-    "analysis": "La pregunta pide identificar al sujeto que vino.",
-    "comparison": "Con は se comenta un tema; con が puede identificarse un sujeto. No se reducen a «conocido» frente a «nuevo».",
-    "art": "focus"
+    "id": "p02",
+    "symbol": "に",
+    "reading": "ni",
+    "title": "Destino, momento y ubicación",
+    "description": "Marca destinos, momentos concretos y, con ciertos verbos, lugares de existencia.",
+    "uses": [
+      "Destino: 学校に行きます (ir a la escuela).",
+      "Tiempo específico: 七時に起きます (levantarse a las siete).",
+      "Existencia: 部屋に猫がいます (hay un gato en la habitación)."
+    ],
+    "sourcePage": 3,
+    "examples": [
+      {
+        "japanese": "学校に行きます。",
+        "kana": "がっこうにいきます。",
+        "spanish": "Voy a la escuela.",
+        "segments": [
+          "学校",
+          "に",
+          "行きます。"
+        ]
+      },
+      {
+        "japanese": "七時に起きます。",
+        "kana": "しちじにおきます。",
+        "spanish": "Me levanto a las siete.",
+        "segments": [
+          "七時",
+          "に",
+          "起きます。"
+        ]
+      }
+    ]
   },
   {
-    "id": "を",
-    "romaji": "o",
-    "title": "Objeto directo",
-    "description": "Marca el objeto directo de muchos verbos transitivos. Se escribe を y normalmente se pronuncia o. También aparece con ciertos verbos de recorrido o salida.",
-    "japanese": "水を飲みます。",
-    "kana": "みずをのみます。",
-    "spanish": "Bebo agua.",
-    "analysis": "水 es aquello que se bebe.",
-    "comparison": "No confundas を, objeto de una acción, con で, lugar donde ocurre.",
-    "art": "object"
+    "id": "p03",
+    "symbol": "の",
+    "reading": "no",
+    "title": "Relación y pertenencia",
+    "description": "Une sustantivos para expresar posesión, relación, origen o clasificación.",
+    "uses": [
+      "La estructura A の B describe B en relación con A.",
+      "No siempre equivale literalmente a «de»; puede expresar tipo o categoría."
+    ],
+    "sourcePage": 4,
+    "examples": [
+      {
+        "japanese": "これは私の本です。",
+        "kana": "これはわたしのほんです。",
+        "spanish": "Este es mi libro.",
+        "segments": [
+          "これは",
+          "私",
+          "の",
+          "本です。"
+        ]
+      },
+      {
+        "japanese": "日本語の先生です。",
+        "kana": "にほんごのせんせいです。",
+        "spanish": "Es profesor de japonés.",
+        "segments": [
+          "日本語",
+          "の",
+          "先生です。"
+        ]
+      }
+    ]
   },
   {
-    "id": "に",
-    "romaji": "ni",
-    "title": "Destino, tiempo y existencia",
-    "description": "Indica destino, momento específico, destinatario y ubicación con verbos de existencia, según la estructura. No todos los marcadores de tiempo necesitan に.",
-    "japanese": "七時に起きます。",
-    "kana": "しちじにおきます。",
-    "spanish": "Me levanto a las siete.",
-    "analysis": "七時 señala el momento específico de levantarse.",
-    "comparison": "学校に行く marca destino; 学校で勉強する marca el lugar donde se estudia.",
-    "art": "pin"
-  },
-  {
-    "id": "で",
-    "romaji": "de",
+    "id": "p04",
+    "symbol": "で",
+    "reading": "de",
     "title": "Lugar de acción y medio",
-    "description": "Señala dónde ocurre una actividad, qué medio o herramienta se utiliza y, en otros usos, una causa o límite.",
-    "japanese": "電車で行きます。",
-    "kana": "でんしゃでいきます。",
-    "spanish": "Voy en tren.",
-    "analysis": "電車 indica el medio de transporte.",
-    "comparison": "に puede marcar destino o existencia; で marca lugar de acción o medio.",
-    "art": "train"
+    "description": "Indica dónde sucede una actividad o con qué medio o instrumento se realiza.",
+    "uses": [
+      "Lugar de una actividad: 図書館で勉強します.",
+      "Medio de transporte: バスで行きます.",
+      "Instrumento: 箸で食べます."
+    ],
+    "sourcePage": 5,
+    "examples": [
+      {
+        "japanese": "バスで行きます。",
+        "kana": "バスでいきます。",
+        "spanish": "Voy en autobús.",
+        "segments": [
+          "バス",
+          "で",
+          "行きます。"
+        ]
+      },
+      {
+        "japanese": "学校で勉強します。",
+        "kana": "がっこうでべんきょうします。",
+        "spanish": "Estudio en la escuela.",
+        "segments": [
+          "学校",
+          "で",
+          "勉強します。"
+        ]
+      }
+    ]
   },
   {
-    "id": "の",
-    "romaji": "no",
-    "title": "Posesión y relación",
-    "description": "Conecta sustantivos para expresar pertenencia, clasificación, origen o relación. También puede nominalizar construcciones en otros contextos.",
-    "japanese": "これは母の本です。",
-    "kana": "これはははのほんです。",
-    "spanish": "Este es el libro de mi madre.",
-    "analysis": "母の本 relaciona el libro con mi madre.",
-    "comparison": "No siempre se traduce como «de»: la relación entre los sustantivos determina la traducción.",
-    "art": "link"
+    "id": "p05",
+    "symbol": "と",
+    "reading": "to",
+    "title": "Compañía y lista completa",
+    "description": "Se usa para indicar compañía y para enumerar elementos de manera relativamente exhaustiva.",
+    "uses": [
+      "Compañía: 友達と行きます.",
+      "Lista: パンと牛乳 (pan y leche).",
+      "En otras construcciones también puede marcar citas; eso se estudiará más adelante."
+    ],
+    "sourcePage": 6,
+    "examples": [
+      {
+        "japanese": "友達と行きます。",
+        "kana": "ともだちといきます。",
+        "spanish": "Voy con un amigo.",
+        "segments": [
+          "友達",
+          "と",
+          "行きます。"
+        ]
+      },
+      {
+        "japanese": "パンと牛乳を買います。",
+        "kana": "パンとぎゅうにゅうをかいます。",
+        "spanish": "Compro pan y leche.",
+        "segments": [
+          "パン",
+          "と",
+          "牛乳を買います。"
+        ]
+      }
+    ]
   },
   {
-    "id": "へ",
-    "romaji": "e",
-    "title": "Dirección",
-    "description": "Indica la dirección hacia la que se dirige un movimiento. Se escribe へ, pero como partícula se pronuncia e.",
-    "japanese": "日本へ行きます。",
-    "kana": "にほんへいきます。",
-    "spanish": "Voy a Japón.",
-    "analysis": "日本へ expresa dirección hacia Japón.",
-    "comparison": "へ destaca dirección; に suele señalar el destino o punto de llegada.",
-    "art": "arrow"
+    "id": "p06",
+    "symbol": "へ",
+    "reading": "e",
+    "title": "Dirección hacia un lugar",
+    "description": "Expresa dirección o rumbo. Se escribe へ, pero como partícula se pronuncia «e».",
+    "uses": [
+      "Destaca el movimiento hacia una dirección.",
+      "Con verbos de desplazamiento puede alternar con に, aunque el matiz no siempre es idéntico."
+    ],
+    "sourcePage": 7,
+    "examples": [
+      {
+        "japanese": "学校へ行きます。",
+        "kana": "がっこうへいきます。",
+        "spanish": "Voy a la escuela.",
+        "segments": [
+          "学校",
+          "へ",
+          "行きます。"
+        ]
+      },
+      {
+        "japanese": "日本へようこそ。",
+        "kana": "にほんへようこそ。",
+        "spanish": "Bienvenido a Japón.",
+        "segments": [
+          "日本",
+          "へ",
+          "ようこそ。"
+        ]
+      }
+    ]
   },
   {
-    "id": "と",
-    "romaji": "to",
-    "title": "Compañía y cita",
-    "description": "Une sustantivos en enumeraciones exhaustivas, indica compañía y marca contenido citado con ciertos verbos.",
-    "japanese": "友達と話します。",
-    "kana": "ともだちとはなします。",
-    "spanish": "Hablo con un amigo.",
-    "analysis": "友達と señala con quién se habla.",
-    "comparison": "と enumera elementos concretos; や ofrece ejemplos no exhaustivos.",
-    "art": "people"
+    "id": "p07",
+    "symbol": "を",
+    "reading": "o",
+    "title": "Objeto directo",
+    "description": "Señala el objeto directo de muchos verbos transitivos. Se escribe を y normalmente se pronuncia «o».",
+    "uses": [
+      "Se coloca después del objeto directo.",
+      "También aparece con ciertos verbos de movimiento para marcar un trayecto: 公園を歩きます."
+    ],
+    "sourcePage": 8,
+    "examples": [
+      {
+        "japanese": "りんごを食べます。",
+        "kana": "りんごをたべます。",
+        "spanish": "Como una manzana.",
+        "segments": [
+          "りんご",
+          "を",
+          "食べます。"
+        ]
+      },
+      {
+        "japanese": "本を読みます。",
+        "kana": "ほんをよみます。",
+        "spanish": "Leo un libro.",
+        "segments": [
+          "本",
+          "を",
+          "読みます。"
+        ]
+      }
+    ]
   },
   {
-    "id": "も",
-    "romaji": "mo",
-    "title": "También",
-    "description": "Añade o incluye un elemento en una afirmación, normalmente con el sentido de «también». En ciertas construcciones puede expresar énfasis.",
-    "japanese": "私も行きます。",
-    "kana": "わたしもいきます。",
-    "spanish": "Yo también voy.",
-    "analysis": "も incluye al hablante entre quienes van.",
-    "comparison": "Sustituye a は, が o を en varios contextos; su distribución depende de la construcción.",
-    "art": "plus"
+    "id": "p08",
+    "symbol": "が",
+    "reading": "ga",
+    "title": "Sujeto e información destacada",
+    "description": "Marca el sujeto gramatical y puede destacar quién o qué realiza o experimenta algo.",
+    "uses": [
+      "Frecuente cuando se introduce información nueva o se responde «¿quién?».",
+      "Se usa en estructuras como 猫がいます y 日本語が好きです."
+    ],
+    "sourcePage": 9,
+    "examples": [
+      {
+        "japanese": "猫が走ります。",
+        "kana": "ねこがはしります。",
+        "spanish": "El gato corre.",
+        "segments": [
+          "猫",
+          "が",
+          "走ります。"
+        ]
+      },
+      {
+        "japanese": "誰が来ましたか。",
+        "kana": "だれがきましたか。",
+        "spanish": "¿Quién vino?",
+        "segments": [
+          "誰",
+          "が",
+          "来ましたか。"
+        ]
+      }
+    ]
   },
   {
-    "id": "から",
-    "romaji": "kara",
-    "title": "Origen y causa",
-    "description": "Señala punto de partida temporal o espacial. En otras estructuras, puede introducir una razón o causa.",
-    "japanese": "九時から勉強します。",
-    "kana": "くじからべんきょうします。",
-    "spanish": "Estudio desde las nueve.",
-    "analysis": "九時から marca el inicio del periodo.",
-    "comparison": "から indica inicio; まで indica límite o final.",
-    "art": "start"
+    "id": "p09",
+    "symbol": "も",
+    "reading": "mo",
+    "title": "También y tampoco",
+    "description": "Añade un elemento que comparte una propiedad o situación con otro.",
+    "uses": [
+      "Puede sustituir a は, が o を según la construcción.",
+      "En oraciones negativas puede equivaler a «tampoco»."
+    ],
+    "sourcePage": 10,
+    "examples": [
+      {
+        "japanese": "私も学生です。",
+        "kana": "わたしもがくせいです。",
+        "spanish": "Yo también soy estudiante.",
+        "segments": [
+          "私",
+          "も",
+          "学生です。"
+        ]
+      },
+      {
+        "japanese": "犬も好きです。",
+        "kana": "いぬもすきです。",
+        "spanish": "También me gustan los perros.",
+        "segments": [
+          "犬",
+          "も",
+          "好きです。"
+        ]
+      }
+    ]
   },
   {
-    "id": "まで",
-    "romaji": "made",
-    "title": "Límite",
-    "description": "Marca el punto hasta el que se extiende una acción, un recorrido o un periodo.",
-    "japanese": "五時まで働きます。",
-    "kana": "ごじまではたらきます。",
-    "spanish": "Trabajo hasta las cinco.",
-    "analysis": "五時まで marca el límite temporal.",
-    "comparison": "Puede combinarse con から: 九時から五時まで.",
-    "art": "end"
+    "id": "p10",
+    "symbol": "から",
+    "reading": "kara",
+    "title": "Origen y punto de partida",
+    "description": "Expresa «desde» en espacio o tiempo. En otras construcciones expresa causa o razón.",
+    "uses": [
+      "Lugar de origen: 家から学校へ行きます.",
+      "Inicio temporal: 九時から.",
+      "Causa: 雨ですから (porque llueve / como está lloviendo, según contexto)."
+    ],
+    "sourcePage": 11,
+    "examples": [
+      {
+        "japanese": "家から学校へ行きます。",
+        "kana": "いえからがっこうへいきます。",
+        "spanish": "Voy de casa a la escuela.",
+        "segments": [
+          "家",
+          "から",
+          "学校へ行きます。"
+        ]
+      },
+      {
+        "japanese": "九時から勉強します。",
+        "kana": "くじからべんきょうします。",
+        "spanish": "Estudio desde las nueve.",
+        "segments": [
+          "九時",
+          "から",
+          "勉強します。"
+        ]
+      }
+    ]
   },
   {
-    "id": "か",
-    "romaji": "ka",
-    "title": "Pregunta y alternativa",
-    "description": "Al final de una oración cortés, suele marcar una pregunta. Entre opciones, puede expresar «o».",
-    "japanese": "学生ですか。",
-    "kana": "がくせいですか。",
-    "spanish": "¿Eres estudiante?",
-    "analysis": "か convierte la afirmación en una pregunta cortés.",
-    "comparison": "No todas las preguntas coloquiales necesitan か; depende del registro.",
-    "art": "question"
+    "id": "p11",
+    "symbol": "まで",
+    "reading": "made",
+    "title": "Límite y punto final",
+    "description": "Indica hasta dónde o hasta cuándo llega algo.",
+    "uses": [
+      "Puede marcar un destino o límite temporal.",
+      "No indica por sí sola que una acción se complete; indica un límite."
+    ],
+    "sourcePage": 12,
+    "examples": [
+      {
+        "japanese": "東京まで行きます。",
+        "kana": "とうきょうまでいきます。",
+        "spanish": "Voy hasta Tokio.",
+        "segments": [
+          "東京",
+          "まで",
+          "行きます。"
+        ]
+      },
+      {
+        "japanese": "五時まで働きます。",
+        "kana": "ごじまではたらきます。",
+        "spanish": "Trabajo hasta las cinco.",
+        "segments": [
+          "五時",
+          "まで",
+          "働きます。"
+        ]
+      }
+    ]
   },
   {
-    "id": "ね",
-    "romaji": "ne",
-    "title": "Confirmación compartida",
-    "description": "Partícula final que busca acuerdo, confirma algo compartido o expresa una reacción empática, según la entonación.",
-    "japanese": "今日は寒いですね。",
-    "kana": "きょうはさむいですね。",
-    "spanish": "Hoy hace frío, ¿verdad?",
-    "analysis": "ね invita a compartir la observación.",
-    "comparison": "よ informa o enfatiza para el oyente; ね suele buscar sintonía o acuerdo.",
-    "art": "chat"
+    "id": "p12",
+    "symbol": "ね",
+    "reading": "ne",
+    "title": "Confirmación y empatía",
+    "description": "Partícula final que busca acuerdo, comparte una impresión o suaviza el tono.",
+    "uses": [
+      "Se usa cuando esperamos que la otra persona comparta o confirme la impresión.",
+      "El matiz depende de la entonación y del contexto."
+    ],
+    "sourcePage": 13,
+    "examples": [
+      {
+        "japanese": "このケーキはおいしいですね。",
+        "kana": "このケーキはおいしいですね。",
+        "spanish": "Este pastel está rico, ¿verdad?",
+        "segments": [
+          "このケーキはおいしいです",
+          "ね",
+          "。"
+        ]
+      },
+      {
+        "japanese": "いい天気ですね。",
+        "kana": "いいてんきですね。",
+        "spanish": "Hace buen tiempo, ¿verdad?",
+        "segments": [
+          "いい天気です",
+          "ね",
+          "。"
+        ]
+      }
+    ]
   },
   {
-    "id": "よ",
-    "romaji": "yo",
+    "id": "p13",
+    "symbol": "か",
+    "reading": "ka",
+    "title": "Pregunta o alternativa",
+    "description": "Al final de una oración suele marcar una pregunta; entre sustantivos puede expresar «o».",
+    "uses": [
+      "Pregunta: これは本ですか。",
+      "Alternativa: お茶か水 (té o agua).",
+      "Una alternativa y una pregunta pueden combinarse, pero deben distinguirse las dos funciones."
+    ],
+    "sourcePage": 14,
+    "examples": [
+      {
+        "japanese": "これは本ですか。",
+        "kana": "これはほんですか。",
+        "spanish": "¿Esto es un libro?",
+        "segments": [
+          "これは本です",
+          "か",
+          "。"
+        ]
+      },
+      {
+        "japanese": "お茶か水を飲みます。",
+        "kana": "おちゃかみずをのみます。",
+        "spanish": "Bebo té o agua.",
+        "segments": [
+          "お茶",
+          "か",
+          "水を飲みます。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "p14",
+    "symbol": "よ",
+    "reading": "yo",
     "title": "Información y énfasis",
-    "description": "Partícula final que presenta información al oyente, destaca una afirmación o da énfasis, según contexto y tono.",
-    "japanese": "この店は安いですよ。",
-    "kana": "このみせはやすいですよ。",
-    "spanish": "Esta tienda es barata, te lo digo.",
-    "analysis": "よ enfatiza la información que comunica el hablante.",
-    "comparison": "ね suele invitar a coincidir; よ presenta o enfatiza información.",
-    "art": "megaphone"
+    "description": "Partícula final para comunicar o enfatizar información que el hablante considera importante para el oyente.",
+    "uses": [
+      "Puede transmitir aviso, corrección, insistencia o ánimo según el contexto.",
+      "No equivale siempre a «te digo»; el tono es importante."
+    ],
+    "sourcePage": 15,
+    "examples": [
+      {
+        "japanese": "今日は寒いですよ。",
+        "kana": "きょうはさむいですよ。",
+        "spanish": "Hoy hace frío, ¿sabes?",
+        "segments": [
+          "今日は寒いです",
+          "よ",
+          "。"
+        ]
+      },
+      {
+        "japanese": "ここは静かですよ。",
+        "kana": "ここはしずかですよ。",
+        "spanish": "Aquí es tranquilo, te lo aseguro.",
+        "segments": [
+          "ここは静かです",
+          "よ",
+          "。"
+        ]
+      }
+    ]
   },
   {
-    "id": "や",
-    "romaji": "ya",
-    "title": "Lista abierta",
-    "description": "Enumera ejemplos de una categoría sin pretender incluir todos sus elementos. A menudo se combina con など.",
-    "japanese": "机に本やノートがあります。",
-    "kana": "つくえにほんやノートがあります。",
-    "spanish": "En el escritorio hay libros, cuadernos y otras cosas.",
-    "analysis": "や señala ejemplos de objetos que hay.",
-    "comparison": "と ofrece una lista más cerrada; や sugiere que hay otros elementos.",
-    "art": "list"
+    "id": "p15",
+    "symbol": "や",
+    "reading": "ya",
+    "title": "Lista no exhaustiva",
+    "description": "Enumera algunos ejemplos sin afirmar que sean todos.",
+    "uses": [
+      "Se coloca entre sustantivos: A や B.",
+      "Puede combinarse con など («etcétera»).",
+      "A diferencia de と, la lista queda abierta."
+    ],
+    "sourcePage": 16,
+    "examples": [
+      {
+        "japanese": "りんごやみかんを食べます。",
+        "kana": "りんごやみかんをたべます。",
+        "spanish": "Como manzanas y mandarinas, entre otras cosas.",
+        "segments": [
+          "りんご",
+          "や",
+          "みかんを食べます。"
+        ]
+      },
+      {
+        "japanese": "本や雑誌があります。",
+        "kana": "ほんやざっしがあります。",
+        "spanish": "Hay libros y revistas, entre otras cosas.",
+        "segments": [
+          "本",
+          "や",
+          "雑誌があります。"
+        ]
+      }
+    ]
   }
 ]
