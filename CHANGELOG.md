@@ -25,3 +25,9 @@
 - Precaché tolerante a recursos ausentes y nombre de caché renovado.
 - Metadatos actualizados a 8.1.4.
 - Sin cambios al banco de 300 oraciones ni a prácticas de cinco preguntas.
+
+## 8.2.2
+- Biblioteca de los 150 kanji existentes, filtros orientativos y categorías didácticas.
+- Tarjetas y fichas, lecturas y vocabulario disponible en fuentes locales.
+- Guía visual de lectura: correspondencia segura o lectura conjunta sin división inventada.
+- Pendiente de validación: completar 3–5 vocablos para todos los kanji, trazos y etimologías.

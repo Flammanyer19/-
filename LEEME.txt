@@ -1,7 +1,1 @@
-日本語のリト 8.1.4 — PARCHE DE ARRANQUE
-
-IMPORTANTE: extrae el ZIP y sube TODOS los archivos Y carpetas a la RAÍZ del repositorio, sin una carpeta contenedora adicional. En GitHub deben existir index.html, styles/main.css, core/bootstrap.js y modules/grammar/grammar.js.
-
-Haz respaldo antes de actualizar. No borres datos de Safari. El parche añade diagnóstico y estilos de emergencia; si faltan carpetas en GitHub, hay que publicarlas correctamente.
-
-Versión 8.1.5: mejoras de historial, progreso y explicación inicial.
+日本語のリト v8.2.1. Subir todos los archivos y carpetas conservando rutas. Respaldar el pasaporte antes de actualizar. Salir anticipadamente descarta el resultado incompleto.
