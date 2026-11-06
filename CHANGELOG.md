@@ -1,3 +1,11 @@
+## 8.1.5
+- Navegación de regreso desde historial cuando se abre desde un resultado.
+- Progreso visible de 0 a 50 aciertos por partícula, con barra verde al dominarla.
+- Contadores guardados en el estado local y conservados en exportación/importación.
+- Introducción gramatical desplegable en la biblioteca.
+- Historial muestra el total real de cada práctica (5 o 20).
+- Se conserva el ocultamiento de la respuesta en la lectura en kana.
+
 # Registro de cambios
 
 ## 8.1.2 — Ejercicios y ejemplos por uso

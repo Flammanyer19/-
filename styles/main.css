@@ -16,3 +16,18 @@
 .particle-use-caption{color:#bccbdc;font-size:.85rem}
 .particle-note{background:#fff1dc;color:#53391d;padding:16px;border-radius:16px;margin:15px 0;line-height:1.6}
 .particle-note p{margin-bottom:0}
+
+/* v8.1.5 — presentación del dominio y explicación inicial */
+.particle-intro{margin:22px 0;padding:18px 20px;border:2px solid #eab5c3;border-radius:22px;background:linear-gradient(135deg,#fff4f5,#f9dce8);color:#24334b}
+.particle-intro summary{cursor:pointer;font-size:1.05rem;font-weight:800;line-height:1.5}
+.particle-intro-body{margin-top:14px;font-size:.98rem;line-height:1.7}
+.particle-intro-example{display:flex;flex-direction:column;gap:6px;background:white;border-radius:14px;padding:14px;margin:12px 0}
+.particle-intro-example strong{font-size:1.45rem}
+.particle-mastery{width:100%;margin-top:12px;text-align:left}
+.particle-mastery-label{display:flex;justify-content:space-between;gap:8px;align-items:center;font-size:.78rem;color:#88435b}
+.particle-mastery-track{height:9px;border-radius:99px;background:#f2cbd6;overflow:hidden;margin-top:6px}
+.particle-mastery-fill{height:100%;border-radius:99px;background:#d97994;transition:width .2s ease}
+.particle-mastery-fill.mastered{background:#219b62}
+.particle-card .particle-mastery{margin-top:8px}
+.particle-card .particle-mastery-label{font-size:.68rem}
+.particle-detail-hero .particle-mastery{max-width:350px;margin:18px auto 0}
