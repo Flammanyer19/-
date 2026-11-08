@@ -48,3 +48,19 @@ body.practice-active main{padding-bottom:calc(24px + env(safe-area-inset-bottom)
 
 /* 8.3.1: dominio por signo, integrado sin alterar el diseño base */
 .kana-mastery{width:100%;min-width:0;margin-top:9px}.kana-mastery-line{display:flex;justify-content:space-between;gap:5px;align-items:center;font-size:11px;line-height:1.4;color:var(--muted,#9aabc0)}.kana-mastery-line strong{white-space:nowrap}.kana-mastery .meter{height:5px;margin-top:5px}.kana-mastery-excluded{font-size:10px;line-height:1.4;opacity:.72;margin-top:8px}.kana-filter-tile{min-width:0}
+
+/* 8.3.3: indicadores compactos y viaje de dominio */
+.kana-filter-tile .kana-mastery-line{font-size:clamp(7px,1.8vw,9px);gap:2px;line-height:1.25;min-width:0}
+.kana-filter-tile .kana-mastery-line span{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.kana-filter-tile .kana-mastery-line strong{font-size:clamp(7px,1.8vw,9px);letter-spacing:-.035em;flex-shrink:0}
+.kana-filter-tile .kana-mastery{margin-top:5px}
+.header-meta{display:flex;align-items:flex-end;flex-direction:column;gap:5px;min-width:0}
+.app-version{font-size:10px;letter-spacing:.04em;color:#f5cf80;font-weight:800;white-space:nowrap}
+.flight-panel{overflow:hidden}.flight-plane{filter:drop-shadow(0 2px 3px #0008)}
+.flight-progress-track{height:8px;border-radius:99px;background:#3b5068;overflow:hidden}
+.flight-progress-fill{height:100%;border-radius:99px;background:linear-gradient(90deg,#d6a76b,#f5d58b);transition:width .8s ease}
+.flight-milestones{display:flex;justify-content:space-between;gap:5px;margin:8px 0 13px}
+.flight-milestone{font-size:10px;color:#a9b7c9;white-space:nowrap}.flight-milestone.reached{color:#f5d58b;font-weight:800}
+.flight-celebration,.flight-arrival{margin-top:12px;padding:12px;border-radius:12px;background:#274d53;border:1px solid #6ba994;color:#f1f7e9;font-weight:750;line-height:1.5}
+.flight-arrival{text-align:center;background:#3b425c;border-color:#d6b879}
+@media(prefers-reduced-motion:reduce){.flight-progress-fill{transition:none}}

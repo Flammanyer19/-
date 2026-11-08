@@ -26,3 +26,9 @@
 - Hitos persistentes en flightMilestones para evitar celebraciones repetidas; llegada a Japón al 100%.
 - Versión visible en la esquina superior de la primera pantalla.
 - Contadores compactos en tarjetas kana; texto bajo el avión simplificado.
+
+## 8.3.3.1
+- Silueta del avión en planta orientada hacia Japón.
+- Texto bajo el avión simplificado: solo caracteres dominados.
+- Total verificado: 249 de 252 registros, excluyendo っ, ッ y ー.
+- Versión visible y caché actualizados.
