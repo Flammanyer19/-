@@ -1,7 +1,22 @@
-# 8.2.6 — Filtros de hiragana y katakana
+# 8.2.7 — Corrección de segmentación de lecturas de kanji
 
-- Dos filtros combinables: tipo de sonido y fila.
-- Categorías especiales: nasal, tsu pequeña, vocal larga y sonidos extranjeros.
-- Orden original intacto, botón de limpiar y vista previa de caracteres.
-- Estudio y práctica utilizan la misma selección filtrada.
-- No se modifica el contenido ni la duración de las prácticas.
+- Se revisaron las 606 entradas de vocabulario de los 150 kanji.
+- 588 entradas tienen segmentos explícitos por carácter, incluyendo lecturas con cambios fonéticos y terminaciones en hiragana.
+- Las restantes 18 entradas con lectura especial se mantienen juntas para no inventar correspondencias.
+- Se añadió una indicación específica para las lecturas especiales.
+- Sin modificaciones en ejercicios, filtros, tarjetas o progreso.
+
+## 8.3.1 — Dominio kana y vuelo
+- 50 aciertos por carácter individual y sonidos modificados, incluyendo ん / ン.
+- 30 aciertos por combinación (también sonidos extranjeros compuestos).
+- っ / ッ y ー excluidos del dominio y del vuelo, pero visibles en estudio.
+- El avión refleja exactamente caracteres dominados / caracteres elegibles; kanji excluido.
+- Identificador de progreso por Tipo:ID, guardado al responder correctamente y exportable/restaurable.
+- Progreso por carácter en las tarjetas de estudio y filtros.
+
+## 8.3.2 — Katakana y validación conjunta
+- Panel de dominio individual de hiragana y katakana, con recuento y porcentaje por silabario.
+- Vista del avance global del vuelo desde ambos silabarios.
+- Las prácticas de ambos silabarios excluyen っ / ッ y ー; siguen visibles en estudio.
+- Se desactiva el inicio de una práctica para filtros sin suficientes caracteres elegibles.
+- Se conservan metas de 50/30, IDs estables y guardado de 8.3.1.
