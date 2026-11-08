@@ -20,3 +20,9 @@
 - Las prácticas de ambos silabarios excluyen っ / ッ y ー; siguen visibles en estudio.
 - Se desactiva el inicio de una práctica para filtros sin suficientes caracteres elegibles.
 - Se conservan metas de 50/30, IDs estables y guardado de 8.3.1.
+
+## 8.3.3
+- Avión SVG reconocible siguiendo la curva real del viaje; barra de progreso y hitos 25/50/75/100.
+- Hitos persistentes en flightMilestones para evitar celebraciones repetidas; llegada a Japón al 100%.
+- Versión visible en la esquina superior de la primera pantalla.
+- Contadores compactos en tarjetas kana; texto bajo el avión simplificado.
