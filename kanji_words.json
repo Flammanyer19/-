@@ -1,1 +1,4907 @@
-{"K0001":[{"word":"一つ","reading":"ひとつ","meaning":"uno"},{"word":"一日","reading":"いちにち","meaning":"un día"}],"K0002":[{"word":"二つ","reading":"ふたつ","meaning":"dos"},{"word":"二人","reading":"ふたり","meaning":"dos personas"}],"K0003":[{"word":"三つ","reading":"みっつ","meaning":"tres"},{"word":"三日","reading":"みっか","meaning":"día tres"}],"K0004":[{"word":"四つ","reading":"よっつ","meaning":"cuatro"},{"word":"四月","reading":"しがつ","meaning":"abril"}],"K0005":[{"word":"五つ","reading":"いつつ","meaning":"cinco"},{"word":"五月","reading":"ごがつ","meaning":"mayo"}],"K0006":[{"word":"六つ","reading":"むっつ","meaning":"seis"},{"word":"六月","reading":"ろくがつ","meaning":"junio"}],"K0007":[{"word":"七つ","reading":"ななつ","meaning":"siete"},{"word":"七月","reading":"しちがつ","meaning":"julio"}],"K0008":[{"word":"八つ","reading":"やっつ","meaning":"ocho"},{"word":"八月","reading":"はちがつ","meaning":"agosto"}],"K0009":[{"word":"九つ","reading":"ここのつ","meaning":"nueve"},{"word":"九月","reading":"くがつ","meaning":"septiembre"}],"K0010":[{"word":"十","reading":"じゅう","meaning":"diez"},{"word":"十月","reading":"じゅうがつ","meaning":"octubre"}],"K0011":[],"K0012":[],"K0013":[],"K0014":[],"K0015":[{"word":"今日","reading":"きょう","meaning":"hoy"},{"word":"明日","reading":"あした","meaning":"mañana"},{"word":"昨日","reading":"きのう","meaning":"ayer"},{"word":"毎日","reading":"まいにち","meaning":"todos los días"},{"word":"日本語","reading":"にほんご","meaning":"idioma japonés"}],"K0016":[{"word":"来月","reading":"らいげつ","meaning":"próximo mes"},{"word":"先月","reading":"せんげつ","meaning":"mes pasado"}],"K0017":[],"K0018":[{"word":"水","reading":"みず","meaning":"agua"}],"K0019":[],"K0020":[{"word":"お金","reading":"おかね","meaning":"dinero"},{"word":"現金","reading":"げんきん","meaning":"efectivo"}],"K0021":[],"K0022":[],"K0023":[{"word":"今年","reading":"ことし","meaning":"este año"},{"word":"来年","reading":"らいねん","meaning":"próximo año"}],"K0024":[{"word":"時刻表","reading":"じこくひょう","meaning":"horario de transporte"},{"word":"時間","reading":"じかん","meaning":"tiempo / hora"}],"K0025":[{"word":"分かる","reading":"わかる","meaning":"entender"}],"K0026":[],"K0027":[{"word":"今日","reading":"きょう","meaning":"hoy"},{"word":"今朝","reading":"けさ","meaning":"esta mañana"},{"word":"今晩","reading":"こんばん","meaning":"esta noche"},{"word":"今年","reading":"ことし","meaning":"este año"}],"K0028":[{"word":"先週","reading":"せんしゅう","meaning":"semana pasada"},{"word":"先月","reading":"せんげつ","meaning":"mes pasado"}],"K0029":[{"word":"来週","reading":"らいしゅう","meaning":"próxima semana"},{"word":"来月","reading":"らいげつ","meaning":"próximo mes"},{"word":"来る","reading":"くる","meaning":"venir"},{"word":"来年","reading":"らいねん","meaning":"próximo año"}],"K0030":[{"word":"毎日","reading":"まいにち","meaning":"todos los días"},{"word":"毎週","reading":"まいしゅう","meaning":"cada semana"}],"K0031":[{"word":"毎週","reading":"まいしゅう","meaning":"cada semana"},{"word":"週末","reading":"しゅうまつ","meaning":"fin de semana"},{"word":"来週","reading":"らいしゅう","meaning":"próxima semana"},{"word":"先週","reading":"せんしゅう","meaning":"semana pasada"}],"K0032":[],"K0033":[{"word":"前","reading":"まえ","meaning":"delante"},{"word":"名前","reading":"なまえ","meaning":"nombre"}],"K0034":[{"word":"後ろ","reading":"うしろ","meaning":"detrás"}],"K0035":[{"word":"今朝","reading":"けさ","meaning":"esta mañana"},{"word":"朝","reading":"あさ","meaning":"mañana (parte del día)"}],"K0036":[{"word":"昼","reading":"ひる","meaning":"mediodía"}],"K0037":[{"word":"夜","reading":"よる","meaning":"noche"}],"K0038":[{"word":"上手","reading":"じょうず","meaning":"hábil"},{"word":"上","reading":"うえ","meaning":"encima / arriba"}],"K0039":[{"word":"下手","reading":"へた","meaning":"poco hábil"},{"word":"地下鉄","reading":"ちかてつ","meaning":"metro"},{"word":"下","reading":"した","meaning":"debajo / abajo"},{"word":"靴下","reading":"くつした","meaning":"calcetines"}],"K0040":[{"word":"中","reading":"なか","meaning":"dentro"}],"K0041":[{"word":"外","reading":"そと","meaning":"fuera"}],"K0042":[{"word":"左","reading":"ひだり","meaning":"izquierda"}],"K0043":[{"word":"右","reading":"みぎ","meaning":"derecha"}],"K0044":[],"K0045":[],"K0046":[],"K0047":[],"K0048":[{"word":"大きい","reading":"おおきい","meaning":"grande"},{"word":"大変","reading":"たいへん","meaning":"duro / difícil"},{"word":"大丈夫","reading":"だいじょうぶ","meaning":"estar bien / sin problema"},{"word":"大切","reading":"たいせつ","meaning":"importante / valioso"},{"word":"大学","reading":"だいがく","meaning":"universidad"}],"K0049":[{"word":"小さい","reading":"ちいさい","meaning":"pequeño"}],"K0050":[{"word":"高い","reading":"たかい","meaning":"caro / alto"}],"K0051":[{"word":"安い","reading":"やすい","meaning":"barato"},{"word":"安全","reading":"あんぜん","meaning":"seguro"}],"K0052":[{"word":"新しい","reading":"あたらしい","meaning":"nuevo"},{"word":"新幹線","reading":"しんかんせん","meaning":"tren bala"}],"K0053":[{"word":"古い","reading":"ふるい","meaning":"viejo"}],"K0054":[{"word":"長い","reading":"ながい","meaning":"largo"}],"K0055":[],"K0056":[],"K0057":[{"word":"面白い","reading":"おもしろい","meaning":"interesante"}],"K0058":[],"K0059":[],"K0060":[],"K0061":[{"word":"恋人","reading":"こいびと","meaning":"pareja sentimental"}],"K0062":[],"K0063":[],"K0064":[{"word":"子供","reading":"こども","meaning":"niño / hijo"},{"word":"帽子","reading":"ぼうし","meaning":"sombrero / gorra"},{"word":"椅子","reading":"いす","meaning":"silla"}],"K0065":[{"word":"父","reading":"ちち","meaning":"mi padre"},{"word":"お父さん","reading":"おとうさん","meaning":"padre (trato respetuoso)"},{"word":"祖父","reading":"そふ","meaning":"mi abuelo"}],"K0066":[{"word":"母","reading":"はは","meaning":"mi madre"},{"word":"お母さん","reading":"おかあさん","meaning":"madre (trato respetuoso)"},{"word":"祖母","reading":"そぼ","meaning":"mi abuela"}],"K0067":[{"word":"兄","reading":"あに","meaning":"mi hermano mayor"},{"word":"お兄さん","reading":"おにいさん","meaning":"hermano mayor (respetuoso)"}],"K0068":[{"word":"姉","reading":"あね","meaning":"mi hermana mayor"},{"word":"お姉さん","reading":"おねえさん","meaning":"hermana mayor (respetuoso)"}],"K0069":[{"word":"弟","reading":"おとうと","meaning":"hermano menor"}],"K0070":[{"word":"妹","reading":"いもうと","meaning":"hermana menor"}],"K0071":[{"word":"友達","reading":"ともだち","meaning":"amigo"}],"K0072":[{"word":"有名","reading":"ゆうめい","meaning":"famoso"},{"word":"名前","reading":"なまえ","meaning":"nombre"}],"K0073":[],"K0074":[{"word":"家族","reading":"かぞく","meaning":"familia"},{"word":"家","reading":"いえ","meaning":"casa"}],"K0075":[],"K0076":[{"word":"学校","reading":"がっこう","meaning":"escuela"},{"word":"大学","reading":"だいがく","meaning":"universidad"}],"K0077":[{"word":"学校","reading":"がっこう","meaning":"escuela"}],"K0078":[{"word":"日本語","reading":"にほんご","meaning":"idioma japonés"}],"K0079":[{"word":"日本語","reading":"にほんご","meaning":"idioma japonés"},{"word":"英語","reading":"えいご","meaning":"idioma inglés"}],"K0080":[{"word":"注文する","reading":"ちゅうもんする","meaning":"pedir en restaurante"}],"K0081":[],"K0082":[{"word":"図書館","reading":"としょかん","meaning":"biblioteca"},{"word":"書く","reading":"かく","meaning":"escribir"}],"K0083":[{"word":"読む","reading":"よむ","meaning":"leer"}],"K0084":[{"word":"聞く","reading":"きく","meaning":"escuchar / preguntar"}],"K0085":[{"word":"携帯電話","reading":"けいたいでんわ","meaning":"teléfono móvil"},{"word":"話す","reading":"はなす","meaning":"hablar"},{"word":"電話する","reading":"でんわする","meaning":"llamar por teléfono"}],"K0086":[{"word":"言葉","reading":"ことば","meaning":"palabra / idioma"},{"word":"言う","reading":"いう","meaning":"decir"}],"K0087":[{"word":"見る","reading":"みる","meaning":"ver"},{"word":"見つける","reading":"みつける","meaning":"encontrar"}],"K0088":[{"word":"飛行機","reading":"ひこうき","meaning":"avión"},{"word":"銀行","reading":"ぎんこう","meaning":"banco"},{"word":"行く","reading":"いく","meaning":"ir"},{"word":"旅行する","reading":"りょこうする","meaning":"viajar"}],"K0089":[{"word":"帰る","reading":"かえる","meaning":"regresar a casa"}],"K0090":[{"word":"出口","reading":"でぐち","meaning":"salida"},{"word":"出る","reading":"でる","meaning":"salir"},{"word":"出発する","reading":"しゅっぱつする","meaning":"partir"}],"K0091":[{"word":"入口","reading":"いりぐち","meaning":"entrada"},{"word":"入る","reading":"はいる","meaning":"entrar"}],"K0092":[{"word":"食べる","reading":"たべる","meaning":"comer"}],"K0093":[{"word":"飲む","reading":"のむ","meaning":"beber"}],"K0094":[{"word":"買う","reading":"かう","meaning":"comprar"}],"K0095":[{"word":"売る","reading":"うる","meaning":"vender"}],"K0096":[{"word":"休む","reading":"やすむ","meaning":"descansar / faltar"}],"K0097":[{"word":"働く","reading":"はたらく","meaning":"trabajar"}],"K0098":[{"word":"会社","reading":"かいしゃ","meaning":"empresa"},{"word":"会議","reading":"かいぎ","meaning":"reunión"},{"word":"会う","reading":"あう","meaning":"encontrarse con"}],"K0099":[{"word":"会社","reading":"かいしゃ","meaning":"empresa"}],"K0100":[{"word":"店員","reading":"てんいん","meaning":"empleado de tienda"},{"word":"喫茶店","reading":"きっさてん","meaning":"cafetería"}],"K0101":[{"word":"駅","reading":"えき","meaning":"estación"}],"K0102":[{"word":"電車","reading":"でんしゃ","meaning":"tren"},{"word":"携帯電話","reading":"けいたいでんわ","meaning":"teléfono móvil"},{"word":"電話する","reading":"でんわする","meaning":"llamar por teléfono"},{"word":"充電器","reading":"じゅうでんき","meaning":"cargador"},{"word":"電池","reading":"でんち","meaning":"pila / batería"}],"K0103":[{"word":"電車","reading":"でんしゃ","meaning":"tren"},{"word":"自転車","reading":"じてんしゃ","meaning":"bicicleta"},{"word":"車","reading":"くるま","meaning":"automóvil"}],"K0104":[{"word":"道","reading":"みち","meaning":"camino / calle"}],"K0105":[],"K0106":[{"word":"乗り場","reading":"のりば","meaning":"parada / andén de salida"},{"word":"乗る","reading":"のる","meaning":"subir a transporte"}],"K0107":[{"word":"降りる","reading":"おりる","meaning":"bajar de transporte"}],"K0108":[{"word":"歩く","reading":"あるく","meaning":"caminar"}],"K0109":[{"word":"走る","reading":"はしる","meaning":"correr"}],"K0110":[{"word":"止める","reading":"とめる","meaning":"detener algo"},{"word":"止まる","reading":"とまる","meaning":"detenerse"}],"K0111":[{"word":"立つ","reading":"たつ","meaning":"ponerse de pie"}],"K0112":[{"word":"出口","reading":"でぐち","meaning":"salida"},{"word":"入口","reading":"いりぐち","meaning":"entrada"},{"word":"口","reading":"くち","meaning":"boca"}],"K0113":[{"word":"真面目","reading":"まじめ","meaning":"serio / aplicado"},{"word":"目","reading":"め","meaning":"ojo"}],"K0114":[{"word":"耳","reading":"みみ","meaning":"oreja / oído"}],"K0115":[{"word":"上手","reading":"じょうず","meaning":"hábil"},{"word":"下手","reading":"へた","meaning":"poco hábil"},{"word":"手伝う","reading":"てつだう","meaning":"ayudar"},{"word":"苦手","reading":"にがて","meaning":"no darse bien"},{"word":"手","reading":"て","meaning":"mano"}],"K0116":[{"word":"足","reading":"あし","meaning":"pie / pierna"}],"K0117":[{"word":"体","reading":"からだ","meaning":"cuerpo"}],"K0118":[],"K0119":[],"K0120":[{"word":"元気","reading":"げんき","meaning":"sano / animado"},{"word":"天気","reading":"てんき","meaning":"clima"},{"word":"病気になる","reading":"びょうきになる","meaning":"enfermarse"}],"K0121":[{"word":"病院","reading":"びょういん","meaning":"hospital"},{"word":"病気になる","reading":"びょうきになる","meaning":"enfermarse"}],"K0122":[{"word":"病院","reading":"びょういん","meaning":"hospital"}],"K0123":[{"word":"医者","reading":"いしゃ","meaning":"médico"}],"K0124":[{"word":"薬局","reading":"やっきょく","meaning":"farmacia"},{"word":"薬","reading":"くすり","meaning":"medicamento"}],"K0125":[{"word":"雨","reading":"あめ","meaning":"lluvia"}],"K0126":[{"word":"雪","reading":"ゆき","meaning":"nieve"}],"K0127":[{"word":"風","reading":"かぜ","meaning":"viento"}],"K0128":[{"word":"天ぷら","reading":"てんぷら","meaning":"tempura"},{"word":"天気","reading":"てんき","meaning":"clima"}],"K0129":[{"word":"空港","reading":"くうこう","meaning":"aeropuerto"}],"K0130":[],"K0131":[],"K0132":[],"K0133":[],"K0134":[],"K0135":[{"word":"犬","reading":"いぬ","meaning":"perro"}],"K0136":[{"word":"猫","reading":"ねこ","meaning":"gato"}],"K0137":[{"word":"魚","reading":"さかな","meaning":"pez / pescado"},{"word":"焼き魚","reading":"やきざかな","meaning":"pescado a la parrilla"}],"K0138":[{"word":"鳥","reading":"とり","meaning":"pájaro"}],"K0139":[{"word":"肉","reading":"にく","meaning":"carne"}],"K0140":[{"word":"牛","reading":"うし","meaning":"vaca"},{"word":"牛乳","reading":"ぎゅうにゅう","meaning":"leche"}],"K0141":[{"word":"馬","reading":"うま","meaning":"caballo"}],"K0142":[],"K0143":[],"K0144":[{"word":"近い","reading":"ちかい","meaning":"cercano"},{"word":"近く","reading":"ちかく","meaning":"cerca"}],"K0145":[{"word":"遠い","reading":"とおい","meaning":"lejano"}],"K0146":[{"word":"好き","reading":"すき","meaning":"gustar / favorito"}],"K0147":[{"word":"思う","reading":"おもう","meaning":"opinar / creer"}],"K0148":[{"word":"知る","reading":"しる","meaning":"saber / conocer"}],"K0149":[{"word":"作る","reading":"つくる","meaning":"hacer / fabricar"}],"K0150":[{"word":"使う","reading":"つかう","meaning":"usar"}]}
+{
+  "K0001": [
+    {
+      "word": "一つ",
+      "reading": "ひとつ",
+      "meaning": "uno"
+    },
+    {
+      "word": "一日",
+      "reading": "いちにち",
+      "meaning": "un día"
+    },
+    {
+      "word": "一人",
+      "reading": "ひとり",
+      "meaning": "una persona"
+    },
+    {
+      "word": "一番",
+      "reading": "いちばん",
+      "meaning": "número uno; el mejor",
+      "parts": [
+        "いち",
+        "ばん"
+      ]
+    },
+    {
+      "word": "一緒",
+      "reading": "いっしょ",
+      "meaning": "juntos",
+      "parts": [
+        "いっ",
+        "しょ"
+      ]
+    }
+  ],
+  "K0002": [
+    {
+      "word": "二つ",
+      "reading": "ふたつ",
+      "meaning": "dos"
+    },
+    {
+      "word": "二人",
+      "reading": "ふたり",
+      "meaning": "dos personas"
+    },
+    {
+      "word": "二日",
+      "reading": "ふつか",
+      "meaning": "dos días; día dos"
+    },
+    {
+      "word": "二階",
+      "reading": "にかい",
+      "meaning": "segundo piso",
+      "parts": [
+        "に",
+        "かい"
+      ]
+    },
+    {
+      "word": "二月",
+      "reading": "にがつ",
+      "meaning": "febrero",
+      "parts": [
+        "に",
+        "がつ"
+      ]
+    }
+  ],
+  "K0003": [
+    {
+      "word": "三つ",
+      "reading": "みっつ",
+      "meaning": "tres"
+    },
+    {
+      "word": "三日",
+      "reading": "みっか",
+      "meaning": "día tres"
+    },
+    {
+      "word": "三月",
+      "reading": "さんがつ",
+      "meaning": "marzo",
+      "parts": [
+        "さん",
+        "がつ"
+      ]
+    },
+    {
+      "word": "三人",
+      "reading": "さんにん",
+      "meaning": "tres personas",
+      "parts": [
+        "さん",
+        "にん"
+      ]
+    },
+    {
+      "word": "三角",
+      "reading": "さんかく",
+      "meaning": "triángulo",
+      "parts": [
+        "さん",
+        "かく"
+      ]
+    }
+  ],
+  "K0004": [
+    {
+      "word": "四つ",
+      "reading": "よっつ",
+      "meaning": "cuatro"
+    },
+    {
+      "word": "四月",
+      "reading": "しがつ",
+      "meaning": "abril",
+      "parts": [
+        "し",
+        "がつ"
+      ]
+    },
+    {
+      "word": "四人",
+      "reading": "よにん",
+      "meaning": "cuatro personas",
+      "parts": [
+        "よ",
+        "にん"
+      ]
+    },
+    {
+      "word": "四角",
+      "reading": "しかく",
+      "meaning": "cuadrado",
+      "parts": [
+        "し",
+        "かく"
+      ]
+    }
+  ],
+  "K0005": [
+    {
+      "word": "五つ",
+      "reading": "いつつ",
+      "meaning": "cinco"
+    },
+    {
+      "word": "五月",
+      "reading": "ごがつ",
+      "meaning": "mayo"
+    },
+    {
+      "word": "五日",
+      "reading": "いつか",
+      "meaning": "día cinco; cinco días"
+    },
+    {
+      "word": "五分",
+      "reading": "ごふん",
+      "meaning": "cinco minutos",
+      "parts": [
+        "ご",
+        "ふん"
+      ]
+    }
+  ],
+  "K0006": [
+    {
+      "word": "六つ",
+      "reading": "むっつ",
+      "meaning": "seis"
+    },
+    {
+      "word": "六月",
+      "reading": "ろくがつ",
+      "meaning": "junio"
+    },
+    {
+      "word": "六日",
+      "reading": "むいか",
+      "meaning": "día seis; seis días"
+    },
+    {
+      "word": "六時",
+      "reading": "ろくじ",
+      "meaning": "seis en punto",
+      "parts": [
+        "ろく",
+        "じ"
+      ]
+    }
+  ],
+  "K0007": [
+    {
+      "word": "七つ",
+      "reading": "ななつ",
+      "meaning": "siete"
+    },
+    {
+      "word": "七月",
+      "reading": "しちがつ",
+      "meaning": "julio"
+    },
+    {
+      "word": "七日",
+      "reading": "なのか",
+      "meaning": "día siete; siete días"
+    },
+    {
+      "word": "七時",
+      "reading": "しちじ",
+      "meaning": "siete en punto",
+      "parts": [
+        "しち",
+        "じ"
+      ]
+    }
+  ],
+  "K0008": [
+    {
+      "word": "八つ",
+      "reading": "やっつ",
+      "meaning": "ocho"
+    },
+    {
+      "word": "八月",
+      "reading": "はちがつ",
+      "meaning": "agosto"
+    },
+    {
+      "word": "八日",
+      "reading": "ようか",
+      "meaning": "día ocho; ocho días"
+    },
+    {
+      "word": "八百屋",
+      "reading": "やおや",
+      "meaning": "verdulería"
+    }
+  ],
+  "K0009": [
+    {
+      "word": "九つ",
+      "reading": "ここのつ",
+      "meaning": "nueve"
+    },
+    {
+      "word": "九月",
+      "reading": "くがつ",
+      "meaning": "septiembre"
+    },
+    {
+      "word": "九日",
+      "reading": "ここのか",
+      "meaning": "día nueve; nueve días"
+    },
+    {
+      "word": "九時",
+      "reading": "くじ",
+      "meaning": "nueve en punto",
+      "parts": [
+        "く",
+        "じ"
+      ]
+    }
+  ],
+  "K0010": [
+    {
+      "word": "十",
+      "reading": "じゅう",
+      "meaning": "diez"
+    },
+    {
+      "word": "十月",
+      "reading": "じゅうがつ",
+      "meaning": "octubre"
+    },
+    {
+      "word": "十分",
+      "reading": "じゅっぷん",
+      "meaning": "diez minutos",
+      "parts": [
+        "じゅっ",
+        "ぷん"
+      ]
+    },
+    {
+      "word": "十日",
+      "reading": "とおか",
+      "meaning": "día diez; diez días"
+    },
+    {
+      "word": "十分",
+      "reading": "じゅうぶん",
+      "meaning": "suficiente",
+      "parts": [
+        "じゅう",
+        "ぶん"
+      ]
+    }
+  ],
+  "K0011": [
+    {
+      "word": "八百屋",
+      "reading": "やおや",
+      "meaning": "verdulería"
+    },
+    {
+      "word": "百円",
+      "reading": "ひゃくえん",
+      "meaning": "cien yenes",
+      "parts": [
+        "ひゃく",
+        "えん"
+      ]
+    },
+    {
+      "word": "三百",
+      "reading": "さんびゃく",
+      "meaning": "trescientos",
+      "parts": [
+        "さん",
+        "びゃく"
+      ]
+    },
+    {
+      "word": "百人",
+      "reading": "ひゃくにん",
+      "meaning": "cien personas",
+      "parts": [
+        "ひゃく",
+        "にん"
+      ]
+    }
+  ],
+  "K0012": [
+    {
+      "word": "千円",
+      "reading": "せんえん",
+      "meaning": "mil yenes",
+      "parts": [
+        "せん",
+        "えん"
+      ]
+    },
+    {
+      "word": "三千",
+      "reading": "さんぜん",
+      "meaning": "tres mil",
+      "parts": [
+        "さん",
+        "ぜん"
+      ]
+    },
+    {
+      "word": "千人",
+      "reading": "せんにん",
+      "meaning": "mil personas",
+      "parts": [
+        "せん",
+        "にん"
+      ]
+    }
+  ],
+  "K0013": [
+    {
+      "word": "一万",
+      "reading": "いちまん",
+      "meaning": "diez mil",
+      "parts": [
+        "いち",
+        "まん"
+      ]
+    },
+    {
+      "word": "万円",
+      "reading": "まんえん",
+      "meaning": "diez mil yenes",
+      "parts": [
+        "まん",
+        "えん"
+      ]
+    },
+    {
+      "word": "万年筆",
+      "reading": "まんねんひつ",
+      "meaning": "pluma estilográfica",
+      "parts": [
+        "まん",
+        "ねん",
+        "ひつ"
+      ]
+    }
+  ],
+  "K0014": [
+    {
+      "word": "百円",
+      "reading": "ひゃくえん",
+      "meaning": "cien yenes",
+      "parts": [
+        "ひゃく",
+        "えん"
+      ]
+    },
+    {
+      "word": "千円",
+      "reading": "せんえん",
+      "meaning": "mil yenes",
+      "parts": [
+        "せん",
+        "えん"
+      ]
+    },
+    {
+      "word": "万円",
+      "reading": "まんえん",
+      "meaning": "diez mil yenes",
+      "parts": [
+        "まん",
+        "えん"
+      ]
+    },
+    {
+      "word": "円安",
+      "reading": "えんやす",
+      "meaning": "depreciación del yen",
+      "parts": [
+        "えん",
+        "やす"
+      ]
+    },
+    {
+      "word": "円高",
+      "reading": "えんだか",
+      "meaning": "apreciación del yen",
+      "parts": [
+        "えん",
+        "だか"
+      ]
+    }
+  ],
+  "K0015": [
+    {
+      "word": "今日",
+      "reading": "きょう",
+      "meaning": "hoy"
+    },
+    {
+      "word": "明日",
+      "reading": "あした",
+      "meaning": "mañana"
+    },
+    {
+      "word": "昨日",
+      "reading": "きのう",
+      "meaning": "ayer"
+    },
+    {
+      "word": "毎日",
+      "reading": "まいにち",
+      "meaning": "todos los días"
+    },
+    {
+      "word": "日本語",
+      "reading": "にほんご",
+      "meaning": "idioma japonés"
+    }
+  ],
+  "K0016": [
+    {
+      "word": "来月",
+      "reading": "らいげつ",
+      "meaning": "próximo mes"
+    },
+    {
+      "word": "先月",
+      "reading": "せんげつ",
+      "meaning": "mes pasado"
+    },
+    {
+      "word": "二月",
+      "reading": "にがつ",
+      "meaning": "febrero",
+      "parts": [
+        "に",
+        "がつ"
+      ]
+    },
+    {
+      "word": "三月",
+      "reading": "さんがつ",
+      "meaning": "marzo",
+      "parts": [
+        "さん",
+        "がつ"
+      ]
+    },
+    {
+      "word": "四月",
+      "reading": "しがつ",
+      "meaning": "abril",
+      "parts": [
+        "し",
+        "がつ"
+      ]
+    }
+  ],
+  "K0017": [
+    {
+      "word": "火曜日",
+      "reading": "かようび",
+      "meaning": "martes",
+      "parts": [
+        "か",
+        "よう",
+        "び"
+      ]
+    },
+    {
+      "word": "火山",
+      "reading": "かざん",
+      "meaning": "volcán",
+      "parts": [
+        "か",
+        "ざん"
+      ]
+    },
+    {
+      "word": "花火",
+      "reading": "はなび",
+      "meaning": "fuegos artificiales",
+      "parts": [
+        "はな",
+        "び"
+      ]
+    }
+  ],
+  "K0018": [
+    {
+      "word": "水",
+      "reading": "みず",
+      "meaning": "agua"
+    },
+    {
+      "word": "水曜日",
+      "reading": "すいようび",
+      "meaning": "miércoles",
+      "parts": [
+        "すい",
+        "よう",
+        "び"
+      ]
+    },
+    {
+      "word": "水道",
+      "reading": "すいどう",
+      "meaning": "agua corriente",
+      "parts": [
+        "すい",
+        "どう"
+      ]
+    },
+    {
+      "word": "水中",
+      "reading": "すいちゅう",
+      "meaning": "bajo el agua",
+      "parts": [
+        "すい",
+        "ちゅう"
+      ]
+    },
+    {
+      "word": "雨水",
+      "reading": "あまみず",
+      "meaning": "agua de lluvia",
+      "parts": [
+        "あま",
+        "みず"
+      ]
+    }
+  ],
+  "K0019": [
+    {
+      "word": "木曜日",
+      "reading": "もくようび",
+      "meaning": "jueves",
+      "parts": [
+        "もく",
+        "よう",
+        "び"
+      ]
+    },
+    {
+      "word": "木の下",
+      "reading": "きのした",
+      "meaning": "debajo del árbol",
+      "parts": [
+        "き",
+        "の",
+        "した"
+      ]
+    },
+    {
+      "word": "木材",
+      "reading": "もくざい",
+      "meaning": "madera como material",
+      "parts": [
+        "もく",
+        "ざい"
+      ]
+    }
+  ],
+  "K0020": [
+    {
+      "word": "お金",
+      "reading": "おかね",
+      "meaning": "dinero"
+    },
+    {
+      "word": "現金",
+      "reading": "げんきん",
+      "meaning": "efectivo"
+    },
+    {
+      "word": "金曜日",
+      "reading": "きんようび",
+      "meaning": "viernes",
+      "parts": [
+        "きん",
+        "よう",
+        "び"
+      ]
+    },
+    {
+      "word": "料金",
+      "reading": "りょうきん",
+      "meaning": "tarifa",
+      "parts": [
+        "りょう",
+        "きん"
+      ]
+    },
+    {
+      "word": "金魚",
+      "reading": "きんぎょ",
+      "meaning": "pez dorado",
+      "parts": [
+        "きん",
+        "ぎょ"
+      ]
+    }
+  ],
+  "K0021": [
+    {
+      "word": "土曜日",
+      "reading": "どようび",
+      "meaning": "sábado",
+      "parts": [
+        "ど",
+        "よう",
+        "び"
+      ]
+    },
+    {
+      "word": "土地",
+      "reading": "とち",
+      "meaning": "terreno",
+      "parts": [
+        "と",
+        "ち"
+      ]
+    },
+    {
+      "word": "土足",
+      "reading": "どそく",
+      "meaning": "calzado puesto en interiores",
+      "parts": [
+        "ど",
+        "そく"
+      ]
+    }
+  ],
+  "K0022": [
+    {
+      "word": "日曜日",
+      "reading": "にちようび",
+      "meaning": "domingo",
+      "parts": [
+        "にち",
+        "よう",
+        "び"
+      ]
+    },
+    {
+      "word": "月曜日",
+      "reading": "げつようび",
+      "meaning": "lunes",
+      "parts": [
+        "げつ",
+        "よう",
+        "び"
+      ]
+    },
+    {
+      "word": "火曜日",
+      "reading": "かようび",
+      "meaning": "martes",
+      "parts": [
+        "か",
+        "よう",
+        "び"
+      ]
+    },
+    {
+      "word": "水曜日",
+      "reading": "すいようび",
+      "meaning": "miércoles",
+      "parts": [
+        "すい",
+        "よう",
+        "び"
+      ]
+    },
+    {
+      "word": "木曜日",
+      "reading": "もくようび",
+      "meaning": "jueves",
+      "parts": [
+        "もく",
+        "よう",
+        "び"
+      ]
+    }
+  ],
+  "K0023": [
+    {
+      "word": "今年",
+      "reading": "ことし",
+      "meaning": "este año"
+    },
+    {
+      "word": "来年",
+      "reading": "らいねん",
+      "meaning": "próximo año"
+    },
+    {
+      "word": "万年筆",
+      "reading": "まんねんひつ",
+      "meaning": "pluma estilográfica",
+      "parts": [
+        "まん",
+        "ねん",
+        "ひつ"
+      ]
+    },
+    {
+      "word": "年上",
+      "reading": "としうえ",
+      "meaning": "mayor de edad que alguien",
+      "parts": [
+        "とし",
+        "うえ"
+      ]
+    },
+    {
+      "word": "毎年",
+      "reading": "まいとし",
+      "meaning": "cada año",
+      "parts": [
+        "まい",
+        "とし"
+      ]
+    }
+  ],
+  "K0024": [
+    {
+      "word": "時刻表",
+      "reading": "じこくひょう",
+      "meaning": "horario de transporte"
+    },
+    {
+      "word": "時間",
+      "reading": "じかん",
+      "meaning": "tiempo / hora"
+    },
+    {
+      "word": "六時",
+      "reading": "ろくじ",
+      "meaning": "seis en punto",
+      "parts": [
+        "ろく",
+        "じ"
+      ]
+    },
+    {
+      "word": "七時",
+      "reading": "しちじ",
+      "meaning": "siete en punto",
+      "parts": [
+        "しち",
+        "じ"
+      ]
+    },
+    {
+      "word": "九時",
+      "reading": "くじ",
+      "meaning": "nueve en punto",
+      "parts": [
+        "く",
+        "じ"
+      ]
+    }
+  ],
+  "K0025": [
+    {
+      "word": "分かる",
+      "reading": "わかる",
+      "meaning": "entender"
+    },
+    {
+      "word": "五分",
+      "reading": "ごふん",
+      "meaning": "cinco minutos",
+      "parts": [
+        "ご",
+        "ふん"
+      ]
+    },
+    {
+      "word": "十分",
+      "reading": "じゅっぷん",
+      "meaning": "diez minutos",
+      "parts": [
+        "じゅっ",
+        "ぷん"
+      ]
+    },
+    {
+      "word": "半分",
+      "reading": "はんぶん",
+      "meaning": "la mitad",
+      "parts": [
+        "はん",
+        "ぶん"
+      ]
+    },
+    {
+      "word": "十分",
+      "reading": "じゅうぶん",
+      "meaning": "suficiente",
+      "parts": [
+        "じゅう",
+        "ぶん"
+      ]
+    }
+  ],
+  "K0026": [
+    {
+      "word": "半分",
+      "reading": "はんぶん",
+      "meaning": "la mitad",
+      "parts": [
+        "はん",
+        "ぶん"
+      ]
+    },
+    {
+      "word": "半日",
+      "reading": "はんにち",
+      "meaning": "medio día",
+      "parts": [
+        "はん",
+        "にち"
+      ]
+    },
+    {
+      "word": "前半",
+      "reading": "ぜんはん",
+      "meaning": "primera mitad",
+      "parts": [
+        "ぜん",
+        "はん"
+      ]
+    },
+    {
+      "word": "後半",
+      "reading": "こうはん",
+      "meaning": "segunda mitad",
+      "parts": [
+        "こう",
+        "はん"
+      ]
+    }
+  ],
+  "K0027": [
+    {
+      "word": "今日",
+      "reading": "きょう",
+      "meaning": "hoy"
+    },
+    {
+      "word": "今朝",
+      "reading": "けさ",
+      "meaning": "esta mañana"
+    },
+    {
+      "word": "今晩",
+      "reading": "こんばん",
+      "meaning": "esta noche"
+    },
+    {
+      "word": "今年",
+      "reading": "ことし",
+      "meaning": "este año"
+    },
+    {
+      "word": "今月",
+      "reading": "こんげつ",
+      "meaning": "este mes",
+      "parts": [
+        "こん",
+        "げつ"
+      ]
+    }
+  ],
+  "K0028": [
+    {
+      "word": "先週",
+      "reading": "せんしゅう",
+      "meaning": "semana pasada"
+    },
+    {
+      "word": "先月",
+      "reading": "せんげつ",
+      "meaning": "mes pasado"
+    },
+    {
+      "word": "先生",
+      "reading": "せんせい",
+      "meaning": "profesor",
+      "parts": [
+        "せん",
+        "せい"
+      ]
+    }
+  ],
+  "K0029": [
+    {
+      "word": "来週",
+      "reading": "らいしゅう",
+      "meaning": "próxima semana"
+    },
+    {
+      "word": "来月",
+      "reading": "らいげつ",
+      "meaning": "próximo mes"
+    },
+    {
+      "word": "来る",
+      "reading": "くる",
+      "meaning": "venir"
+    },
+    {
+      "word": "来年",
+      "reading": "らいねん",
+      "meaning": "próximo año"
+    },
+    {
+      "word": "出来る",
+      "reading": "できる",
+      "meaning": "poder; ser capaz",
+      "parts": [
+        "で",
+        "き",
+        "る"
+      ]
+    }
+  ],
+  "K0030": [
+    {
+      "word": "毎日",
+      "reading": "まいにち",
+      "meaning": "todos los días"
+    },
+    {
+      "word": "毎週",
+      "reading": "まいしゅう",
+      "meaning": "cada semana"
+    },
+    {
+      "word": "毎朝",
+      "reading": "まいあさ",
+      "meaning": "cada mañana",
+      "parts": [
+        "まい",
+        "あさ"
+      ]
+    },
+    {
+      "word": "毎年",
+      "reading": "まいとし",
+      "meaning": "cada año",
+      "parts": [
+        "まい",
+        "とし"
+      ]
+    },
+    {
+      "word": "毎月",
+      "reading": "まいつき",
+      "meaning": "cada mes",
+      "parts": [
+        "まい",
+        "つき"
+      ]
+    }
+  ],
+  "K0031": [
+    {
+      "word": "毎週",
+      "reading": "まいしゅう",
+      "meaning": "cada semana"
+    },
+    {
+      "word": "週末",
+      "reading": "しゅうまつ",
+      "meaning": "fin de semana"
+    },
+    {
+      "word": "来週",
+      "reading": "らいしゅう",
+      "meaning": "próxima semana"
+    },
+    {
+      "word": "先週",
+      "reading": "せんしゅう",
+      "meaning": "semana pasada"
+    },
+    {
+      "word": "今週",
+      "reading": "こんしゅう",
+      "meaning": "esta semana",
+      "parts": [
+        "こん",
+        "しゅう"
+      ]
+    }
+  ],
+  "K0032": [
+    {
+      "word": "午前",
+      "reading": "ごぜん",
+      "meaning": "antes del mediodía",
+      "parts": [
+        "ご",
+        "ぜん"
+      ]
+    },
+    {
+      "word": "午後",
+      "reading": "ごご",
+      "meaning": "después del mediodía",
+      "parts": [
+        "ご",
+        "ご"
+      ]
+    },
+    {
+      "word": "正午",
+      "reading": "しょうご",
+      "meaning": "mediodía exacto",
+      "parts": [
+        "しょう",
+        "ご"
+      ]
+    }
+  ],
+  "K0033": [
+    {
+      "word": "前",
+      "reading": "まえ",
+      "meaning": "delante"
+    },
+    {
+      "word": "名前",
+      "reading": "なまえ",
+      "meaning": "nombre"
+    },
+    {
+      "word": "前半",
+      "reading": "ぜんはん",
+      "meaning": "primera mitad",
+      "parts": [
+        "ぜん",
+        "はん"
+      ]
+    },
+    {
+      "word": "午前",
+      "reading": "ごぜん",
+      "meaning": "antes del mediodía",
+      "parts": [
+        "ご",
+        "ぜん"
+      ]
+    },
+    {
+      "word": "前日",
+      "reading": "ぜんじつ",
+      "meaning": "día anterior",
+      "parts": [
+        "ぜん",
+        "じつ"
+      ]
+    }
+  ],
+  "K0034": [
+    {
+      "word": "後ろ",
+      "reading": "うしろ",
+      "meaning": "detrás"
+    },
+    {
+      "word": "午後",
+      "reading": "ごご",
+      "meaning": "después del mediodía",
+      "parts": [
+        "ご",
+        "ご"
+      ]
+    },
+    {
+      "word": "前後",
+      "reading": "ぜんご",
+      "meaning": "antes y después",
+      "parts": [
+        "ぜん",
+        "ご"
+      ]
+    },
+    {
+      "word": "後半",
+      "reading": "こうはん",
+      "meaning": "segunda mitad",
+      "parts": [
+        "こう",
+        "はん"
+      ]
+    },
+    {
+      "word": "最後",
+      "reading": "さいご",
+      "meaning": "último; final",
+      "parts": [
+        "さい",
+        "ご"
+      ]
+    }
+  ],
+  "K0035": [
+    {
+      "word": "今朝",
+      "reading": "けさ",
+      "meaning": "esta mañana"
+    },
+    {
+      "word": "朝",
+      "reading": "あさ",
+      "meaning": "mañana (parte del día)"
+    },
+    {
+      "word": "毎朝",
+      "reading": "まいあさ",
+      "meaning": "cada mañana",
+      "parts": [
+        "まい",
+        "あさ"
+      ]
+    },
+    {
+      "word": "朝ご飯",
+      "reading": "あさごはん",
+      "meaning": "desayuno",
+      "parts": [
+        "あさ",
+        "ご",
+        "はん"
+      ]
+    },
+    {
+      "word": "朝日",
+      "reading": "あさひ",
+      "meaning": "sol de la mañana",
+      "parts": [
+        "あさ",
+        "ひ"
+      ]
+    }
+  ],
+  "K0036": [
+    {
+      "word": "昼",
+      "reading": "ひる",
+      "meaning": "mediodía"
+    },
+    {
+      "word": "昼ご飯",
+      "reading": "ひるごはん",
+      "meaning": "almuerzo",
+      "parts": [
+        "ひる",
+        "ご",
+        "はん"
+      ]
+    },
+    {
+      "word": "昼間",
+      "reading": "ひるま",
+      "meaning": "durante el día",
+      "parts": [
+        "ひる",
+        "ま"
+      ]
+    }
+  ],
+  "K0037": [
+    {
+      "word": "夜",
+      "reading": "よる",
+      "meaning": "noche"
+    },
+    {
+      "word": "今夜",
+      "reading": "こんや",
+      "meaning": "esta noche",
+      "parts": [
+        "こん",
+        "や"
+      ]
+    },
+    {
+      "word": "夜中",
+      "reading": "よなか",
+      "meaning": "medianoche",
+      "parts": [
+        "よ",
+        "なか"
+      ]
+    },
+    {
+      "word": "夜空",
+      "reading": "よぞら",
+      "meaning": "cielo nocturno",
+      "parts": [
+        "よ",
+        "ぞら"
+      ]
+    }
+  ],
+  "K0038": [
+    {
+      "word": "上手",
+      "reading": "じょうず",
+      "meaning": "hábil"
+    },
+    {
+      "word": "上",
+      "reading": "うえ",
+      "meaning": "encima / arriba"
+    },
+    {
+      "word": "年上",
+      "reading": "としうえ",
+      "meaning": "mayor de edad que alguien",
+      "parts": [
+        "とし",
+        "うえ"
+      ]
+    },
+    {
+      "word": "上着",
+      "reading": "うわぎ",
+      "meaning": "chaqueta",
+      "parts": [
+        "うわ",
+        "ぎ"
+      ]
+    },
+    {
+      "word": "上る",
+      "reading": "のぼる",
+      "meaning": "subir",
+      "parts": [
+        "のぼ",
+        "る"
+      ]
+    }
+  ],
+  "K0039": [
+    {
+      "word": "下手",
+      "reading": "へた",
+      "meaning": "poco hábil"
+    },
+    {
+      "word": "地下鉄",
+      "reading": "ちかてつ",
+      "meaning": "metro"
+    },
+    {
+      "word": "下",
+      "reading": "した",
+      "meaning": "debajo / abajo"
+    },
+    {
+      "word": "靴下",
+      "reading": "くつした",
+      "meaning": "calcetines"
+    },
+    {
+      "word": "木の下",
+      "reading": "きのした",
+      "meaning": "debajo del árbol",
+      "parts": [
+        "き",
+        "の",
+        "した"
+      ]
+    }
+  ],
+  "K0040": [
+    {
+      "word": "中",
+      "reading": "なか",
+      "meaning": "dentro"
+    },
+    {
+      "word": "水中",
+      "reading": "すいちゅう",
+      "meaning": "bajo el agua",
+      "parts": [
+        "すい",
+        "ちゅう"
+      ]
+    },
+    {
+      "word": "夜中",
+      "reading": "よなか",
+      "meaning": "medianoche",
+      "parts": [
+        "よ",
+        "なか"
+      ]
+    },
+    {
+      "word": "中心",
+      "reading": "ちゅうしん",
+      "meaning": "centro",
+      "parts": [
+        "ちゅう",
+        "しん"
+      ]
+    },
+    {
+      "word": "中国",
+      "reading": "ちゅうごく",
+      "meaning": "China",
+      "parts": [
+        "ちゅう",
+        "ごく"
+      ]
+    }
+  ],
+  "K0041": [
+    {
+      "word": "外",
+      "reading": "そと",
+      "meaning": "fuera"
+    },
+    {
+      "word": "外国",
+      "reading": "がいこく",
+      "meaning": "país extranjero",
+      "parts": [
+        "がい",
+        "こく"
+      ]
+    },
+    {
+      "word": "外国人",
+      "reading": "がいこくじん",
+      "meaning": "extranjero",
+      "parts": [
+        "がい",
+        "こく",
+        "じん"
+      ]
+    },
+    {
+      "word": "外出",
+      "reading": "がいしゅつ",
+      "meaning": "salida; salir",
+      "parts": [
+        "がい",
+        "しゅつ"
+      ]
+    },
+    {
+      "word": "海外",
+      "reading": "かいがい",
+      "meaning": "extranjero; ultramar",
+      "parts": [
+        "かい",
+        "がい"
+      ]
+    }
+  ],
+  "K0042": [
+    {
+      "word": "左",
+      "reading": "ひだり",
+      "meaning": "izquierda"
+    },
+    {
+      "word": "左手",
+      "reading": "ひだりて",
+      "meaning": "mano izquierda",
+      "parts": [
+        "ひだり",
+        "て"
+      ]
+    },
+    {
+      "word": "左足",
+      "reading": "ひだりあし",
+      "meaning": "pie izquierdo",
+      "parts": [
+        "ひだり",
+        "あし"
+      ]
+    },
+    {
+      "word": "左右",
+      "reading": "さゆう",
+      "meaning": "izquierda y derecha",
+      "parts": [
+        "さ",
+        "ゆう"
+      ]
+    }
+  ],
+  "K0043": [
+    {
+      "word": "右",
+      "reading": "みぎ",
+      "meaning": "derecha"
+    },
+    {
+      "word": "左右",
+      "reading": "さゆう",
+      "meaning": "izquierda y derecha",
+      "parts": [
+        "さ",
+        "ゆう"
+      ]
+    },
+    {
+      "word": "右手",
+      "reading": "みぎて",
+      "meaning": "mano derecha",
+      "parts": [
+        "みぎ",
+        "て"
+      ]
+    },
+    {
+      "word": "右足",
+      "reading": "みぎあし",
+      "meaning": "pie derecho",
+      "parts": [
+        "みぎ",
+        "あし"
+      ]
+    }
+  ],
+  "K0044": [
+    {
+      "word": "東口",
+      "reading": "ひがしぐち",
+      "meaning": "salida este",
+      "parts": [
+        "ひがし",
+        "ぐち"
+      ]
+    },
+    {
+      "word": "東京",
+      "reading": "とうきょう",
+      "meaning": "Tokio",
+      "parts": [
+        "とう",
+        "きょう"
+      ]
+    },
+    {
+      "word": "東北",
+      "reading": "とうほく",
+      "meaning": "noreste",
+      "parts": [
+        "とう",
+        "ほく"
+      ]
+    },
+    {
+      "word": "北東",
+      "reading": "ほくとう",
+      "meaning": "noreste",
+      "parts": [
+        "ほく",
+        "とう"
+      ]
+    },
+    {
+      "word": "東京駅",
+      "reading": "とうきょうえき",
+      "meaning": "estación de Tokio",
+      "parts": [
+        "とう",
+        "きょう",
+        "えき"
+      ]
+    }
+  ],
+  "K0045": [
+    {
+      "word": "西口",
+      "reading": "にしぐち",
+      "meaning": "salida oeste",
+      "parts": [
+        "にし",
+        "ぐち"
+      ]
+    },
+    {
+      "word": "西日本",
+      "reading": "にしにほん",
+      "meaning": "oeste de Japón",
+      "parts": [
+        "にし",
+        "に",
+        "ほん"
+      ]
+    },
+    {
+      "word": "南西",
+      "reading": "なんせい",
+      "meaning": "suroeste",
+      "parts": [
+        "なん",
+        "せい"
+      ]
+    }
+  ],
+  "K0046": [
+    {
+      "word": "南西",
+      "reading": "なんせい",
+      "meaning": "suroeste",
+      "parts": [
+        "なん",
+        "せい"
+      ]
+    },
+    {
+      "word": "南口",
+      "reading": "みなみぐち",
+      "meaning": "salida sur",
+      "parts": [
+        "みなみ",
+        "ぐち"
+      ]
+    },
+    {
+      "word": "南北",
+      "reading": "なんぼく",
+      "meaning": "sur y norte",
+      "parts": [
+        "なん",
+        "ぼく"
+      ]
+    }
+  ],
+  "K0047": [
+    {
+      "word": "東北",
+      "reading": "とうほく",
+      "meaning": "noreste",
+      "parts": [
+        "とう",
+        "ほく"
+      ]
+    },
+    {
+      "word": "南北",
+      "reading": "なんぼく",
+      "meaning": "sur y norte",
+      "parts": [
+        "なん",
+        "ぼく"
+      ]
+    },
+    {
+      "word": "北口",
+      "reading": "きたぐち",
+      "meaning": "salida norte",
+      "parts": [
+        "きた",
+        "ぐち"
+      ]
+    },
+    {
+      "word": "北海道",
+      "reading": "ほっかいどう",
+      "meaning": "Hokkaidō",
+      "parts": [
+        "ほっ",
+        "かい",
+        "どう"
+      ]
+    },
+    {
+      "word": "北東",
+      "reading": "ほくとう",
+      "meaning": "noreste",
+      "parts": [
+        "ほく",
+        "とう"
+      ]
+    }
+  ],
+  "K0048": [
+    {
+      "word": "大きい",
+      "reading": "おおきい",
+      "meaning": "grande"
+    },
+    {
+      "word": "大変",
+      "reading": "たいへん",
+      "meaning": "duro / difícil"
+    },
+    {
+      "word": "大丈夫",
+      "reading": "だいじょうぶ",
+      "meaning": "estar bien / sin problema"
+    },
+    {
+      "word": "大切",
+      "reading": "たいせつ",
+      "meaning": "importante / valioso"
+    },
+    {
+      "word": "大学",
+      "reading": "だいがく",
+      "meaning": "universidad"
+    }
+  ],
+  "K0049": [
+    {
+      "word": "小さい",
+      "reading": "ちいさい",
+      "meaning": "pequeño"
+    },
+    {
+      "word": "小学校",
+      "reading": "しょうがっこう",
+      "meaning": "escuela primaria",
+      "parts": [
+        "しょう",
+        "がっ",
+        "こう"
+      ]
+    },
+    {
+      "word": "小川",
+      "reading": "おがわ",
+      "meaning": "arroyo",
+      "parts": [
+        "お",
+        "がわ"
+      ]
+    },
+    {
+      "word": "犬小屋",
+      "reading": "いぬごや",
+      "meaning": "caseta de perro",
+      "parts": [
+        "いぬ",
+        "ご",
+        "や"
+      ]
+    },
+    {
+      "word": "小鳥",
+      "reading": "ことり",
+      "meaning": "pajarito",
+      "parts": [
+        "こ",
+        "とり"
+      ]
+    }
+  ],
+  "K0050": [
+    {
+      "word": "高い",
+      "reading": "たかい",
+      "meaning": "caro / alto"
+    },
+    {
+      "word": "円高",
+      "reading": "えんだか",
+      "meaning": "apreciación del yen",
+      "parts": [
+        "えん",
+        "だか"
+      ]
+    },
+    {
+      "word": "高校",
+      "reading": "こうこう",
+      "meaning": "bachillerato",
+      "parts": [
+        "こう",
+        "こう"
+      ]
+    },
+    {
+      "word": "最高",
+      "reading": "さいこう",
+      "meaning": "el mejor; máximo",
+      "parts": [
+        "さい",
+        "こう"
+      ]
+    }
+  ],
+  "K0051": [
+    {
+      "word": "安い",
+      "reading": "やすい",
+      "meaning": "barato"
+    },
+    {
+      "word": "安全",
+      "reading": "あんぜん",
+      "meaning": "seguro"
+    },
+    {
+      "word": "円安",
+      "reading": "えんやす",
+      "meaning": "depreciación del yen",
+      "parts": [
+        "えん",
+        "やす"
+      ]
+    },
+    {
+      "word": "安心",
+      "reading": "あんしん",
+      "meaning": "tranquilidad",
+      "parts": [
+        "あん",
+        "しん"
+      ]
+    }
+  ],
+  "K0052": [
+    {
+      "word": "新しい",
+      "reading": "あたらしい",
+      "meaning": "nuevo"
+    },
+    {
+      "word": "新幹線",
+      "reading": "しんかんせん",
+      "meaning": "tren bala"
+    },
+    {
+      "word": "新聞",
+      "reading": "しんぶん",
+      "meaning": "periódico",
+      "parts": [
+        "しん",
+        "ぶん"
+      ]
+    },
+    {
+      "word": "新年",
+      "reading": "しんねん",
+      "meaning": "año nuevo",
+      "parts": [
+        "しん",
+        "ねん"
+      ]
+    }
+  ],
+  "K0053": [
+    {
+      "word": "古い",
+      "reading": "ふるい",
+      "meaning": "viejo"
+    },
+    {
+      "word": "中古",
+      "reading": "ちゅうこ",
+      "meaning": "de segunda mano",
+      "parts": [
+        "ちゅう",
+        "こ"
+      ]
+    },
+    {
+      "word": "古本",
+      "reading": "ふるほん",
+      "meaning": "libro usado",
+      "parts": [
+        "ふる",
+        "ほん"
+      ]
+    }
+  ],
+  "K0054": [
+    {
+      "word": "長い",
+      "reading": "ながい",
+      "meaning": "largo"
+    },
+    {
+      "word": "社長",
+      "reading": "しゃちょう",
+      "meaning": "presidente de empresa",
+      "parts": [
+        "しゃ",
+        "ちょう"
+      ]
+    },
+    {
+      "word": "長男",
+      "reading": "ちょうなん",
+      "meaning": "hijo mayor",
+      "parts": [
+        "ちょう",
+        "なん"
+      ]
+    },
+    {
+      "word": "校長",
+      "reading": "こうちょう",
+      "meaning": "director escolar",
+      "parts": [
+        "こう",
+        "ちょう"
+      ]
+    },
+    {
+      "word": "店長",
+      "reading": "てんちょう",
+      "meaning": "gerente de tienda",
+      "parts": [
+        "てん",
+        "ちょう"
+      ]
+    }
+  ],
+  "K0055": [
+    {
+      "word": "多い",
+      "reading": "おおい",
+      "meaning": "muchos",
+      "parts": [
+        "おお",
+        "い"
+      ]
+    },
+    {
+      "word": "多分",
+      "reading": "たぶん",
+      "meaning": "probablemente",
+      "parts": [
+        "た",
+        "ぶん"
+      ]
+    },
+    {
+      "word": "多少",
+      "reading": "たしょう",
+      "meaning": "más o menos; cantidad",
+      "parts": [
+        "た",
+        "しょう"
+      ]
+    }
+  ],
+  "K0056": [
+    {
+      "word": "多少",
+      "reading": "たしょう",
+      "meaning": "más o menos; cantidad",
+      "parts": [
+        "た",
+        "しょう"
+      ]
+    },
+    {
+      "word": "少ない",
+      "reading": "すくない",
+      "meaning": "pocos"
+    },
+    {
+      "word": "少年",
+      "reading": "しょうねん",
+      "meaning": "muchacho",
+      "parts": [
+        "しょう",
+        "ねん"
+      ]
+    },
+    {
+      "word": "少女",
+      "reading": "しょうじょ",
+      "meaning": "muchacha",
+      "parts": [
+        "しょう",
+        "じょ"
+      ]
+    }
+  ],
+  "K0057": [
+    {
+      "word": "面白い",
+      "reading": "おもしろい",
+      "meaning": "interesante"
+    },
+    {
+      "word": "白い",
+      "reading": "しろい",
+      "meaning": "blanco",
+      "parts": [
+        "しろ",
+        "い"
+      ]
+    },
+    {
+      "word": "白紙",
+      "reading": "はくし",
+      "meaning": "hoja en blanco",
+      "parts": [
+        "はく",
+        "し"
+      ]
+    },
+    {
+      "word": "白鳥",
+      "reading": "はくちょう",
+      "meaning": "cisne",
+      "parts": [
+        "はく",
+        "ちょう"
+      ]
+    }
+  ],
+  "K0058": [
+    {
+      "word": "黒い",
+      "reading": "くろい",
+      "meaning": "negro",
+      "parts": [
+        "くろ",
+        "い"
+      ]
+    },
+    {
+      "word": "黒板",
+      "reading": "こくばん",
+      "meaning": "pizarra",
+      "parts": [
+        "こく",
+        "ばん"
+      ]
+    },
+    {
+      "word": "黒字",
+      "reading": "くろじ",
+      "meaning": "superávit",
+      "parts": [
+        "くろ",
+        "じ"
+      ]
+    },
+    {
+      "word": "黒猫",
+      "reading": "くろねこ",
+      "meaning": "gato negro",
+      "parts": [
+        "くろ",
+        "ねこ"
+      ]
+    }
+  ],
+  "K0059": [
+    {
+      "word": "赤い",
+      "reading": "あかい",
+      "meaning": "rojo",
+      "parts": [
+        "あか",
+        "い"
+      ]
+    },
+    {
+      "word": "赤ちゃん",
+      "reading": "あかちゃん",
+      "meaning": "bebé"
+    },
+    {
+      "word": "赤字",
+      "reading": "あかじ",
+      "meaning": "déficit",
+      "parts": [
+        "あか",
+        "じ"
+      ]
+    }
+  ],
+  "K0060": [
+    {
+      "word": "青い",
+      "reading": "あおい",
+      "meaning": "azul",
+      "parts": [
+        "あお",
+        "い"
+      ]
+    },
+    {
+      "word": "青空",
+      "reading": "あおぞら",
+      "meaning": "cielo azul",
+      "parts": [
+        "あお",
+        "ぞら"
+      ]
+    },
+    {
+      "word": "青年",
+      "reading": "せいねん",
+      "meaning": "joven adulto",
+      "parts": [
+        "せい",
+        "ねん"
+      ]
+    }
+  ],
+  "K0061": [
+    {
+      "word": "恋人",
+      "reading": "こいびと",
+      "meaning": "pareja sentimental"
+    },
+    {
+      "word": "一人",
+      "reading": "ひとり",
+      "meaning": "una persona"
+    },
+    {
+      "word": "三人",
+      "reading": "さんにん",
+      "meaning": "tres personas",
+      "parts": [
+        "さん",
+        "にん"
+      ]
+    },
+    {
+      "word": "四人",
+      "reading": "よにん",
+      "meaning": "cuatro personas",
+      "parts": [
+        "よ",
+        "にん"
+      ]
+    },
+    {
+      "word": "百人",
+      "reading": "ひゃくにん",
+      "meaning": "cien personas",
+      "parts": [
+        "ひゃく",
+        "にん"
+      ]
+    }
+  ],
+  "K0062": [
+    {
+      "word": "長男",
+      "reading": "ちょうなん",
+      "meaning": "hijo mayor",
+      "parts": [
+        "ちょう",
+        "なん"
+      ]
+    },
+    {
+      "word": "男性",
+      "reading": "だんせい",
+      "meaning": "hombre; masculino",
+      "parts": [
+        "だん",
+        "せい"
+      ]
+    },
+    {
+      "word": "男の子",
+      "reading": "おとこのこ",
+      "meaning": "niño",
+      "parts": [
+        "おとこ",
+        "の",
+        "こ"
+      ]
+    }
+  ],
+  "K0063": [
+    {
+      "word": "少女",
+      "reading": "しょうじょ",
+      "meaning": "muchacha",
+      "parts": [
+        "しょう",
+        "じょ"
+      ]
+    },
+    {
+      "word": "女性",
+      "reading": "じょせい",
+      "meaning": "mujer; femenino",
+      "parts": [
+        "じょ",
+        "せい"
+      ]
+    },
+    {
+      "word": "女の子",
+      "reading": "おんなのこ",
+      "meaning": "niña",
+      "parts": [
+        "おんな",
+        "の",
+        "こ"
+      ]
+    },
+    {
+      "word": "彼女",
+      "reading": "かのじょ",
+      "meaning": "ella; novia",
+      "parts": [
+        "かの",
+        "じょ"
+      ]
+    }
+  ],
+  "K0064": [
+    {
+      "word": "子供",
+      "reading": "こども",
+      "meaning": "niño / hijo"
+    },
+    {
+      "word": "帽子",
+      "reading": "ぼうし",
+      "meaning": "sombrero / gorra"
+    },
+    {
+      "word": "椅子",
+      "reading": "いす",
+      "meaning": "silla"
+    },
+    {
+      "word": "男の子",
+      "reading": "おとこのこ",
+      "meaning": "niño",
+      "parts": [
+        "おとこ",
+        "の",
+        "こ"
+      ]
+    },
+    {
+      "word": "女の子",
+      "reading": "おんなのこ",
+      "meaning": "niña",
+      "parts": [
+        "おんな",
+        "の",
+        "こ"
+      ]
+    }
+  ],
+  "K0065": [
+    {
+      "word": "父",
+      "reading": "ちち",
+      "meaning": "mi padre"
+    },
+    {
+      "word": "お父さん",
+      "reading": "おとうさん",
+      "meaning": "padre (trato respetuoso)"
+    },
+    {
+      "word": "祖父",
+      "reading": "そふ",
+      "meaning": "mi abuelo"
+    },
+    {
+      "word": "父親",
+      "reading": "ちちおや",
+      "meaning": "padre",
+      "parts": [
+        "ちち",
+        "おや"
+      ]
+    }
+  ],
+  "K0066": [
+    {
+      "word": "母",
+      "reading": "はは",
+      "meaning": "mi madre"
+    },
+    {
+      "word": "お母さん",
+      "reading": "おかあさん",
+      "meaning": "madre (trato respetuoso)"
+    },
+    {
+      "word": "祖母",
+      "reading": "そぼ",
+      "meaning": "mi abuela"
+    },
+    {
+      "word": "母親",
+      "reading": "ははおや",
+      "meaning": "madre",
+      "parts": [
+        "はは",
+        "おや"
+      ]
+    }
+  ],
+  "K0067": [
+    {
+      "word": "兄",
+      "reading": "あに",
+      "meaning": "mi hermano mayor"
+    },
+    {
+      "word": "お兄さん",
+      "reading": "おにいさん",
+      "meaning": "hermano mayor (respetuoso)"
+    },
+    {
+      "word": "兄弟",
+      "reading": "きょうだい",
+      "meaning": "hermanos"
+    }
+  ],
+  "K0068": [
+    {
+      "word": "姉",
+      "reading": "あね",
+      "meaning": "mi hermana mayor"
+    },
+    {
+      "word": "お姉さん",
+      "reading": "おねえさん",
+      "meaning": "hermana mayor (respetuoso)"
+    },
+    {
+      "word": "姉妹",
+      "reading": "しまい",
+      "meaning": "hermanas",
+      "parts": [
+        "し",
+        "まい"
+      ]
+    }
+  ],
+  "K0069": [
+    {
+      "word": "弟",
+      "reading": "おとうと",
+      "meaning": "hermano menor"
+    },
+    {
+      "word": "兄弟",
+      "reading": "きょうだい",
+      "meaning": "hermanos"
+    },
+    {
+      "word": "弟さん",
+      "reading": "おとうとさん",
+      "meaning": "hermano menor de otra persona",
+      "parts": [
+        "お",
+        "とうと",
+        "さん"
+      ]
+    }
+  ],
+  "K0070": [
+    {
+      "word": "妹",
+      "reading": "いもうと",
+      "meaning": "hermana menor"
+    },
+    {
+      "word": "姉妹",
+      "reading": "しまい",
+      "meaning": "hermanas",
+      "parts": [
+        "し",
+        "まい"
+      ]
+    },
+    {
+      "word": "妹さん",
+      "reading": "いもうとさん",
+      "meaning": "hermana menor de otra persona"
+    }
+  ],
+  "K0071": [
+    {
+      "word": "友達",
+      "reading": "ともだち",
+      "meaning": "amigo"
+    },
+    {
+      "word": "友人",
+      "reading": "ゆうじん",
+      "meaning": "amigo; conocido",
+      "parts": [
+        "ゆう",
+        "じん"
+      ]
+    },
+    {
+      "word": "親友",
+      "reading": "しんゆう",
+      "meaning": "mejor amigo",
+      "parts": [
+        "しん",
+        "ゆう"
+      ]
+    }
+  ],
+  "K0072": [
+    {
+      "word": "有名",
+      "reading": "ゆうめい",
+      "meaning": "famoso"
+    },
+    {
+      "word": "名前",
+      "reading": "なまえ",
+      "meaning": "nombre"
+    },
+    {
+      "word": "名字",
+      "reading": "みょうじ",
+      "meaning": "apellido",
+      "parts": [
+        "みょう",
+        "じ"
+      ]
+    }
+  ],
+  "K0073": [
+    {
+      "word": "私立",
+      "reading": "しりつ",
+      "meaning": "privado; institución privada",
+      "parts": [
+        "し",
+        "りつ"
+      ]
+    },
+    {
+      "word": "私たち",
+      "reading": "わたしたち",
+      "meaning": "nosotros"
+    },
+    {
+      "word": "私物",
+      "reading": "しぶつ",
+      "meaning": "pertenencias personales",
+      "parts": [
+        "し",
+        "ぶつ"
+      ]
+    }
+  ],
+  "K0074": [
+    {
+      "word": "家族",
+      "reading": "かぞく",
+      "meaning": "familia"
+    },
+    {
+      "word": "家",
+      "reading": "いえ",
+      "meaning": "casa"
+    },
+    {
+      "word": "家事",
+      "reading": "かじ",
+      "meaning": "tareas domésticas",
+      "parts": [
+        "か",
+        "じ"
+      ]
+    },
+    {
+      "word": "家賃",
+      "reading": "やちん",
+      "meaning": "alquiler",
+      "parts": [
+        "や",
+        "ちん"
+      ]
+    }
+  ],
+  "K0075": [
+    {
+      "word": "先生",
+      "reading": "せんせい",
+      "meaning": "profesor",
+      "parts": [
+        "せん",
+        "せい"
+      ]
+    },
+    {
+      "word": "学生",
+      "reading": "がくせい",
+      "meaning": "estudiante",
+      "parts": [
+        "がく",
+        "せい"
+      ]
+    },
+    {
+      "word": "生活",
+      "reading": "せいかつ",
+      "meaning": "vida cotidiana",
+      "parts": [
+        "せい",
+        "かつ"
+      ]
+    },
+    {
+      "word": "同級生",
+      "reading": "どうきゅうせい",
+      "meaning": "compañero de clase",
+      "parts": [
+        "どう",
+        "きゅう",
+        "せい"
+      ]
+    }
+  ],
+  "K0076": [
+    {
+      "word": "学校",
+      "reading": "がっこう",
+      "meaning": "escuela"
+    },
+    {
+      "word": "大学",
+      "reading": "だいがく",
+      "meaning": "universidad"
+    },
+    {
+      "word": "中学校",
+      "reading": "ちゅうがっこう",
+      "meaning": "escuela secundaria",
+      "parts": [
+        "ちゅう",
+        "がっ",
+        "こう"
+      ]
+    },
+    {
+      "word": "小学校",
+      "reading": "しょうがっこう",
+      "meaning": "escuela primaria",
+      "parts": [
+        "しょう",
+        "がっ",
+        "こう"
+      ]
+    },
+    {
+      "word": "学生",
+      "reading": "がくせい",
+      "meaning": "estudiante",
+      "parts": [
+        "がく",
+        "せい"
+      ]
+    }
+  ],
+  "K0077": [
+    {
+      "word": "学校",
+      "reading": "がっこう",
+      "meaning": "escuela"
+    },
+    {
+      "word": "中学校",
+      "reading": "ちゅうがっこう",
+      "meaning": "escuela secundaria",
+      "parts": [
+        "ちゅう",
+        "がっ",
+        "こう"
+      ]
+    },
+    {
+      "word": "小学校",
+      "reading": "しょうがっこう",
+      "meaning": "escuela primaria",
+      "parts": [
+        "しょう",
+        "がっ",
+        "こう"
+      ]
+    },
+    {
+      "word": "高校",
+      "reading": "こうこう",
+      "meaning": "bachillerato",
+      "parts": [
+        "こう",
+        "こう"
+      ]
+    },
+    {
+      "word": "校長",
+      "reading": "こうちょう",
+      "meaning": "director escolar",
+      "parts": [
+        "こう",
+        "ちょう"
+      ]
+    }
+  ],
+  "K0078": [
+    {
+      "word": "日本語",
+      "reading": "にほんご",
+      "meaning": "idioma japonés"
+    },
+    {
+      "word": "日本",
+      "reading": "にほん",
+      "meaning": "Japón",
+      "parts": [
+        "に",
+        "ほん"
+      ]
+    },
+    {
+      "word": "西日本",
+      "reading": "にしにほん",
+      "meaning": "oeste de Japón",
+      "parts": [
+        "にし",
+        "に",
+        "ほん"
+      ]
+    },
+    {
+      "word": "古本",
+      "reading": "ふるほん",
+      "meaning": "libro usado",
+      "parts": [
+        "ふる",
+        "ほん"
+      ]
+    },
+    {
+      "word": "本屋",
+      "reading": "ほんや",
+      "meaning": "librería",
+      "parts": [
+        "ほん",
+        "や"
+      ]
+    }
+  ],
+  "K0079": [
+    {
+      "word": "日本語",
+      "reading": "にほんご",
+      "meaning": "idioma japonés"
+    },
+    {
+      "word": "英語",
+      "reading": "えいご",
+      "meaning": "idioma inglés"
+    },
+    {
+      "word": "言語",
+      "reading": "げんご",
+      "meaning": "idioma; lenguaje",
+      "parts": [
+        "げん",
+        "ご"
+      ]
+    },
+    {
+      "word": "単語",
+      "reading": "たんご",
+      "meaning": "palabra; vocablo",
+      "parts": [
+        "たん",
+        "ご"
+      ]
+    },
+    {
+      "word": "口語",
+      "reading": "こうご",
+      "meaning": "lengua hablada",
+      "parts": [
+        "こう",
+        "ご"
+      ]
+    }
+  ],
+  "K0080": [
+    {
+      "word": "注文する",
+      "reading": "ちゅうもんする",
+      "meaning": "pedir en restaurante"
+    },
+    {
+      "word": "文化",
+      "reading": "ぶんか",
+      "meaning": "cultura",
+      "parts": [
+        "ぶん",
+        "か"
+      ]
+    },
+    {
+      "word": "作文",
+      "reading": "さくぶん",
+      "meaning": "redacción",
+      "parts": [
+        "さく",
+        "ぶん"
+      ]
+    },
+    {
+      "word": "文章",
+      "reading": "ぶんしょう",
+      "meaning": "texto; oración",
+      "parts": [
+        "ぶん",
+        "しょう"
+      ]
+    },
+    {
+      "word": "文字",
+      "reading": "もじ",
+      "meaning": "carácter escrito",
+      "parts": [
+        "も",
+        "じ"
+      ]
+    }
+  ],
+  "K0081": [
+    {
+      "word": "黒字",
+      "reading": "くろじ",
+      "meaning": "superávit",
+      "parts": [
+        "くろ",
+        "じ"
+      ]
+    },
+    {
+      "word": "赤字",
+      "reading": "あかじ",
+      "meaning": "déficit",
+      "parts": [
+        "あか",
+        "じ"
+      ]
+    },
+    {
+      "word": "名字",
+      "reading": "みょうじ",
+      "meaning": "apellido",
+      "parts": [
+        "みょう",
+        "じ"
+      ]
+    },
+    {
+      "word": "文字",
+      "reading": "もじ",
+      "meaning": "carácter escrito",
+      "parts": [
+        "も",
+        "じ"
+      ]
+    },
+    {
+      "word": "漢字",
+      "reading": "かんじ",
+      "meaning": "kanji",
+      "parts": [
+        "かん",
+        "じ"
+      ]
+    }
+  ],
+  "K0082": [
+    {
+      "word": "図書館",
+      "reading": "としょかん",
+      "meaning": "biblioteca"
+    },
+    {
+      "word": "書く",
+      "reading": "かく",
+      "meaning": "escribir"
+    },
+    {
+      "word": "辞書",
+      "reading": "じしょ",
+      "meaning": "diccionario",
+      "parts": [
+        "じ",
+        "しょ"
+      ]
+    },
+    {
+      "word": "読書",
+      "reading": "どくしょ",
+      "meaning": "lectura de libros",
+      "parts": [
+        "どく",
+        "しょ"
+      ]
+    }
+  ],
+  "K0083": [
+    {
+      "word": "読む",
+      "reading": "よむ",
+      "meaning": "leer"
+    },
+    {
+      "word": "読書",
+      "reading": "どくしょ",
+      "meaning": "lectura de libros",
+      "parts": [
+        "どく",
+        "しょ"
+      ]
+    },
+    {
+      "word": "読み方",
+      "reading": "よみかた",
+      "meaning": "manera de leer",
+      "parts": [
+        "よ",
+        "み",
+        "かた"
+      ]
+    }
+  ],
+  "K0084": [
+    {
+      "word": "聞く",
+      "reading": "きく",
+      "meaning": "escuchar / preguntar"
+    },
+    {
+      "word": "新聞",
+      "reading": "しんぶん",
+      "meaning": "periódico",
+      "parts": [
+        "しん",
+        "ぶん"
+      ]
+    },
+    {
+      "word": "聞こえる",
+      "reading": "きこえる",
+      "meaning": "oírse"
+    }
+  ],
+  "K0085": [
+    {
+      "word": "携帯電話",
+      "reading": "けいたいでんわ",
+      "meaning": "teléfono móvil"
+    },
+    {
+      "word": "話す",
+      "reading": "はなす",
+      "meaning": "hablar"
+    },
+    {
+      "word": "電話する",
+      "reading": "でんわする",
+      "meaning": "llamar por teléfono"
+    },
+    {
+      "word": "電話",
+      "reading": "でんわ",
+      "meaning": "teléfono",
+      "parts": [
+        "でん",
+        "わ"
+      ]
+    },
+    {
+      "word": "会話",
+      "reading": "かいわ",
+      "meaning": "conversación",
+      "parts": [
+        "かい",
+        "わ"
+      ]
+    }
+  ],
+  "K0086": [
+    {
+      "word": "言葉",
+      "reading": "ことば",
+      "meaning": "palabra / idioma"
+    },
+    {
+      "word": "言う",
+      "reading": "いう",
+      "meaning": "decir"
+    },
+    {
+      "word": "言語",
+      "reading": "げんご",
+      "meaning": "idioma; lenguaje",
+      "parts": [
+        "げん",
+        "ご"
+      ]
+    },
+    {
+      "word": "方言",
+      "reading": "ほうげん",
+      "meaning": "dialecto",
+      "parts": [
+        "ほう",
+        "げん"
+      ]
+    }
+  ],
+  "K0087": [
+    {
+      "word": "見る",
+      "reading": "みる",
+      "meaning": "ver"
+    },
+    {
+      "word": "見つける",
+      "reading": "みつける",
+      "meaning": "encontrar"
+    },
+    {
+      "word": "見学",
+      "reading": "けんがく",
+      "meaning": "visita de estudio",
+      "parts": [
+        "けん",
+        "がく"
+      ]
+    },
+    {
+      "word": "見える",
+      "reading": "みえる",
+      "meaning": "verse; ser visible"
+    },
+    {
+      "word": "意見",
+      "reading": "いけん",
+      "meaning": "opinión",
+      "parts": [
+        "い",
+        "けん"
+      ]
+    }
+  ],
+  "K0088": [
+    {
+      "word": "飛行機",
+      "reading": "ひこうき",
+      "meaning": "avión"
+    },
+    {
+      "word": "銀行",
+      "reading": "ぎんこう",
+      "meaning": "banco"
+    },
+    {
+      "word": "行く",
+      "reading": "いく",
+      "meaning": "ir"
+    },
+    {
+      "word": "旅行する",
+      "reading": "りょこうする",
+      "meaning": "viajar"
+    },
+    {
+      "word": "旅行",
+      "reading": "りょこう",
+      "meaning": "viaje",
+      "parts": [
+        "りょ",
+        "こう"
+      ]
+    }
+  ],
+  "K0089": [
+    {
+      "word": "帰る",
+      "reading": "かえる",
+      "meaning": "regresar a casa"
+    },
+    {
+      "word": "帰国",
+      "reading": "きこく",
+      "meaning": "regresar al país",
+      "parts": [
+        "き",
+        "こく"
+      ]
+    },
+    {
+      "word": "帰宅",
+      "reading": "きたく",
+      "meaning": "regresar a casa",
+      "parts": [
+        "き",
+        "たく"
+      ]
+    }
+  ],
+  "K0090": [
+    {
+      "word": "出口",
+      "reading": "でぐち",
+      "meaning": "salida"
+    },
+    {
+      "word": "出る",
+      "reading": "でる",
+      "meaning": "salir"
+    },
+    {
+      "word": "出発する",
+      "reading": "しゅっぱつする",
+      "meaning": "partir"
+    },
+    {
+      "word": "出来る",
+      "reading": "できる",
+      "meaning": "poder; ser capaz",
+      "parts": [
+        "で",
+        "き",
+        "る"
+      ]
+    },
+    {
+      "word": "外出",
+      "reading": "がいしゅつ",
+      "meaning": "salida; salir",
+      "parts": [
+        "がい",
+        "しゅつ"
+      ]
+    }
+  ],
+  "K0091": [
+    {
+      "word": "入口",
+      "reading": "いりぐち",
+      "meaning": "entrada"
+    },
+    {
+      "word": "入る",
+      "reading": "はいる",
+      "meaning": "entrar"
+    },
+    {
+      "word": "入学",
+      "reading": "にゅうがく",
+      "meaning": "ingreso escolar",
+      "parts": [
+        "にゅう",
+        "がく"
+      ]
+    },
+    {
+      "word": "入院",
+      "reading": "にゅういん",
+      "meaning": "hospitalización",
+      "parts": [
+        "にゅう",
+        "いん"
+      ]
+    }
+  ],
+  "K0092": [
+    {
+      "word": "食べる",
+      "reading": "たべる",
+      "meaning": "comer"
+    },
+    {
+      "word": "食事",
+      "reading": "しょくじ",
+      "meaning": "comida; acto de comer",
+      "parts": [
+        "しょく",
+        "じ"
+      ]
+    },
+    {
+      "word": "食堂",
+      "reading": "しょくどう",
+      "meaning": "comedor",
+      "parts": [
+        "しょく",
+        "どう"
+      ]
+    },
+    {
+      "word": "飲食店",
+      "reading": "いんしょくてん",
+      "meaning": "establecimiento de comidas y bebidas",
+      "parts": [
+        "いん",
+        "しょく",
+        "てん"
+      ]
+    }
+  ],
+  "K0093": [
+    {
+      "word": "飲む",
+      "reading": "のむ",
+      "meaning": "beber"
+    },
+    {
+      "word": "飲み物",
+      "reading": "のみもの",
+      "meaning": "bebida",
+      "parts": [
+        "の",
+        "み",
+        "もの"
+      ]
+    },
+    {
+      "word": "飲食店",
+      "reading": "いんしょくてん",
+      "meaning": "establecimiento de comidas y bebidas",
+      "parts": [
+        "いん",
+        "しょく",
+        "てん"
+      ]
+    }
+  ],
+  "K0094": [
+    {
+      "word": "買う",
+      "reading": "かう",
+      "meaning": "comprar"
+    },
+    {
+      "word": "買い物",
+      "reading": "かいもの",
+      "meaning": "compras",
+      "parts": [
+        "か",
+        "い",
+        "もの"
+      ]
+    },
+    {
+      "word": "買い手",
+      "reading": "かいて",
+      "meaning": "comprador",
+      "parts": [
+        "か",
+        "い",
+        "て"
+      ]
+    }
+  ],
+  "K0095": [
+    {
+      "word": "売る",
+      "reading": "うる",
+      "meaning": "vender"
+    },
+    {
+      "word": "売店",
+      "reading": "ばいてん",
+      "meaning": "puesto de venta",
+      "parts": [
+        "ばい",
+        "てん"
+      ]
+    },
+    {
+      "word": "売り場",
+      "reading": "うりば",
+      "meaning": "sección de ventas",
+      "parts": [
+        "う",
+        "り",
+        "ば"
+      ]
+    }
+  ],
+  "K0096": [
+    {
+      "word": "休む",
+      "reading": "やすむ",
+      "meaning": "descansar / faltar"
+    },
+    {
+      "word": "休日",
+      "reading": "きゅうじつ",
+      "meaning": "día libre",
+      "parts": [
+        "きゅう",
+        "じつ"
+      ]
+    },
+    {
+      "word": "休み時間",
+      "reading": "やすみじかん",
+      "meaning": "recreo; descanso",
+      "parts": [
+        "やす",
+        "み",
+        "じ",
+        "かん"
+      ]
+    }
+  ],
+  "K0097": [
+    {
+      "word": "働く",
+      "reading": "はたらく",
+      "meaning": "trabajar"
+    },
+    {
+      "word": "労働",
+      "reading": "ろうどう",
+      "meaning": "trabajo laboral",
+      "parts": [
+        "ろう",
+        "どう"
+      ]
+    },
+    {
+      "word": "共働き",
+      "reading": "ともばたらき",
+      "meaning": "pareja en la que ambos trabajan",
+      "parts": [
+        "とも",
+        "ばたら",
+        "き"
+      ]
+    }
+  ],
+  "K0098": [
+    {
+      "word": "会社",
+      "reading": "かいしゃ",
+      "meaning": "empresa"
+    },
+    {
+      "word": "会議",
+      "reading": "かいぎ",
+      "meaning": "reunión"
+    },
+    {
+      "word": "会う",
+      "reading": "あう",
+      "meaning": "encontrarse con"
+    },
+    {
+      "word": "会話",
+      "reading": "かいわ",
+      "meaning": "conversación",
+      "parts": [
+        "かい",
+        "わ"
+      ]
+    },
+    {
+      "word": "社会",
+      "reading": "しゃかい",
+      "meaning": "sociedad",
+      "parts": [
+        "しゃ",
+        "かい"
+      ]
+    }
+  ],
+  "K0099": [
+    {
+      "word": "会社",
+      "reading": "かいしゃ",
+      "meaning": "empresa"
+    },
+    {
+      "word": "社長",
+      "reading": "しゃちょう",
+      "meaning": "presidente de empresa",
+      "parts": [
+        "しゃ",
+        "ちょう"
+      ]
+    },
+    {
+      "word": "社会",
+      "reading": "しゃかい",
+      "meaning": "sociedad",
+      "parts": [
+        "しゃ",
+        "かい"
+      ]
+    },
+    {
+      "word": "社員",
+      "reading": "しゃいん",
+      "meaning": "empleado de empresa",
+      "parts": [
+        "しゃ",
+        "いん"
+      ]
+    }
+  ],
+  "K0100": [
+    {
+      "word": "店員",
+      "reading": "てんいん",
+      "meaning": "empleado de tienda"
+    },
+    {
+      "word": "喫茶店",
+      "reading": "きっさてん",
+      "meaning": "cafetería"
+    },
+    {
+      "word": "飲食店",
+      "reading": "いんしょくてん",
+      "meaning": "establecimiento de comidas y bebidas",
+      "parts": [
+        "いん",
+        "しょく",
+        "てん"
+      ]
+    },
+    {
+      "word": "売店",
+      "reading": "ばいてん",
+      "meaning": "puesto de venta",
+      "parts": [
+        "ばい",
+        "てん"
+      ]
+    },
+    {
+      "word": "店長",
+      "reading": "てんちょう",
+      "meaning": "gerente de tienda",
+      "parts": [
+        "てん",
+        "ちょう"
+      ]
+    }
+  ],
+  "K0101": [
+    {
+      "word": "駅",
+      "reading": "えき",
+      "meaning": "estación"
+    },
+    {
+      "word": "駅前",
+      "reading": "えきまえ",
+      "meaning": "frente a la estación",
+      "parts": [
+        "えき",
+        "まえ"
+      ]
+    },
+    {
+      "word": "駅員",
+      "reading": "えきいん",
+      "meaning": "empleado de estación",
+      "parts": [
+        "えき",
+        "いん"
+      ]
+    },
+    {
+      "word": "東京駅",
+      "reading": "とうきょうえき",
+      "meaning": "estación de Tokio",
+      "parts": [
+        "とう",
+        "きょう",
+        "えき"
+      ]
+    }
+  ],
+  "K0102": [
+    {
+      "word": "電車",
+      "reading": "でんしゃ",
+      "meaning": "tren"
+    },
+    {
+      "word": "携帯電話",
+      "reading": "けいたいでんわ",
+      "meaning": "teléfono móvil"
+    },
+    {
+      "word": "電話する",
+      "reading": "でんわする",
+      "meaning": "llamar por teléfono"
+    },
+    {
+      "word": "充電器",
+      "reading": "じゅうでんき",
+      "meaning": "cargador"
+    },
+    {
+      "word": "電池",
+      "reading": "でんち",
+      "meaning": "pila / batería"
+    }
+  ],
+  "K0103": [
+    {
+      "word": "電車",
+      "reading": "でんしゃ",
+      "meaning": "tren"
+    },
+    {
+      "word": "自転車",
+      "reading": "じてんしゃ",
+      "meaning": "bicicleta"
+    },
+    {
+      "word": "車",
+      "reading": "くるま",
+      "meaning": "automóvil"
+    },
+    {
+      "word": "車内",
+      "reading": "しゃない",
+      "meaning": "interior del vehículo",
+      "parts": [
+        "しゃ",
+        "ない"
+      ]
+    },
+    {
+      "word": "車道",
+      "reading": "しゃどう",
+      "meaning": "calzada",
+      "parts": [
+        "しゃ",
+        "どう"
+      ]
+    }
+  ],
+  "K0104": [
+    {
+      "word": "道",
+      "reading": "みち",
+      "meaning": "camino / calle"
+    },
+    {
+      "word": "水道",
+      "reading": "すいどう",
+      "meaning": "agua corriente",
+      "parts": [
+        "すい",
+        "どう"
+      ]
+    },
+    {
+      "word": "北海道",
+      "reading": "ほっかいどう",
+      "meaning": "Hokkaidō",
+      "parts": [
+        "ほっ",
+        "かい",
+        "どう"
+      ]
+    },
+    {
+      "word": "車道",
+      "reading": "しゃどう",
+      "meaning": "calzada",
+      "parts": [
+        "しゃ",
+        "どう"
+      ]
+    },
+    {
+      "word": "道路",
+      "reading": "どうろ",
+      "meaning": "carretera",
+      "parts": [
+        "どう",
+        "ろ"
+      ]
+    }
+  ],
+  "K0105": [
+    {
+      "word": "通る",
+      "reading": "とおる",
+      "meaning": "pasar por",
+      "parts": [
+        "とお",
+        "る"
+      ]
+    },
+    {
+      "word": "通学",
+      "reading": "つうがく",
+      "meaning": "ir a la escuela",
+      "parts": [
+        "つう",
+        "がく"
+      ]
+    },
+    {
+      "word": "交通",
+      "reading": "こうつう",
+      "meaning": "tránsito; transporte",
+      "parts": [
+        "こう",
+        "つう"
+      ]
+    }
+  ],
+  "K0106": [
+    {
+      "word": "乗り場",
+      "reading": "のりば",
+      "meaning": "parada / andén de salida"
+    },
+    {
+      "word": "乗る",
+      "reading": "のる",
+      "meaning": "subir a transporte"
+    },
+    {
+      "word": "乗車",
+      "reading": "じょうしゃ",
+      "meaning": "subir a un vehículo",
+      "parts": [
+        "じょう",
+        "しゃ"
+      ]
+    },
+    {
+      "word": "乗り物",
+      "reading": "のりもの",
+      "meaning": "medio de transporte",
+      "parts": [
+        "の",
+        "り",
+        "もの"
+      ]
+    },
+    {
+      "word": "乗馬",
+      "reading": "じょうば",
+      "meaning": "equitación",
+      "parts": [
+        "じょう",
+        "ば"
+      ]
+    }
+  ],
+  "K0107": [
+    {
+      "word": "降りる",
+      "reading": "おりる",
+      "meaning": "bajar de transporte"
+    },
+    {
+      "word": "降る",
+      "reading": "ふる",
+      "meaning": "caer lluvia o nieve",
+      "parts": [
+        "ふ",
+        "る"
+      ]
+    },
+    {
+      "word": "降車",
+      "reading": "こうしゃ",
+      "meaning": "bajarse de un vehículo",
+      "parts": [
+        "こう",
+        "しゃ"
+      ]
+    }
+  ],
+  "K0108": [
+    {
+      "word": "歩く",
+      "reading": "あるく",
+      "meaning": "caminar"
+    },
+    {
+      "word": "散歩",
+      "reading": "さんぽ",
+      "meaning": "paseo",
+      "parts": [
+        "さん",
+        "ぽ"
+      ]
+    },
+    {
+      "word": "徒歩",
+      "reading": "とほ",
+      "meaning": "a pie",
+      "parts": [
+        "と",
+        "ほ"
+      ]
+    }
+  ],
+  "K0109": [
+    {
+      "word": "走る",
+      "reading": "はしる",
+      "meaning": "correr"
+    },
+    {
+      "word": "走行",
+      "reading": "そうこう",
+      "meaning": "circulación de vehículo",
+      "parts": [
+        "そう",
+        "こう"
+      ]
+    },
+    {
+      "word": "競走",
+      "reading": "きょうそう",
+      "meaning": "carrera competitiva",
+      "parts": [
+        "きょう",
+        "そう"
+      ]
+    }
+  ],
+  "K0110": [
+    {
+      "word": "止める",
+      "reading": "とめる",
+      "meaning": "detener algo"
+    },
+    {
+      "word": "止まる",
+      "reading": "とまる",
+      "meaning": "detenerse"
+    },
+    {
+      "word": "中止",
+      "reading": "ちゅうし",
+      "meaning": "cancelación",
+      "parts": [
+        "ちゅう",
+        "し"
+      ]
+    },
+    {
+      "word": "禁止",
+      "reading": "きんし",
+      "meaning": "prohibición",
+      "parts": [
+        "きん",
+        "し"
+      ]
+    }
+  ],
+  "K0111": [
+    {
+      "word": "立つ",
+      "reading": "たつ",
+      "meaning": "ponerse de pie"
+    },
+    {
+      "word": "私立",
+      "reading": "しりつ",
+      "meaning": "privado; institución privada",
+      "parts": [
+        "し",
+        "りつ"
+      ]
+    },
+    {
+      "word": "立場",
+      "reading": "たちば",
+      "meaning": "posición; situación",
+      "parts": [
+        "たち",
+        "ば"
+      ]
+    },
+    {
+      "word": "国立",
+      "reading": "こくりつ",
+      "meaning": "nacional; estatal",
+      "parts": [
+        "こく",
+        "りつ"
+      ]
+    },
+    {
+      "word": "目立つ",
+      "reading": "めだつ",
+      "meaning": "destacar",
+      "parts": [
+        "め",
+        "だ",
+        "つ"
+      ]
+    }
+  ],
+  "K0112": [
+    {
+      "word": "出口",
+      "reading": "でぐち",
+      "meaning": "salida"
+    },
+    {
+      "word": "入口",
+      "reading": "いりぐち",
+      "meaning": "entrada"
+    },
+    {
+      "word": "口",
+      "reading": "くち",
+      "meaning": "boca"
+    },
+    {
+      "word": "東口",
+      "reading": "ひがしぐち",
+      "meaning": "salida este",
+      "parts": [
+        "ひがし",
+        "ぐち"
+      ]
+    },
+    {
+      "word": "西口",
+      "reading": "にしぐち",
+      "meaning": "salida oeste",
+      "parts": [
+        "にし",
+        "ぐち"
+      ]
+    }
+  ],
+  "K0113": [
+    {
+      "word": "真面目",
+      "reading": "まじめ",
+      "meaning": "serio / aplicado"
+    },
+    {
+      "word": "目",
+      "reading": "め",
+      "meaning": "ojo"
+    },
+    {
+      "word": "目立つ",
+      "reading": "めだつ",
+      "meaning": "destacar",
+      "parts": [
+        "め",
+        "だ",
+        "つ"
+      ]
+    },
+    {
+      "word": "目的",
+      "reading": "もくてき",
+      "meaning": "objetivo",
+      "parts": [
+        "もく",
+        "てき"
+      ]
+    },
+    {
+      "word": "目薬",
+      "reading": "めぐすり",
+      "meaning": "gotas para los ojos",
+      "parts": [
+        "め",
+        "ぐすり"
+      ]
+    }
+  ],
+  "K0114": [
+    {
+      "word": "耳",
+      "reading": "みみ",
+      "meaning": "oreja / oído"
+    },
+    {
+      "word": "耳鼻科",
+      "reading": "じびか",
+      "meaning": "otorrinolaringología",
+      "parts": [
+        "じ",
+        "び",
+        "か"
+      ]
+    },
+    {
+      "word": "耳元",
+      "reading": "みみもと",
+      "meaning": "junto al oído",
+      "parts": [
+        "みみ",
+        "もと"
+      ]
+    },
+    {
+      "word": "耳鳴り",
+      "reading": "みみなり",
+      "meaning": "zumbido de oídos",
+      "parts": [
+        "みみ",
+        "な",
+        "り"
+      ]
+    }
+  ],
+  "K0115": [
+    {
+      "word": "上手",
+      "reading": "じょうず",
+      "meaning": "hábil"
+    },
+    {
+      "word": "下手",
+      "reading": "へた",
+      "meaning": "poco hábil"
+    },
+    {
+      "word": "手伝う",
+      "reading": "てつだう",
+      "meaning": "ayudar"
+    },
+    {
+      "word": "苦手",
+      "reading": "にがて",
+      "meaning": "no darse bien"
+    },
+    {
+      "word": "手",
+      "reading": "て",
+      "meaning": "mano"
+    }
+  ],
+  "K0116": [
+    {
+      "word": "足",
+      "reading": "あし",
+      "meaning": "pie / pierna"
+    },
+    {
+      "word": "土足",
+      "reading": "どそく",
+      "meaning": "calzado puesto en interiores",
+      "parts": [
+        "ど",
+        "そく"
+      ]
+    },
+    {
+      "word": "左足",
+      "reading": "ひだりあし",
+      "meaning": "pie izquierdo",
+      "parts": [
+        "ひだり",
+        "あし"
+      ]
+    },
+    {
+      "word": "右足",
+      "reading": "みぎあし",
+      "meaning": "pie derecho",
+      "parts": [
+        "みぎ",
+        "あし"
+      ]
+    },
+    {
+      "word": "足りる",
+      "reading": "たりる",
+      "meaning": "ser suficiente"
+    }
+  ],
+  "K0117": [
+    {
+      "word": "体",
+      "reading": "からだ",
+      "meaning": "cuerpo"
+    },
+    {
+      "word": "体力",
+      "reading": "たいりょく",
+      "meaning": "fuerza física",
+      "parts": [
+        "たい",
+        "りょく"
+      ]
+    },
+    {
+      "word": "体温",
+      "reading": "たいおん",
+      "meaning": "temperatura corporal",
+      "parts": [
+        "たい",
+        "おん"
+      ]
+    },
+    {
+      "word": "体調",
+      "reading": "たいちょう",
+      "meaning": "estado físico",
+      "parts": [
+        "たい",
+        "ちょう"
+      ]
+    }
+  ],
+  "K0118": [
+    {
+      "word": "中心",
+      "reading": "ちゅうしん",
+      "meaning": "centro",
+      "parts": [
+        "ちゅう",
+        "しん"
+      ]
+    },
+    {
+      "word": "安心",
+      "reading": "あんしん",
+      "meaning": "tranquilidad",
+      "parts": [
+        "あん",
+        "しん"
+      ]
+    },
+    {
+      "word": "心配",
+      "reading": "しんぱい",
+      "meaning": "preocupación",
+      "parts": [
+        "しん",
+        "ぱい"
+      ]
+    }
+  ],
+  "K0119": [
+    {
+      "word": "体力",
+      "reading": "たいりょく",
+      "meaning": "fuerza física",
+      "parts": [
+        "たい",
+        "りょく"
+      ]
+    },
+    {
+      "word": "力持ち",
+      "reading": "ちからもち",
+      "meaning": "persona fuerte",
+      "parts": [
+        "ちから",
+        "も",
+        "ち"
+      ]
+    },
+    {
+      "word": "力仕事",
+      "reading": "ちからしごと",
+      "meaning": "trabajo físico",
+      "parts": [
+        "ちから",
+        "し",
+        "ごと"
+      ]
+    },
+    {
+      "word": "能力",
+      "reading": "のうりょく",
+      "meaning": "capacidad",
+      "parts": [
+        "のう",
+        "りょく"
+      ]
+    }
+  ],
+  "K0120": [
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaning": "sano / animado"
+    },
+    {
+      "word": "天気",
+      "reading": "てんき",
+      "meaning": "clima"
+    },
+    {
+      "word": "病気になる",
+      "reading": "びょうきになる",
+      "meaning": "enfermarse"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaning": "popularidad",
+      "parts": [
+        "にん",
+        "き"
+      ]
+    },
+    {
+      "word": "電気",
+      "reading": "でんき",
+      "meaning": "electricidad",
+      "parts": [
+        "でん",
+        "き"
+      ]
+    }
+  ],
+  "K0121": [
+    {
+      "word": "病院",
+      "reading": "びょういん",
+      "meaning": "hospital"
+    },
+    {
+      "word": "病気になる",
+      "reading": "びょうきになる",
+      "meaning": "enfermarse"
+    },
+    {
+      "word": "病気",
+      "reading": "びょうき",
+      "meaning": "enfermedad",
+      "parts": [
+        "びょう",
+        "き"
+      ]
+    },
+    {
+      "word": "病人",
+      "reading": "びょうにん",
+      "meaning": "enfermo; paciente",
+      "parts": [
+        "びょう",
+        "にん"
+      ]
+    }
+  ],
+  "K0122": [
+    {
+      "word": "病院",
+      "reading": "びょういん",
+      "meaning": "hospital"
+    },
+    {
+      "word": "入院",
+      "reading": "にゅういん",
+      "meaning": "hospitalización",
+      "parts": [
+        "にゅう",
+        "いん"
+      ]
+    },
+    {
+      "word": "医院",
+      "reading": "いいん",
+      "meaning": "consultorio médico",
+      "parts": [
+        "い",
+        "いん"
+      ]
+    }
+  ],
+  "K0123": [
+    {
+      "word": "医者",
+      "reading": "いしゃ",
+      "meaning": "médico"
+    },
+    {
+      "word": "医院",
+      "reading": "いいん",
+      "meaning": "consultorio médico",
+      "parts": [
+        "い",
+        "いん"
+      ]
+    },
+    {
+      "word": "医学",
+      "reading": "いがく",
+      "meaning": "medicina como ciencia",
+      "parts": [
+        "い",
+        "がく"
+      ]
+    }
+  ],
+  "K0124": [
+    {
+      "word": "薬局",
+      "reading": "やっきょく",
+      "meaning": "farmacia"
+    },
+    {
+      "word": "薬",
+      "reading": "くすり",
+      "meaning": "medicamento"
+    },
+    {
+      "word": "目薬",
+      "reading": "めぐすり",
+      "meaning": "gotas para los ojos",
+      "parts": [
+        "め",
+        "ぐすり"
+      ]
+    },
+    {
+      "word": "薬屋",
+      "reading": "くすりや",
+      "meaning": "farmacia; tienda de medicamentos",
+      "parts": [
+        "くすり",
+        "や"
+      ]
+    }
+  ],
+  "K0125": [
+    {
+      "word": "雨",
+      "reading": "あめ",
+      "meaning": "lluvia"
+    },
+    {
+      "word": "雨の日",
+      "reading": "あめのひ",
+      "meaning": "día lluvioso",
+      "parts": [
+        "あめ",
+        "の",
+        "ひ"
+      ]
+    },
+    {
+      "word": "大雨",
+      "reading": "おおあめ",
+      "meaning": "lluvia fuerte",
+      "parts": [
+        "おお",
+        "あめ"
+      ]
+    },
+    {
+      "word": "雨水",
+      "reading": "あまみず",
+      "meaning": "agua de lluvia",
+      "parts": [
+        "あま",
+        "みず"
+      ]
+    }
+  ],
+  "K0126": [
+    {
+      "word": "雪",
+      "reading": "ゆき",
+      "meaning": "nieve"
+    },
+    {
+      "word": "雪国",
+      "reading": "ゆきぐに",
+      "meaning": "región nevada",
+      "parts": [
+        "ゆき",
+        "ぐに"
+      ]
+    },
+    {
+      "word": "大雪",
+      "reading": "おおゆき",
+      "meaning": "nevada fuerte",
+      "parts": [
+        "おお",
+        "ゆき"
+      ]
+    },
+    {
+      "word": "雪山",
+      "reading": "ゆきやま",
+      "meaning": "montaña nevada",
+      "parts": [
+        "ゆき",
+        "やま"
+      ]
+    }
+  ],
+  "K0127": [
+    {
+      "word": "風",
+      "reading": "かぜ",
+      "meaning": "viento"
+    },
+    {
+      "word": "風邪",
+      "reading": "かぜ",
+      "meaning": "resfriado"
+    },
+    {
+      "word": "台風",
+      "reading": "たいふう",
+      "meaning": "tifón",
+      "parts": [
+        "たい",
+        "ふう"
+      ]
+    },
+    {
+      "word": "風景",
+      "reading": "ふうけい",
+      "meaning": "paisaje",
+      "parts": [
+        "ふう",
+        "けい"
+      ]
+    }
+  ],
+  "K0128": [
+    {
+      "word": "天ぷら",
+      "reading": "てんぷら",
+      "meaning": "tempura"
+    },
+    {
+      "word": "天気",
+      "reading": "てんき",
+      "meaning": "clima"
+    },
+    {
+      "word": "天国",
+      "reading": "てんごく",
+      "meaning": "cielo; paraíso",
+      "parts": [
+        "てん",
+        "ごく"
+      ]
+    },
+    {
+      "word": "天才",
+      "reading": "てんさい",
+      "meaning": "genio",
+      "parts": [
+        "てん",
+        "さい"
+      ]
+    }
+  ],
+  "K0129": [
+    {
+      "word": "空港",
+      "reading": "くうこう",
+      "meaning": "aeropuerto"
+    },
+    {
+      "word": "夜空",
+      "reading": "よぞら",
+      "meaning": "cielo nocturno",
+      "parts": [
+        "よ",
+        "ぞら"
+      ]
+    },
+    {
+      "word": "青空",
+      "reading": "あおぞら",
+      "meaning": "cielo azul",
+      "parts": [
+        "あお",
+        "ぞら"
+      ]
+    },
+    {
+      "word": "空気",
+      "reading": "くうき",
+      "meaning": "aire",
+      "parts": [
+        "くう",
+        "き"
+      ]
+    }
+  ],
+  "K0130": [
+    {
+      "word": "火山",
+      "reading": "かざん",
+      "meaning": "volcán",
+      "parts": [
+        "か",
+        "ざん"
+      ]
+    },
+    {
+      "word": "山道",
+      "reading": "やまみち",
+      "meaning": "camino de montaña",
+      "parts": [
+        "やま",
+        "みち"
+      ]
+    },
+    {
+      "word": "雪山",
+      "reading": "ゆきやま",
+      "meaning": "montaña nevada",
+      "parts": [
+        "ゆき",
+        "やま"
+      ]
+    },
+    {
+      "word": "登山",
+      "reading": "とざん",
+      "meaning": "montañismo",
+      "parts": [
+        "と",
+        "ざん"
+      ]
+    }
+  ],
+  "K0131": [
+    {
+      "word": "小川",
+      "reading": "おがわ",
+      "meaning": "arroyo",
+      "parts": [
+        "お",
+        "がわ"
+      ]
+    },
+    {
+      "word": "川辺",
+      "reading": "かわべ",
+      "meaning": "orilla del río",
+      "parts": [
+        "かわ",
+        "べ"
+      ]
+    },
+    {
+      "word": "河川",
+      "reading": "かせん",
+      "meaning": "ríos; cursos fluviales",
+      "parts": [
+        "か",
+        "せん"
+      ]
+    }
+  ],
+  "K0132": [
+    {
+      "word": "北海道",
+      "reading": "ほっかいどう",
+      "meaning": "Hokkaidō",
+      "parts": [
+        "ほっ",
+        "かい",
+        "どう"
+      ]
+    },
+    {
+      "word": "海外",
+      "reading": "かいがい",
+      "meaning": "extranjero; ultramar",
+      "parts": [
+        "かい",
+        "がい"
+      ]
+    },
+    {
+      "word": "海水",
+      "reading": "かいすい",
+      "meaning": "agua de mar",
+      "parts": [
+        "かい",
+        "すい"
+      ]
+    },
+    {
+      "word": "海岸",
+      "reading": "かいがん",
+      "meaning": "costa",
+      "parts": [
+        "かい",
+        "がん"
+      ]
+    }
+  ],
+  "K0133": [
+    {
+      "word": "田んぼ",
+      "reading": "たんぼ",
+      "meaning": "arrozal"
+    },
+    {
+      "word": "田舎",
+      "reading": "いなか",
+      "meaning": "campo; zona rural"
+    },
+    {
+      "word": "水田",
+      "reading": "すいでん",
+      "meaning": "arrozal irrigado",
+      "parts": [
+        "すい",
+        "でん"
+      ]
+    }
+  ],
+  "K0134": [
+    {
+      "word": "花火",
+      "reading": "はなび",
+      "meaning": "fuegos artificiales",
+      "parts": [
+        "はな",
+        "び"
+      ]
+    },
+    {
+      "word": "花屋",
+      "reading": "はなや",
+      "meaning": "florería",
+      "parts": [
+        "はな",
+        "や"
+      ]
+    },
+    {
+      "word": "花見",
+      "reading": "はなみ",
+      "meaning": "contemplación de flores",
+      "parts": [
+        "はな",
+        "み"
+      ]
+    }
+  ],
+  "K0135": [
+    {
+      "word": "犬",
+      "reading": "いぬ",
+      "meaning": "perro"
+    },
+    {
+      "word": "子犬",
+      "reading": "こいぬ",
+      "meaning": "cachorro",
+      "parts": [
+        "こ",
+        "いぬ"
+      ]
+    },
+    {
+      "word": "犬小屋",
+      "reading": "いぬごや",
+      "meaning": "caseta de perro",
+      "parts": [
+        "いぬ",
+        "ご",
+        "や"
+      ]
+    },
+    {
+      "word": "野犬",
+      "reading": "やけん",
+      "meaning": "perro callejero",
+      "parts": [
+        "や",
+        "けん"
+      ]
+    }
+  ],
+  "K0136": [
+    {
+      "word": "猫",
+      "reading": "ねこ",
+      "meaning": "gato"
+    },
+    {
+      "word": "子猫",
+      "reading": "こねこ",
+      "meaning": "gatito",
+      "parts": [
+        "こ",
+        "ねこ"
+      ]
+    },
+    {
+      "word": "黒猫",
+      "reading": "くろねこ",
+      "meaning": "gato negro",
+      "parts": [
+        "くろ",
+        "ねこ"
+      ]
+    },
+    {
+      "word": "猫舌",
+      "reading": "ねこじた",
+      "meaning": "sensibilidad a comida caliente",
+      "parts": [
+        "ねこ",
+        "じた"
+      ]
+    }
+  ],
+  "K0137": [
+    {
+      "word": "魚",
+      "reading": "さかな",
+      "meaning": "pez / pescado"
+    },
+    {
+      "word": "焼き魚",
+      "reading": "やきざかな",
+      "meaning": "pescado a la parrilla"
+    },
+    {
+      "word": "魚屋",
+      "reading": "さかなや",
+      "meaning": "pescadería",
+      "parts": [
+        "さかな",
+        "や"
+      ]
+    },
+    {
+      "word": "金魚",
+      "reading": "きんぎょ",
+      "meaning": "pez dorado",
+      "parts": [
+        "きん",
+        "ぎょ"
+      ]
+    }
+  ],
+  "K0138": [
+    {
+      "word": "鳥",
+      "reading": "とり",
+      "meaning": "pájaro"
+    },
+    {
+      "word": "白鳥",
+      "reading": "はくちょう",
+      "meaning": "cisne",
+      "parts": [
+        "はく",
+        "ちょう"
+      ]
+    },
+    {
+      "word": "小鳥",
+      "reading": "ことり",
+      "meaning": "pajarito",
+      "parts": [
+        "こ",
+        "とり"
+      ]
+    },
+    {
+      "word": "鳥肉",
+      "reading": "とりにく",
+      "meaning": "carne de ave",
+      "parts": [
+        "とり",
+        "にく"
+      ]
+    }
+  ],
+  "K0139": [
+    {
+      "word": "肉",
+      "reading": "にく",
+      "meaning": "carne"
+    },
+    {
+      "word": "鳥肉",
+      "reading": "とりにく",
+      "meaning": "carne de ave",
+      "parts": [
+        "とり",
+        "にく"
+      ]
+    },
+    {
+      "word": "牛肉",
+      "reading": "ぎゅうにく",
+      "meaning": "carne de res",
+      "parts": [
+        "ぎゅう",
+        "にく"
+      ]
+    },
+    {
+      "word": "豚肉",
+      "reading": "ぶたにく",
+      "meaning": "carne de cerdo",
+      "parts": [
+        "ぶた",
+        "にく"
+      ]
+    },
+    {
+      "word": "肉屋",
+      "reading": "にくや",
+      "meaning": "carnicería",
+      "parts": [
+        "にく",
+        "や"
+      ]
+    }
+  ],
+  "K0140": [
+    {
+      "word": "牛",
+      "reading": "うし",
+      "meaning": "vaca"
+    },
+    {
+      "word": "牛乳",
+      "reading": "ぎゅうにゅう",
+      "meaning": "leche"
+    },
+    {
+      "word": "牛肉",
+      "reading": "ぎゅうにく",
+      "meaning": "carne de res",
+      "parts": [
+        "ぎゅう",
+        "にく"
+      ]
+    },
+    {
+      "word": "子牛",
+      "reading": "こうし",
+      "meaning": "ternero",
+      "parts": [
+        "こ",
+        "うし"
+      ]
+    }
+  ],
+  "K0141": [
+    {
+      "word": "馬",
+      "reading": "うま",
+      "meaning": "caballo"
+    },
+    {
+      "word": "馬車",
+      "reading": "ばしゃ",
+      "meaning": "carruaje",
+      "parts": [
+        "ば",
+        "しゃ"
+      ]
+    },
+    {
+      "word": "乗馬",
+      "reading": "じょうば",
+      "meaning": "equitación",
+      "parts": [
+        "じょう",
+        "ば"
+      ]
+    },
+    {
+      "word": "競馬",
+      "reading": "けいば",
+      "meaning": "carreras de caballos",
+      "parts": [
+        "けい",
+        "ば"
+      ]
+    }
+  ],
+  "K0142": [
+    {
+      "word": "何時",
+      "reading": "なんじ",
+      "meaning": "qué hora",
+      "parts": [
+        "なん",
+        "じ"
+      ]
+    },
+    {
+      "word": "何人",
+      "reading": "なんにん",
+      "meaning": "cuántas personas",
+      "parts": [
+        "なん",
+        "にん"
+      ]
+    },
+    {
+      "word": "何月",
+      "reading": "なんがつ",
+      "meaning": "qué mes",
+      "parts": [
+        "なん",
+        "がつ"
+      ]
+    }
+  ],
+  "K0143": [
+    {
+      "word": "同じ",
+      "reading": "おなじ",
+      "meaning": "igual",
+      "parts": [
+        "おな",
+        "じ"
+      ]
+    },
+    {
+      "word": "同時",
+      "reading": "どうじ",
+      "meaning": "al mismo tiempo",
+      "parts": [
+        "どう",
+        "じ"
+      ]
+    },
+    {
+      "word": "同級生",
+      "reading": "どうきゅうせい",
+      "meaning": "compañero de clase",
+      "parts": [
+        "どう",
+        "きゅう",
+        "せい"
+      ]
+    }
+  ],
+  "K0144": [
+    {
+      "word": "近い",
+      "reading": "ちかい",
+      "meaning": "cercano"
+    },
+    {
+      "word": "近く",
+      "reading": "ちかく",
+      "meaning": "cerca"
+    },
+    {
+      "word": "近所",
+      "reading": "きんじょ",
+      "meaning": "vecindario",
+      "parts": [
+        "きん",
+        "じょ"
+      ]
+    },
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "meaning": "últimamente",
+      "parts": [
+        "さい",
+        "きん"
+      ]
+    }
+  ],
+  "K0145": [
+    {
+      "word": "遠い",
+      "reading": "とおい",
+      "meaning": "lejano"
+    },
+    {
+      "word": "遠足",
+      "reading": "えんそく",
+      "meaning": "excursión escolar",
+      "parts": [
+        "えん",
+        "そく"
+      ]
+    },
+    {
+      "word": "遠慮",
+      "reading": "えんりょ",
+      "meaning": "reserva; moderación",
+      "parts": [
+        "えん",
+        "りょ"
+      ]
+    }
+  ],
+  "K0146": [
+    {
+      "word": "好き",
+      "reading": "すき",
+      "meaning": "gustar / favorito"
+    },
+    {
+      "word": "大好き",
+      "reading": "だいすき",
+      "meaning": "gustar mucho",
+      "parts": [
+        "だい",
+        "す",
+        "き"
+      ]
+    },
+    {
+      "word": "好物",
+      "reading": "こうぶつ",
+      "meaning": "comida favorita",
+      "parts": [
+        "こう",
+        "ぶつ"
+      ]
+    }
+  ],
+  "K0147": [
+    {
+      "word": "思う",
+      "reading": "おもう",
+      "meaning": "opinar / creer"
+    },
+    {
+      "word": "思い出",
+      "reading": "おもいで",
+      "meaning": "recuerdo",
+      "parts": [
+        "おも",
+        "い",
+        "で"
+      ]
+    },
+    {
+      "word": "不思議",
+      "reading": "ふしぎ",
+      "meaning": "misterioso",
+      "parts": [
+        "ふ",
+        "し",
+        "ぎ"
+      ]
+    }
+  ],
+  "K0148": [
+    {
+      "word": "知る",
+      "reading": "しる",
+      "meaning": "saber / conocer"
+    },
+    {
+      "word": "知人",
+      "reading": "ちじん",
+      "meaning": "conocido",
+      "parts": [
+        "ち",
+        "じん"
+      ]
+    },
+    {
+      "word": "知識",
+      "reading": "ちしき",
+      "meaning": "conocimiento",
+      "parts": [
+        "ち",
+        "しき"
+      ]
+    }
+  ],
+  "K0149": [
+    {
+      "word": "作る",
+      "reading": "つくる",
+      "meaning": "hacer / fabricar"
+    },
+    {
+      "word": "作文",
+      "reading": "さくぶん",
+      "meaning": "redacción",
+      "parts": [
+        "さく",
+        "ぶん"
+      ]
+    },
+    {
+      "word": "作品",
+      "reading": "さくひん",
+      "meaning": "obra; creación",
+      "parts": [
+        "さく",
+        "ひん"
+      ]
+    }
+  ],
+  "K0150": [
+    {
+      "word": "使う",
+      "reading": "つかう",
+      "meaning": "usar"
+    },
+    {
+      "word": "使用",
+      "reading": "しよう",
+      "meaning": "uso",
+      "parts": [
+        "し",
+        "よう"
+      ]
+    },
+    {
+      "word": "使い方",
+      "reading": "つかいかた",
+      "meaning": "manera de usar",
+      "parts": [
+        "つか",
+        "い",
+        "かた"
+      ]
+    }
+  ]
+}
