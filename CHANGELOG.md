@@ -11,3 +11,10 @@
 - Importación preserva dominio, hitos de vuelo y preferencias de audio.
 - Guardado local tras aciertos y cambios; sin sincronización remota.
 - No cambia la fórmula del avión ni las metas.
+
+## v8.3.5 — Ampliación gradual de vocabulario N5
+- 42 palabras nuevas del PDF del usuario, tras deduplicación y corrección de erratas.
+- 33 palabras adicionales frecuentes de listas de estudio N5.
+- Conservados los 384 registros originales y sus identificadores.
+- Sin cambios en la lógica de progreso, ejercicios, audio, respaldos ni navegación.
+- JLPT N5 es orientativo, no una lista oficial de vocabulario.
