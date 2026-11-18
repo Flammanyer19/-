@@ -1,3 +1,10 @@
+## 8.3.8 — Entrenador de conjugaciones
+- Ficha interactiva: elegir forma, revelar u ocultar respuesta y pasar a la siguiente.
+- Autocomprobación del grupo gramatical.
+- Tabla completa de conjugaciones plegada para consulta.
+- Se mantienen intactas las 16 ilustraciones de estilo suave y los datos y progreso anteriores.
+- Sin cambios de estructura de almacenamiento ni ejercicios globales.
+
 ## 8.3.7 — Ilustraciones locales para verbos (fase 2)
 - 16 ilustraciones originales WebP para verbos existentes, en ocho carpetas semánticas.
 - Miniaturas en las tarjetas y una imagen grande en la ficha del verbo.
