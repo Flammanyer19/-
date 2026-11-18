@@ -1,3 +1,11 @@
+## 8.3.9 — Lecturas, contraste y fichas en contexto
+- Cinco conjugaciones visibles sin desplegar nada, cada una con lectura en hiragana.
+- La ficha aparece en la cuadrícula justo debajo del verbo seleccionado, sin saltar al inicio de la biblioteca.
+- Se mantiene la posición vertical del verbo pulsado.
+- Contraste reforzado en fichas de conjugación y paneles claros.
+- El entrenador de memoria sigue disponible, pero es opcional y plegable.
+- Sin cambios en progreso, datos de verbos ni ilustraciones.
+
 ## 8.3.8 — Entrenador de conjugaciones
 - Ficha interactiva: elegir forma, revelar u ocultar respuesta y pasar a la siguiente.
 - Autocomprobación del grupo gramatical.

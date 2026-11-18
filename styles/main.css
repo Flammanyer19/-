@@ -97,3 +97,24 @@ body.practice-active main{padding-bottom:calc(24px + env(safe-area-inset-bottom)
 .verb-training-result{font-size:1.5rem;font-weight:700;line-height:1.5}
 .verb-group-check{border-top:1px solid rgba(128,128,128,.2);margin-top:14px;padding-top:12px}
 .verb-forms-reference{margin:14px 0}.verb-forms-reference summary{cursor:pointer;font-weight:600;padding:10px 0}
+
+/* 8.3.9: lectura y conjugaciones visibles, contraste accesible y ficha contextual */
+.verb-grid>.verb-detail{grid-column:1/-1;min-width:0;margin:2px 0 12px;animation:none}
+.verb-forms-reference{margin:18px 0;text-align:left}
+.verb-forms-reference h3{margin:0 0 12px;color:#f5dfb2}
+.verb-form{background:#243952;color:#f6f9ff;border:1px solid #4b6483;gap:5px}
+.verb-form b{color:#e9d397;font-weight:800}
+.verb-form>span:not(.verb-form-reading){font-size:1.18rem;font-weight:750;color:#fff}
+.verb-form .verb-form-reading{font-size:.95rem;color:#e4ecfa;line-height:1.5}
+.verb-training{background:#223650;color:#f3f7ff;border:1px solid #637c9c;text-align:left}
+.verb-training summary{cursor:pointer;font-weight:800;color:#f8e0ac;line-height:1.5}
+.verb-training-inner{margin-top:12px}
+.verb-training-answer{background:#13243a;color:#fff;flex-direction:column;gap:5px}
+.verb-training-reading{color:#e5efff;font-size:1rem}
+.verb-pill{color:#fff;background:#354b65}
+/* Text inside cream/yellow boxes must never inherit the dark-page foreground. */
+.particle-note,.particle-note p,.particle-note li,.particle-note strong{color:#402d18}
+.particle-intro,.particle-intro p,.particle-intro li,.particle-intro strong{color:#26354e}
+.particle-intro-example,.particle-intro-example p,.particle-intro-example strong{color:#26354e}
+.kana-kanji,.kana-kanji small,.kana-kanji strong{color:#553b20}
+@media(max-width:420px){.verb-forms{grid-template-columns:repeat(2,minmax(0,1fr))}.verb-form{padding:10px 8px}}
