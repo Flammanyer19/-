@@ -1,3 +1,10 @@
+## 8.3.7 — Ilustraciones locales para verbos (fase 2)
+- 16 ilustraciones originales WebP para verbos existentes, en ocho carpetas semánticas.
+- Miniaturas en las tarjetas y una imagen grande en la ficha del verbo.
+- Los otros 84 verbos mantienen su ficha y muestran un indicador discreto de imagen pendiente.
+- Las imágenes se precargan en la caché del servicio para estudiar sin conexión.
+- Sin modificaciones de la base de datos, identificadores, progreso, audio o conjugaciones.
+
 # 8.3.4.2
 - Botón para regresar al menú de hiragana o katakana al finalizar una práctica, conservando los filtros.
 - Integración de historial de navegación con el gesto Atrás de Safari mediante pushState/popstate.
@@ -18,3 +25,10 @@
 - Conservados los 384 registros originales y sus identificadores.
 - Sin cambios en la lógica de progreso, ejercicios, audio, respaldos ni navegación.
 - JLPT N5 es orientativo, no una lista oficial de vocabulario.
+
+## 8.3.6 — Biblioteca visual de verbos (fase 1)
+- Biblioteca de 100 verbos con filtros combinados por grupo gramatical (1/2/3) y ocho campos semánticos.
+- Clasificación múltiple por etiquetas, sin duplicar registros ni modificar sus identificadores.
+- Cuadrícula compacta, búsqueda y ficha individual con conjugaciones existentes.
+- Espacio de ilustración y carpetas preparadas; imágenes reales reservadas para la siguiente etapa.
+- Conserva clave localStorage `rito_v5`, sesiones, audio, respaldos y prácticas existentes.
